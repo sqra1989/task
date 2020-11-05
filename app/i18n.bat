@@ -1,0 +1,1 @@
+console\cake i18n extract --exclude DebugKit,tcpdf --overwrite --extract-core no

@@ -1,0 +1,34 @@
+@media screen {
+    body {
+        padding: 20px;
+    }
+}
+
+@media print, screen {
+    * {
+        -webkit-print-color-adjust: exact !important;
+    }
+    .container {
+        width: 100%;
+    }
+    tr.even > td, tr.even > th {
+        background-color: #E6E6E6 !important;
+    }
+    .label {
+        border: none !important;
+        font-size: 15px;
+        border-radius: 0;
+        margin-bottom: 5px !important;
+    }
+    .label-success {
+        background-color: #28b62c !important;
+        color: #ffffff !important;
+    }
+    .table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+        background: #fff;
+    }
+
+    .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+        padding: 4px !important;
+    }
+}

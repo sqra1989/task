@@ -1,0 +1,30 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:235
+#: Plugin/Utils/View/Helper/PlaceHelper.php:158
+msgid "Server lipsum.com returns error code %s."
+msgstr ""
+
+#: Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:249;255
+#: Plugin/Utils/View/Helper/PlaceHelper.php:170
+msgid "Response from lipsum.com is empty or could not be decoded."
+msgstr ""
+
+#: Plugin/Utils/Test/Case/View/Helper/PlaceHelperTest.php:290
+#: Plugin/Utils/View/Helper/PlaceHelper.php:196
+msgid "Connection to server lipsum.com failed. %s."
+msgstr ""
+

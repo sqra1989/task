@@ -1,0 +1,11 @@
+{
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "phpoffice/phpword": "^0.15.0",
+        "gears/pdf": "*",
+        "dompdf/dompdf": "^0.8.2",
+        "php-unoconv/php-unoconv": "^0.3.0"
+    }
+}

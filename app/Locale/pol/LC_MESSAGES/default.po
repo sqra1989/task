@@ -1,0 +1,5418 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Stolarz\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-01-28 14:18+0100\n"
+"Last-Translator: Krzysztof Błachowicz <krzysztof.blachowicz@itdesk.eu>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#: Config/bootstrap.php:206
+msgid "Aktywny"
+msgstr ""
+
+#: Config/bootstrap.php:207
+msgid "Nieaktywny"
+msgstr ""
+
+#: Config/bootstrap.php:211
+msgid "TERM 1"
+msgstr ""
+
+#: Config/bootstrap.php:212
+msgid "TERM 2"
+msgstr ""
+
+#: Config/bootstrap.php:213
+msgid "TERM 3"
+msgstr ""
+
+#: Console/Templates/metronic/views/form.ctp:59 View/Users/add.ctp:19
+#: View/Users/edit.ctp:12 View/Users/edit_b2b.ctp:10
+msgid "Personal Informations"
+msgstr "Informacje podstawowe"
+
+#: Controller/AjaxController.php:142
+msgid "Kontakt"
+msgstr ""
+
+#: Controller/AjaxController.php:150
+msgid ""
+"Dziękujemy za wypełnienie formularza kontaktowego. Wkrótce się z Tobą "
+"skontaktujemy."
+msgstr ""
+
+#: Controller/AjaxController.php:152
+#: Controller/QuestionnairesController.php:3012
+msgid "wypełnij prawidłowo wszystkie dane"
+msgstr ""
+
+#: Controller/AjaxController.php:155
+msgid "brak danych"
+msgstr ""
+
+#: Controller/AppController.php:240
+msgid "Zmiana statusu twojego wniosku"
+msgstr ""
+
+#: Controller/AppController.php:249;320
+msgid "Zmiana statusu w "
+msgstr ""
+
+#: Controller/AppController.php:252
+msgid "Zmiana statusu twojego wniosku. "
+msgstr ""
+
+#: Controller/AppController.php:310
+msgid "Zmiana statusu twojego konta"
+msgstr ""
+
+#: Controller/AppController.php:324
+msgid "Zmiana statusu twojego konta "
+msgstr ""
+
+#: Controller/CmspagesController.php:151;244;345
+msgid "Invalid cmspage"
+msgstr ""
+
+#: Controller/CmspagesController.php:182
+msgid "Musisz się zalogować, aby przeglądać zawartość tego wpisu"
+msgstr ""
+
+#: Controller/CmspagesController.php:207
+msgid "Błąd. nie wszystkie zdjęcia zostały przesłane poprawnie"
+msgstr ""
+
+#: Controller/CmspagesController.php:209
+msgid "Poprawnie przesłano wszystkie zdjęcia"
+msgstr ""
+
+#: Controller/CmspagesController.php:225
+msgid "The cmspage has been saved."
+msgstr ""
+
+#: Controller/CmspagesController.php:228;309
+msgid "The cmspage could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CmspagesController.php:306
+msgid "Zapisano poprawnie."
+msgstr ""
+
+#: Controller/CmspagesController.php:349
+msgid "The cmspage has been deleted."
+msgstr ""
+
+#: Controller/CmspagesController.php:351
+msgid "The cmspage could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DocumentsController.php:36;67;128;181
+msgid "Invalid document"
+msgstr ""
+
+#: Controller/DocumentsController.php:39
+msgid "not allowed document"
+msgstr ""
+
+#: Controller/DocumentsController.php:90
+msgid "Dodaj plik."
+msgstr ""
+
+#: Controller/DocumentsController.php:103
+msgid "Plik dodany."
+msgstr ""
+
+#: Controller/DocumentsController.php:107
+msgid "Bład przy wysyłaniu pliku."
+msgstr ""
+
+#: Controller/DocumentsController.php:111;161
+msgid "The document could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DocumentsController.php:151
+msgid "Plik podmieniony."
+msgstr ""
+
+#: Controller/DocumentsController.php:154
+msgid "File upload error."
+msgstr ""
+
+#: Controller/DocumentsController.php:158 Controller/UsersController.php:902
+msgid "Zapisano zmiany."
+msgstr ""
+
+#: Controller/DocumentsController.php:195
+msgid "The document has been deleted."
+msgstr ""
+
+#: Controller/DocumentsController.php:197
+msgid "The document could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PackagesController.php:88
+msgid "paymentstatus"
+msgstr ""
+
+#: Controller/PackagesController.php:97
+msgid "Zmieniono status płatności na "
+msgstr ""
+
+#: Controller/PackagesController.php:188
+msgid "Payment create error."
+msgstr ""
+
+#: Controller/PackagesController.php:221;256;283
+msgid "Invalid package"
+msgstr ""
+
+#: Controller/PackagesController.php:260
+msgid "The package has been saved."
+msgstr ""
+
+#: Controller/PackagesController.php:263
+msgid "The package could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PackagesController.php:287
+msgid "The package has been deleted."
+msgstr ""
+
+#: Controller/PackagesController.php:289
+msgid "The package could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PagegroupsController.php:100;148;176
+msgid "Invalid pagegroup"
+msgstr ""
+
+#: Controller/PagegroupsController.php:108
+msgid "Only for B2B"
+msgstr ""
+
+#: Controller/PagegroupsController.php:129;153
+msgid "The pagegroup has been saved."
+msgstr ""
+
+#: Controller/PagegroupsController.php:132;156
+msgid "The pagegroup could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagegroupsController.php:180
+msgid "The pagegroup has been deleted."
+msgstr ""
+
+#: Controller/PagegroupsController.php:182
+msgid "The pagegroup could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:816
+msgid "Nie masz dostępnu do tego pdf."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:906
+msgid "Taki wniosek już istnieje."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:966
+msgid "Utworzono nowy wniosek."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:969;1297;1316
+msgid "Błąd."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1036;1585
+msgid "Sprawdź swój wniosek ponieważ zawiera błędy"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1062;1100;1161;1214;1413;1501;1527;1569;1715;2705;2732;2817;2873
+msgid "Błąd. Brak takiego wniosku"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1072;1136;1247;1437;1513;1532;1543;1581;2712;2782;2891
+msgid "Błąd. Brak takiego wniosku dla tego użytkownika"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1076
+#: View/Questionnaires/view.ctp:153
+msgid "Zapłacony"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1147
+msgid "Popraw wniosek."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1150;1259
+msgid "błąd."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1187
+msgid "Zweryfikowano konto poprzez płatność przelewem"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1198
+#: View/Users/upload_certyficate.ctp:80 View/Users/verify.ctp:96
+msgid "Konto zweryfikowane"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1269
+msgid "Zapłacono poprawnie za wniosek. Możesz przejść do wysyłki!"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1272
+msgid "błąd zapisu danych"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1276
+msgid "błąd. Brak tokenów do zapłaty"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1294;1313
+#: Controller/UsersController.php:567;789
+msgid "Dane zapisane."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1442;1518
+#: View/Packages/dotpaythankyou.ctp:7 View/Questionnaires/dotpaythankyou.ctp:8
+msgid "Oczekujemy na płatność"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1446
+msgid "Pobierz i wyślij dokumenty"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1478
+msgid "Elektronisch übermittelten Steuererklärung"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1482
+msgid "Błąd podczas wysyłania e-mail"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1494
+msgid "Email z dokumentami został wysłany"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1589
+msgid "Dla tego wniosku wybrano już rodzaj certyfikacji"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1611
+msgid "Wniosek nie bedzie podpisany certyfikatem"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1614;1636;1699
+msgid "Błąd zapisu"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1633
+msgid "Wniosek będzie podpisany certyfikatem SpeedTax"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1689
+msgid "Błędny plik "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1696
+msgid "Wniosek będzie podpisany własnym certyfikatem"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1706
+msgid "Błąd zapisu!"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1735
+msgid "Zapisano zmiany statusu i wysłano email."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1739
+msgid "Zapisano zaminy."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:1743;3016
+msgid "Błąd spróbuj ponownie."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2593
+msgid ""
+"Wystąpiły błędy z serwerem ELSTER podczas autentykacji użytkownika. "
+"Skontaktuj się z administratorem. Status błędu: "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2633
+msgid "Wystąpiły błędy. Skontaktuj się z administratorem "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2638
+msgid ""
+"Wystąpiły błędy z serwerem ELSTER. Skontaktuj się z administratorem. Status "
+"błędu: "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2643;2654
+msgid "Błędy przy wypełnieniu wniosku "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2644
+msgid "Brak odpowiedzi z Elstera. Popraw wniosek."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2655
+msgid "Wystąpiły błędy. Popraw wniosek"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2660
+msgid "Poprawna weryfikacja wniosku "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2663
+msgid "Poprawna weryfikacja wniosku."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2670
+msgid "Poprawnie wysłano wniosek do urzędu. Wniosek nr "
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2687
+msgid "Wniosek wysłano"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:2997;3008
+msgid "Zapisano zmiany we wniosku."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:3041
+msgid "Invalid questionnaire"
+msgstr ""
+
+#: Controller/QuestionnairesController.php:3048;3054
+msgid "The questionnaire could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairesController.php:3052
+msgid "Wniosek został usuniety."
+msgstr ""
+
+#: Controller/QuestionnairetypesController.php:90;142;232
+msgid "Invalid questionnairetype"
+msgstr ""
+
+#: Controller/QuestionnairetypesController.php:116;162
+msgid "The questionnairetype has been saved."
+msgstr ""
+
+#: Controller/QuestionnairetypesController.php:119;165
+msgid "The questionnairetype could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionnairetypesController.php:236
+msgid "The questionnairetype has been deleted."
+msgstr ""
+
+#: Controller/QuestionnairetypesController.php:238
+msgid "The questionnairetype could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:119;155;183
+msgid "Invalid role"
+msgstr ""
+
+#: Controller/RolesController.php:135;159
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:138;162
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:187
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:189
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TechnicalsController.php:84;116;141
+msgid "Invalid technical"
+msgstr ""
+
+#: Controller/TechnicalsController.php:99;120
+msgid "The technical has been saved."
+msgstr ""
+
+#: Controller/TechnicalsController.php:102;123
+msgid "The technical could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TechnicalsController.php:145
+msgid "The technical has been deleted."
+msgstr ""
+
+#: Controller/TechnicalsController.php:147
+msgid "The technical could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:449;450;511;512;846;847;942;943
+msgid "Invalid old password"
+msgstr "Nieprawidłowe stare hasło"
+
+#: Controller/UsersController.php:454;516;851;947
+msgid "Invalid new password"
+msgstr ""
+
+#: Controller/UsersController.php:483
+msgid "The profile has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:490
+msgid "The profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:572
+msgid "The user_profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:590;810;828;930;1027
+msgid "Invalid user"
+msgstr "Nieprawidłowy użytkownik"
+
+#: Controller/UsersController.php:634
+msgid ""
+"Dodano użytkownika. Email z danymi do logowania został wysłany do użytkownika"
+msgstr ""
+
+#: Controller/UsersController.php:640
+msgid "Dodano nowego użytkownika"
+msgstr ""
+
+#: Controller/UsersController.php:649
+msgid "Dodano nowego użytkownika w "
+msgstr ""
+
+#: Controller/UsersController.php:652
+msgid "Dodano nowego użytkownika "
+msgstr ""
+
+#: Controller/UsersController.php:659
+msgid "Please correct form errors."
+msgstr "Proszę poprawić błędy w formularzu"
+
+#: Controller/UsersController.php:774
+msgid "Prośba o weryfikację konta "
+msgstr ""
+
+#: Controller/UsersController.php:784
+msgid "Weryfikacja danych"
+msgstr ""
+
+#: Controller/UsersController.php:815
+msgid "Użytkownik aktywny"
+msgstr ""
+
+#: Controller/UsersController.php:908;993
+msgid "The user could not be saved. Please, try again."
+msgstr "Nie można zapisać użytkownika. Spróbuj ponownie."
+
+#: Controller/UsersController.php:987
+msgid "The user has been saved."
+msgstr "Użytkownik został zapisany."
+
+#: Controller/UsersController.php:1031
+msgid "The user has been deleted."
+msgstr "Użytkownik został usunięty."
+
+#: Controller/UsersController.php:1033
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:1210
+msgid "Zablokowana możliwość logowanie. Przekroszono limit "
+msgstr ""
+
+#: Controller/UsersController.php:1243;1246;1249
+msgid "Poprawne logowanie"
+msgstr ""
+
+#: Controller/UsersController.php:1260
+msgid "Nieprawidłowy email lub hasło"
+msgstr ""
+
+#: Controller/UsersController.php:1268
+msgid "This account has been baned"
+msgstr "Twoje konto zostało zablokowane"
+
+#: Controller/UsersController.php:1275
+msgid "Account is not activated"
+msgstr "Konto nie zostało aktywowane"
+
+#: Controller/UsersController.php:1283
+msgid "Brak użytkownika"
+msgstr ""
+
+#: Controller/UsersController.php:1341
+msgid "Wylogowałeś się z konta usera"
+msgstr ""
+
+#: Controller/UsersController.php:1346
+msgid "Wylogowałeś się"
+msgstr ""
+
+#: Controller/UsersController.php:1350
+msgid "Jesteś wylogowany"
+msgstr ""
+
+#: Controller/UsersController.php:1429
+msgid "Nowe konto ("
+msgstr ""
+
+#: Controller/UsersController.php:1445;1469 View/Users/login.ctp:56
+msgid "New account"
+msgstr "Rejestracja nowego konta"
+
+#: Controller/UsersController.php:1447
+msgid "Email z linkiem aktywacyjnym został wysłany "
+msgstr ""
+
+#: Controller/UsersController.php:1450;1453
+msgid "Dziekujemy za rejestrację"
+msgstr ""
+
+#: Controller/UsersController.php:1475
+msgid "Rejestracja przebiegłą. Czekaj na zatwierdzenie przez administratora "
+msgstr ""
+
+#: Controller/UsersController.php:1480
+msgid "Popraw błędy"
+msgstr ""
+
+#: Controller/UsersController.php:1519
+msgid "Account successfully activated, please log in"
+msgstr "Konto zostało aktywowane. Możesz się zalogować."
+
+#: Controller/UsersController.php:1522
+msgid "Błędny link."
+msgstr ""
+
+#: Controller/UsersController.php:1525
+msgid "Błędny link"
+msgstr ""
+
+#: Controller/UsersController.php:1549
+msgid "Password change request"
+msgstr "Żądanie zmiany hasła"
+
+#: Controller/UsersController.php:1552
+msgid ""
+"To set a new password, click on the link that we have sent to your e-mail "
+"address"
+msgstr "Aby zmienić hasło kliknij w link który wysłaliśmy na Twój adres e-mail"
+
+#: Controller/UsersController.php:1555
+msgid "Invalid e-mail address"
+msgstr "Nieprawidłowy adres e-mail"
+
+#: Controller/UsersController.php:1590
+msgid "Password has been changed"
+msgstr "Hasło zostało zmienione"
+
+#: Controller/UsersController.php:1595
+msgid "Invalid link"
+msgstr "Nieprawidłowy link"
+
+#: Controller/VirtualtypesController.php:50;86;113
+msgid "Invalid virtualtype"
+msgstr ""
+
+#: Controller/VirtualtypesController.php:66;90
+msgid "The virtualtype has been saved."
+msgstr ""
+
+#: Controller/VirtualtypesController.php:69;93
+msgid "The virtualtype could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VirtualtypesController.php:117
+msgid "The virtualtype has been deleted."
+msgstr ""
+
+#: Controller/VirtualtypesController.php:119
+msgid "The virtualtype could not be deleted. Please, try again."
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:80
+msgid "Plugin to process"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:83
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:88
+msgid ""
+"Add new ACOs for new controllers and actions. Does not remove nodes from the "
+"ACO table."
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:93
+msgid ""
+"Perform a full sync on the ACO table.Will create new ACOs or missing "
+"controllers and actions.Will also remove orphaned entries that no longer "
+"have a matching controller/action"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:97
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:102
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:108
+msgid "Recover a corrupted Tree"
+msgstr "Odzyskaj uszkodzone drzewo"
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:113
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:136
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:315
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:333
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:335
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:56
+msgid "Both ACOs and AROs have been dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:65
+msgid "Permissions dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:67
+msgid "Error while trying to drop permissions"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:294
+msgid "%d ACOs have been created/updated"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:368
+msgid "%d AROs have been created"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:472
+msgid "ActionAuthorizer could not be found"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:2
+msgid "Acl Manager %s"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:8
+#: Plugin/AclManager/View/Acl/permissions.ctp:71
+#: Plugin/I18n/View/Translations/admin_index.ctp:40
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:15
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:10
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:13
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:15
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:17
+#: View/Documents/add.ctp:9 View/Documents/edit.ctp:9
+#: View/Documents/view.ctp:15 View/Elements/actions/roles_index.ctp:4
+#: View/Packages/add.ctp:9 View/Packages/edit.ctp:9 View/Packages/view.ctp:15
+#: View/Roles/add.ctp:9 View/Roles/edit.ctp:9 View/Roles/view.ctp:15
+#: View/Technicals/add.ctp:9 View/Technicals/edit.ctp:9
+#: View/Technicals/view.ctp:15
+msgid "Actions"
+msgstr "Akcje"
+
+#: Plugin/AclManager/View/Acl/index.ctp:10
+#: Plugin/AclManager/View/Acl/permissions.ctp:74
+msgid "Manage permissions"
+msgstr "Zarządzaj uprawnieniami"
+
+#: Plugin/AclManager/View/Acl/index.ctp:11
+#: Plugin/AclManager/View/Acl/permissions.ctp:75
+msgid "Update ACOs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:12
+#: Plugin/AclManager/View/Acl/permissions.ctp:76
+msgid "Update AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:13
+#: Plugin/AclManager/View/Acl/permissions.ctp:77
+msgid "Drop ACOs/AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:13
+#: Plugin/AclManager/View/Acl/permissions.ctp:77
+msgid "Do you want to drop all ACOs and AROs?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:14
+#: Plugin/AclManager/View/Acl/permissions.ctp:78
+msgid "Drop permissions"
+msgstr "Usuń uprawnienia"
+
+#: Plugin/AclManager/View/Acl/index.ctp:14
+#: Plugin/AclManager/View/Acl/permissions.ctp:78
+msgid "Do you want to drop all the permissions?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:2
+msgid "%s permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:3;53
+msgid ""
+"Page %page% of %pages%, showing %current% records out of %count% total, "
+"starting on record %start%, ending on %end%"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:5;55
+msgid "previous"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:7;57
+msgid "next"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Inherit"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Allow"
+msgstr "Zezwól"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Deny"
+msgstr "Odmów"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "No change"
+msgstr "Bez zmian"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:51
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:11
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:11
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:11
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:37
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:33
+#: View/Cmspages/add.ctp:31 View/Cmspages/edit.ctp:125;175;195
+#: View/Documents/add.ctp:81 View/Documents/edit.ctp:62
+#: View/Packages/add.ctp:84 View/Packages/edit.ctp:88
+#: View/Pagegroups/add.ctp:32 View/Pagegroups/edit.ctp:72;111
+#: View/Questionnairetypes/add.ctp:56 View/Questionnairetypes/edit.ctp:66
+#: View/Roles/add.ctp:101 View/Roles/edit.ctp:101 View/Technicals/add.ctp:46
+#: View/Technicals/edit.ctp:50 View/Users/admin_add.ctp:55
+#: View/Users/admin_edit.ctp:46;73 View/Users/edit.ctp:157;199;249
+#: View/Users/edit_b2b.ctp:270;404 View/Users/profile.ctp:70;114
+#: View/Users/user_profile.ctp:190 View/Virtualtypes/add.ctp:86
+msgid "Save"
+msgstr "Zapisz"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:61
+msgid "Manage for"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:73
+msgid "< Back"
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:24
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:43
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:6
+msgid "Alert notice message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:46;62
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:10
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:6
+msgid "Alert success message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:50
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:15
+msgid "Alert error message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:66
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:11
+msgid "Alert info message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:70
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:16
+msgid "Alert warning message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:74
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:21
+msgid "Alert danger message testing..."
+msgstr ""
+
+#: Plugin/Ddatatables/Controller/DdatatablesController.php:243
+msgid "Invalid dview group"
+msgstr ""
+
+#: Plugin/Ddatatables/Controller/DdatatablesController.php:249
+msgid "The dview group has been deleted."
+msgstr ""
+
+#: Plugin/Ddatatables/Controller/DdatatablesController.php:251
+msgid "The dview group could not be deleted. Please, try again."
+msgstr ""
+
+#: Plugin/Ddatatables/Lib/DdatatableHandlerTrait.php:88
+msgid "Condition Keys Blackholed. Field %s not allowed"
+msgstr ""
+
+#: Plugin/Ddatatables/Lib/DdatatableHandlerTrait.php:112
+msgid "DataTable %s not found"
+msgstr ""
+
+#: Plugin/Ddatatables/Lib/DdatatableHandlerTrait.php:560;562
+msgid "Unknown datatable config: %s"
+msgstr ""
+
+#: Plugin/Ddatatables/Lib/DdatatableHandlerTrait.php:651
+msgid "Method "
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:5
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:5
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:5
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:775
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:38
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:34
+#: View/Cmspages/add.ctp:32 View/Cmspages/edit.ctp:126;176
+#: View/Documents/add.ctp:82 View/Documents/edit.ctp:63
+#: View/Packages/add.ctp:85 View/Packages/edit.ctp:89
+#: View/Pagegroups/add.ctp:33 View/Pagegroups/edit.ctp:73;112
+#: View/Payments/my_payments.ctp:777 View/Questionnaires/all_b2b.ctp:777
+#: View/Questionnairetypes/add.ctp:57 View/Questionnairetypes/edit.ctp:67
+#: View/Roles/add.ctp:102 View/Roles/edit.ctp:102 View/Technicals/add.ctp:47
+#: View/Technicals/edit.ctp:51 View/Themed/App/Elements/head.ctp:140
+#: View/Users/add.ctp:167 View/Users/admin_add.ctp:56
+#: View/Users/admin_edit.ctp:47 View/Users/changepassword.ctp:20
+#: View/Users/edit.ctp:158 View/Users/edit_b2b.ctp:113
+#: View/Users/lostpassword.ctp:20 View/Virtualtypes/add.ctp:87
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:25
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:25
+msgid "View Settings"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:31
+msgid "Template"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:32
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:213
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:28;31
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:24;27
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:32
+#: View/Documents/add.ctp:63 View/Documents/edit.ctp:42
+#: View/Documents/view.ctp:41 View/Pagegroups/add.ctp:25
+#: View/Pagegroups/edit.ctp:46;51;57;64 View/Roles/add.ctp:69
+#: View/Roles/edit.ctp:69 View/Roles/view.ctp:41 View/Technicals/add.ctp:37
+#: View/Technicals/edit.ctp:41 View/Technicals/view.ctp:39
+#: View/Virtualtypes/add.ctp:35
+msgid "Name"
+msgstr "Nazwa"
+
+#: Plugin/Ddatatables/View/Ddatatables/add.ctp:54
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:248
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:191
+msgid "Save before adding more"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:7
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:7
+msgid "Save and Close"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:32
+msgid "Controller"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:33
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr "Model"
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:34
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:33
+msgid "Code"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:37
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:35
+#: View/Elements/page_sidebar.ctp:114
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:183
+msgid "Fields"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:213
+msgid "First"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:213
+msgid "Second"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:213
+msgid "Third"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/edit.ctp:223
+msgid "Add Next Field"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/index.ctp:3
+msgid "Add Dynamic View"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/index.ctp:15
+msgid "Dynamic Views"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:16
+msgid "Dynamic Datatables"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Ddatatables/rawedit.ctp:25
+msgid "Datatable Settings"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/default.ctp:90
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:221
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:13
+#: View/Documents/edit.ctp:12 View/Index/datatable/order_incoming.ctp:26
+#: View/Packages/edit.ctp:12 View/Pagegroups/edit.ctp:144
+#: View/Payments/my_payments.ctp:223 View/Questionnaires/all_b2b.ctp:223
+#: View/Questionnaires/datatable/questionb2b.ctp:91 View/Roles/edit.ctp:12
+#: View/Technicals/edit.ctp:12 View/Users/datatable/user.ctp:31
+#: View/Users/datatable/useradmins.ctp:31
+#: View/Users/datatable/userb2bwaiting.ctp:30
+msgid "Delete"
+msgstr "Usuń"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:123;237;238;239
+#: View/Payments/my_payments.ctp:239;240;241
+#: View/Questionnaires/all_b2b.ctp:239;240;241
+msgid "Add"
+msgstr "Dodaj"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:230
+#: View/Payments/my_payments.ctp:232 View/Questionnaires/all_b2b.ctp:232
+msgid "Conditions"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:233
+#: View/Payments/my_payments.ctp:235 View/Questionnaires/all_b2b.ctp:235
+msgid "Filtruj tabele"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:234
+#: View/Payments/my_payments.ctp:236 View/Questionnaires/all_b2b.ctp:236
+msgid "Close"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:235;875
+#: View/Elements/datatable/table_init.ctp:174
+#: View/Payments/my_payments.ctp:237;903
+#: View/Questionnaires/all_b2b.ctp:237;903
+msgid "Reset"
+msgstr "Reset"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:236;882
+#: View/Payments/my_payments.ctp:238;910
+#: View/Questionnaires/all_b2b.ctp:238;910
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:239
+#: View/Payments/my_payments.ctp:241 View/Questionnaires/all_b2b.ctp:241
+msgid "field"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:347
+#: View/Payments/my_payments.ctp:349 View/Questionnaires/all_b2b.ctp:349
+msgid "Wybierz pole"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:475
+#: View/Payments/my_payments.ctp:477 View/Questionnaires/all_b2b.ctp:477
+msgid "Yes"
+msgstr "Tak"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:475
+#: View/Payments/my_payments.ctp:477 View/Questionnaires/all_b2b.ctp:477
+msgid "No"
+msgstr ""
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:759
+#: View/Payments/my_payments.ctp:761 View/Questionnaires/all_b2b.ctp:761
+#: View/Themed/App/Elements/head.ctp:125
+msgid "Today"
+msgstr "Dzisiaj"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:760
+#: View/Payments/my_payments.ctp:762 View/Questionnaires/all_b2b.ctp:762
+#: View/Themed/App/Elements/head.ctp:126
+msgid "Yesterday"
+msgstr "Wczoraj"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:761
+#: View/Payments/my_payments.ctp:763 View/Questionnaires/all_b2b.ctp:763
+#: View/Themed/App/Elements/head.ctp:127
+msgid "Last 7 Days"
+msgstr "Ostatnie 7 dni"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:762
+#: View/Payments/my_payments.ctp:764 View/Questionnaires/all_b2b.ctp:764
+#: View/Themed/App/Elements/head.ctp:128
+msgid "Last 30 Days"
+msgstr "Ostatnie 30 dni"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:763
+#: View/Payments/my_payments.ctp:765 View/Questionnaires/all_b2b.ctp:765
+#: View/Themed/App/Elements/head.ctp:129
+msgid "This Month"
+msgstr "Ten miesiąc"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:764
+#: View/Payments/my_payments.ctp:766 View/Questionnaires/all_b2b.ctp:766
+#: View/Themed/App/Elements/head.ctp:130
+msgid "Last Month"
+msgstr "Poprzedni miesiąc"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:774
+#: View/Payments/my_payments.ctp:776 View/Questionnaires/all_b2b.ctp:776
+#: View/Themed/App/Elements/head.ctp:139
+msgid "OK"
+msgstr "OK"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:776
+#: View/Payments/my_payments.ctp:778 View/Questionnaires/all_b2b.ctp:778
+#: View/Themed/App/Elements/head.ctp:141
+msgid "From"
+msgstr "Od"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:777
+#: View/Payments/my_payments.ctp:779 View/Questionnaires/all_b2b.ctp:779
+#: View/Themed/App/Elements/head.ctp:142
+msgid "To"
+msgstr "Do"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:778
+#: View/Payments/my_payments.ctp:780 View/Questionnaires/all_b2b.ctp:780
+#: View/Themed/App/Elements/head.ctp:143
+msgid "Custom"
+msgstr "Zakres"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Su"
+msgstr "Ni"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Mo"
+msgstr "Po"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Tu"
+msgstr "Wt"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "We"
+msgstr "Śr"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Th"
+msgstr "Cz"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Fr"
+msgstr "Pt"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:779
+#: View/Payments/my_payments.ctp:781 View/Questionnaires/all_b2b.ctp:781
+#: View/Themed/App/Elements/head.ctp:144
+msgid "Sa"
+msgstr "So"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "January"
+msgstr "Styczeń"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "February"
+msgstr "Luty"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "March"
+msgstr "Marzec"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "April"
+msgstr "Kwiecień"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "May"
+msgstr "Maj"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "June"
+msgstr "Czerwiec"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "July"
+msgstr "Lipiec"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "August"
+msgstr "Sierpień"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "September"
+msgstr "Wrzesień"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "October"
+msgstr "Październik"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "November"
+msgstr "Listopad"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:780
+#: View/Payments/my_payments.ctp:782 View/Questionnaires/all_b2b.ctp:782
+#: View/Themed/App/Elements/head.ctp:145
+msgid "December"
+msgstr "Grudzień"
+
+#: Plugin/Ddatatables/View/Elements_test/datatable/index.ctp:996
+#: View/Payments/my_payments.ctp:1025 View/Questionnaires/all_b2b.ctp:1025
+msgid "Nie zaznaczono żadnej pozycji."
+msgstr ""
+
+#: Plugin/Dotpay/View/Helper/DotpayHelper.php:50
+msgid "Pay"
+msgstr "Zapłać"
+
+#: Plugin/I18n/Controller/TranslationsController.php:148
+msgid "The translation has been saved"
+msgstr "Tłumaczenie zostało zapisane."
+
+#: Plugin/I18n/Controller/TranslationsController.php:169;192
+msgid "Translation saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:212
+msgid "Translation deleted"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr "Nieprawidłowe tłumaczenie"
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr "Lista tłumaczeń"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr "Usunąć tłumaczenie \"%s\"?"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid ""
+"Be aware that your Translation and all associated data will be deleted if "
+"you confirm!"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr "Zatwierdź"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr "Proszę potwierdzić"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+#: View/Users/changepassword.ctp:19 View/Users/lostpassword.ctp:19
+msgid "Submit"
+msgstr "Wyślij"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr "Tłumaczenia"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:50
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:52
+#: View/Elements/ajax/Index/Asset.ctp:9
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr "Strona {:page} z {:pages}, pokazano {:current} rekordów z {:count}"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:34
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:30
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:39
+#: View/Cmspages/edit.ctp:97;118
+msgid "Content"
+msgstr "Treść"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+msgid "Search"
+msgstr "Szukaj"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67
+#: View/Index/datatable/order_incoming.ctp:25
+msgid "View"
+msgstr "Podgląd"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68
+#: View/Pagegroups/edit.ctp:143 View/Users/datatable/user.ctp:30
+#: View/Users/datatable/useradmins.ctp:30 View/Users/datatable/userb2b.ctp:38
+#: View/Users/datatable/userb2bwaiting.ctp:29
+msgid "Edit"
+msgstr "Edytuj"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr "Nowe tłumaczenie"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr "Tłumaczenie"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4
+#: View/Cmspages/edit.ctp:38;136;137 View/Documents/edit.ctp:39
+#: View/Documents/view.ctp:34 View/Packages/edit.ctp:64
+#: View/Packages/view.ctp:34 View/Pagegroups/edit.ctp:41
+#: View/Questionnaires/documents.ctp:28 View/Questionnaires/send.ctp:29;43
+#: View/Questionnaires/verify.ctp:42;84;119 View/Questionnairetypes/edit.ctp:21
+#: View/Roles/edit.ctp:63 View/Roles/view.ctp:34;90 View/Technicals/edit.ctp:38
+#: View/Technicals/view.ctp:32 View/Users/upload_certyficate.ctp:52
+#: View/Users/verify.ctp:53
+msgid "Id"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr "Edytuj tłumaczenie"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr "Usuń tłumaczenie"
+
+#: Plugin/SimpleShortcode/Controller/StaticBlocksController.php:40;72;97
+msgid "Invalid static block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/Controller/StaticBlocksController.php:55;76
+msgid "The static block has been saved."
+msgstr ""
+
+#: Plugin/SimpleShortcode/Controller/StaticBlocksController.php:58;79
+msgid "The static block could not be saved. Please, try again."
+msgstr ""
+
+#: Plugin/SimpleShortcode/Controller/StaticBlocksController.php:101
+msgid "The static block has been deleted."
+msgstr ""
+
+#: Plugin/SimpleShortcode/Controller/StaticBlocksController.php:103
+msgid "The static block could not be deleted. Please, try again."
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:6
+msgid "Admin Add Static Block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_add.ctp:18
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:14
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:20
+msgid "List Static Blocks"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_edit.ctp:13
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:19
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:44
+#: View/Documents/edit.ctp:12 View/Documents/view.ctp:19
+#: View/Packages/edit.ctp:12 View/Packages/user.ctp:7 View/Packages/view.ctp:19
+#: View/Pagegroups/edit.ctp:144 View/Roles/edit.ctp:12
+#: View/Roles/view.ctp:19;115 View/Technicals/edit.ctp:12
+#: View/Technicals/view.ctp:19 View/Users/edit_b2b.ctp:179
+msgid "Are you sure you want to delete # %s?"
+msgstr "Czy na pewno chcesz usunąć # %s?"
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:16
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:21
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:20
+msgid "New Static Block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:60
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:62
+#: View/Elements/ajax/Index/Asset.ctp:19
+#: View/Elements/ajax/Index/RelatedAsset.ctp:19
+msgid "First page"
+msgstr "Pierwsza strona"
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:62
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:64
+msgid "Previous"
+msgstr "Poprzednia"
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:64
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:66
+msgid "Next"
+msgstr "Następna"
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_index.ctp:66
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:68
+#: View/Elements/ajax/Index/Asset.ctp:25
+#: View/Elements/ajax/Index/RelatedAsset.ctp:25
+msgid "Last page"
+msgstr "Ostatnia strona"
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:5
+msgid "Static Block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:18
+msgid "Edit Static Block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/admin_view.ctp:19
+msgid "Delete Static Block"
+msgstr ""
+
+#: Plugin/SimpleShortcode/View/StaticBlocks/index.ctp:7
+msgid "Static Blocks"
+msgstr ""
+
+#: Plugin/Utils/Lib/I18nCountry.php:55
+#: Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42
+#: Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr ""
+
+#: View/Cmspages/add.ctp:12
+msgid "Dodaj wpis"
+msgstr ""
+
+#: View/Cmspages/add.ctp:24 View/Cmspages/edit.ctp:42;54;65;69;81;87;142
+msgid "Tytuł"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:12
+msgid "Edytuj wpis"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:48
+msgid "Wybierz kategorię"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:48 View/Roles/view.ctp:62;96
+msgid "Modified"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:54
+msgid "Tylko dla zalogowanych"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:65
+msgid "Wyświetlaj w menu"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:69
+msgid "Wyświetlaj w stopce"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:75
+msgid "pozycja"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:75
+msgid "Pozycja"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:81 View/Cmspages/view.ctp:5
+#: View/Elements/page_header_user.ctp:16 View/Pagegroups/index_user.ctp:5
+#: View/Pagegroups/view.ctp:4 View/Themed/App/Layouts/bootstrap.ctp:88
+msgid "Strona główna"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:87
+msgid "formularz kontaktowy"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:101
+msgid "Zdjęcie główne"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:112
+msgid "Logo"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:142
+msgid "Sekcja nr"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:152
+msgid "Wygląd sekcji nr"
+msgstr ""
+
+#: View/Cmspages/edit.ctp:189
+msgid "galeria"
+msgstr ""
+
+#: View/Cmspages/view.ctp:155 View/Emails/html/contact.ctp:10
+msgid "Temat"
+msgstr ""
+
+#: View/Cmspages/view.ctp:159
+msgid "Podaj swoje imię"
+msgstr ""
+
+#: View/Cmspages/view.ctp:164 View/Packages/my_tokens.ctp:119
+msgid "Wpisz swój email"
+msgstr ""
+
+#: View/Cmspages/view.ctp:169 View/Packages/my_tokens.ctp:124
+msgid "Zadaj pytanie"
+msgstr ""
+
+#: View/Cmspages/view.ctp:176 View/Packages/my_tokens.ctp:131
+#: View/Questionnaires/datatable/questionb2b.ctp:56
+msgid "Wyślij"
+msgstr ""
+
+#: View/Documents/add.ctp:3
+msgid "Add Document"
+msgstr ""
+
+#: View/Documents/add.ctp:12 View/Documents/edit.ctp:13
+#: View/Documents/view.ctp:20
+msgid "List Documents"
+msgstr ""
+
+#: View/Documents/add.ctp:13 View/Documents/edit.ctp:14
+#: View/Documents/view.ctp:22
+msgid "List Pagegroups"
+msgstr ""
+
+#: View/Documents/add.ctp:14 View/Documents/edit.ctp:15
+#: View/Documents/view.ctp:23
+msgid "New Pagegroup"
+msgstr ""
+
+#: View/Documents/add.ctp:66 View/Documents/view.ctp:48 View/Roles/view.ctp:69
+msgid "Type"
+msgstr ""
+
+#: View/Documents/add.ctp:69 View/Documents/view.ctp:55
+msgid "Link"
+msgstr ""
+
+#: View/Documents/add.ctp:72 View/Documents/edit.ctp:53;56
+#: View/Documents/view.ctp:62 View/Packages/add.ctp:75
+#: View/Packages/edit.ctp:79 View/Packages/view.ctp:69
+msgid "Description"
+msgstr "Opis"
+
+#: View/Documents/add.ctp:75
+msgid "Pagegroup Id"
+msgstr ""
+
+#: View/Documents/edit.ctp:3
+msgid "Edytuj plik"
+msgstr ""
+
+#: View/Documents/edit.ctp:46 View/Users/user_profile.ctp:146
+msgid "Zmień"
+msgstr ""
+
+#: View/Documents/index.ctp:4
+msgid "Documents"
+msgstr ""
+
+#: View/Documents/index.ctp:13
+msgid "Documents List"
+msgstr ""
+
+#: View/Documents/view.ctp:5
+msgid "Document"
+msgstr ""
+
+#: View/Documents/view.ctp:18
+msgid "Edit Document"
+msgstr ""
+
+#: View/Documents/view.ctp:19
+msgid "Delete Document"
+msgstr ""
+
+#: View/Documents/view.ctp:21
+msgid "New Document"
+msgstr ""
+
+#: View/Documents/view.ctp:69
+msgid "Pagegroup"
+msgstr ""
+
+#: View/Elements/account_bar.ctp:5 View/Elements/page_header_user.ctp:59
+#: View/Themed/App/Layouts/bootstrap.ctp:101
+msgid "Moje konto"
+msgstr ""
+
+#: View/Elements/account_bar.ctp:8 View/Elements/page_header_user.ctp:49
+#: View/Questionnaires/all.ctp:4 View/Questionnaires/all_b2b.ctp:4
+msgid "Moje wnioski"
+msgstr ""
+
+#: View/Elements/account_bar.ctp:12 View/Elements/page_header_user.ctp:61
+#: View/Packages/dotpaythankyou.ctp:37 View/Packages/my_tokens.ctp:6
+msgid "Moje tokeny"
+msgstr ""
+
+#: View/Elements/account_bar.ctp:15 View/Elements/page_header_user.ctp:62
+#: View/Payments/my_payments.ctp:4
+msgid "Moje płatności"
+msgstr ""
+
+#: View/Elements/account_bar.ctp:19
+msgid "Moje powiadomienia"
+msgstr ""
+
+#: View/Elements/page_header.ctp:49 View/Elements/page_sidebar.ctp:119
+#: View/Elements/page_sidebar_admin.ctp:134 View/Users/user_profile.ctp:16
+msgid "My profile"
+msgstr "Mój profil"
+
+#: View/Elements/page_header.ctp:55 View/Elements/page_sidebar_admin.ctp:7
+msgid "Dashboard"
+msgstr "Mój pulpit"
+
+#: View/Elements/page_header.ctp:61 View/Elements/page_header_user.ctp:70
+msgid "Logout"
+msgstr "Wyloguj"
+
+#: View/Elements/page_header_user.ctp:17
+msgid "O SpeedTax"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:18
+msgid "Cennik"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:21 View/Pagegroups/index_user.ctp:6
+#: View/Pagegroups/view.ctp:5
+msgid "Pomoc"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:35
+#: View/Themed/App/Layouts/bootstrap.ctp:95
+msgid "Rejestracja"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:37
+#: View/Themed/App/Layouts/bootstrap.ctp:97
+msgid "Logowanie"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:45
+#: View/Elements/page_sidebar_admin.ctp:80 View/Index/index_admina.ctp:43
+#: View/Users/datatable/userb2b.ctp:39
+msgid "Wnioski"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:47
+msgid "Utwórz nowy wniosek"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:54
+msgid "Konto"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:58
+msgid "Powiadomienia"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:68 View/Emails/html/verification.ctp:78
+#: View/Emails/html/verified.ctp:78
+msgid "Weryfikacja konta"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:99
+msgid "Twoje konto czeka na weryfikację"
+msgstr ""
+
+#: View/Elements/page_header_user.ctp:99
+msgid "kliknij i zobacz przesłane dokumenty"
+msgstr ""
+
+#: View/Elements/page_sidebar.ctp:13
+msgid "User Dashboard"
+msgstr ""
+
+#: View/Elements/page_sidebar.ctp:43
+#: View/Elements/breadcrumbs/wizyties_index.ctp:8
+msgid "Clients"
+msgstr "Klienci"
+
+#: View/Elements/page_sidebar.ctp:59
+msgid "Ingredients"
+msgstr "Składniki"
+
+#: View/Elements/page_sidebar.ctp:75
+msgid "Meals"
+msgstr "Posiłki"
+
+#: View/Elements/page_sidebar.ctp:82
+msgid "List Operators"
+msgstr "Operatorzy"
+
+#: View/Elements/page_sidebar.ctp:90
+msgid "Diets"
+msgstr "Diety"
+
+#: View/Elements/page_sidebar.ctp:106
+msgid "Diet Plans"
+msgstr "Plany dietetyczne"
+
+#: View/Elements/page_sidebar.ctp:137
+msgid "Payments"
+msgstr "Płatności"
+
+#: View/Elements/page_sidebar_admin.ctp:18
+msgid "Użytkownicy B2B"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:23
+msgid "Dodaj nowego"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:26
+msgid "Aktywni"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:29
+msgid "Oczekujący na akceptację"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:33 View/Index/index_admin.ctp:127
+msgid "Płatności za tokeny"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:41
+msgid "Użytkownicy prywatni"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:47 View/Index/index_admin.ctp:265
+#: View/Index/index_admina.ctp:14
+msgid "Użytkownicy"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:50
+msgid "Niezweryfikowani użytkownicy"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:58
+msgid "Strony i Pomoce"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:63
+msgid "Dodaj stronę"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:67
+msgid "Strony"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:71
+msgid "Pomoce"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:85 View/Index/index_admin.ctp:23
+msgid "Wszystkie wnioski"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:89
+msgid "Wnioski do weryfikacji danych (certyfikat speedtax)"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:93
+msgid "Oczekujące na płatność lub nieopłacone"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:96
+msgid "Gotowe do wysłania"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:99
+msgid "Wysłane (oczekujące na decyzję)"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:102
+msgid "Zakonczone"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:105
+msgid "Odrzucone"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:113 View/Virtualtypes/add.ctp:78
+msgid "Ustawienia"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:118 View/Index/index_admin.ctp:294
+msgid "Administratorzy"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:121
+msgid "Typy wniosków"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:124
+msgid "Konfiguracja systemu"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:130
+msgid "Bloki tekstowe"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:137
+msgid "Dane formularza"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:5;54 View/Questionnaires/add.ctp:9
+msgid "Nowy wniosek"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:10;55
+msgid "Wypełnij wniosek"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:10
+msgid "(10 punktów)"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:14;56
+msgid "Podusmowanie"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:18;57
+msgid "Certyfikacja wniosku"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:23;58
+#: View/Questionnaires/datatable/questionb2b.ctp:52
+msgid "Płatność"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:25
+msgid "tokeny"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:28
+msgid "przelew"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:40
+msgid "Wniosek wysyłany automatycznie"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:42;59
+#: View/Questionnaires/dotpaythankyou.ctp:39 View/Questionnaires/send.ctp:49
+msgid "Wyślij wniosek"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:48
+msgid "Wyślij dodatkowe dokumenty"
+msgstr ""
+
+#: View/Elements/progress_bar.ctp:60
+msgid "Wyslij dodatkowe dokumenty"
+msgstr ""
+
+#: View/Elements/statuschange.ctp:33
+msgid "Informacje o płatności"
+msgstr ""
+
+#: View/Elements/actions/cmspages_index.ctp:3
+#: View/Elements/actions/questionnairetypes_index.ctp:3
+#: View/Elements/actions/roles_index.ctp:8
+#: View/Elements/actions/technicals_index.ctp:3
+#: View/Elements/actions/users_admins.ctp:3
+msgid "Dodaj nowy"
+msgstr ""
+
+#: View/Elements/actions/pagegroups_index.ctp:3
+msgid "Dodaj nowy folder pomocy"
+msgstr ""
+
+#: View/Elements/actions/payments_index.ctp:3
+msgid "Przejdź do użytkowników B2B"
+msgstr ""
+
+#: View/Elements/actions/users_b2b.ctp:3
+msgid "Dodaj nowego użytkownika B2B"
+msgstr ""
+
+#: View/Elements/breadcrumbs/default.ctp:4
+#: View/Elements/breadcrumbs/wizyties_index.ctp:4
+msgid "Start"
+msgstr ""
+
+#: View/Elements/breadcrumbs/wizyties_index.ctp:12
+msgid "Wizyties"
+msgstr "Wizyty"
+
+#: View/Elements/datatable/table_init.ctp:150
+msgid "%s could not be deleted"
+msgstr ""
+
+#: View/Elements/datatable/table_init.ctp:192
+msgid "Reload"
+msgstr "Odśwież"
+
+#: View/Elements/datatable/table_init.ctp:199
+msgid "CSV"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:6;11
+msgid "Właściwy Urząd Skarbowy (Finanzamnt)"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:32
+msgid "Wybierz swój Land (Bundesland) w którym pracujesz <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:53
+msgid ""
+"Wybierz właściwy dla Ciebie (aktualny) niemiecki Urząd Skarbowy - Finanzamt "
+"<sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:66
+msgid ""
+"Czy z wyżej wybranego Urzędu, posiadasz aktualny Niemiecki Numer Podatkowy "
+"(Steuernummer)?"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:78
+msgid "wnioskuję o nowy numer podatkowy ponieważ nie mam nadanego"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:87
+#: View/Questionnaires/edit-system_id-1_1.ctp:59
+msgid "Steuernummer"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:87
+msgid "Niemiecki Numer Podatkowy (Steuernummer) <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:102
+msgid ""
+"Jeżeli w latach poprzednich inny urząd wystawił Ci decyzję podatkową, podaj "
+"nazwę tego urzędu np. Finanzamt Cottbus."
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:114
+#: View/Elements/forms/step_10_form_1.ctp:521
+#: View/Elements/forms/step_10malzonek_form_1.ctp:455
+#: View/Elements/forms/step_11_form_1.ctp:99
+#: View/Elements/forms/step_1_1_form_1_1.ctp:46
+#: View/Elements/forms/step_1_form_1.ctp:110
+#: View/Elements/forms/step_2_form_1.ctp:98
+#: View/Elements/forms/step_3_form_1.ctp:321
+#: View/Elements/forms/step_4_form_1.ctp:447
+#: View/Elements/forms/step_5_form_1.ctp:93
+#: View/Elements/forms/step_6_form_1.ctp:731
+#: View/Elements/forms/step_6malzonek_form_1.ctp:836
+#: View/Elements/forms/step_7_form_1.ctp:265
+#: View/Elements/forms/step_8_form_1.ctp:165
+#: View/Elements/forms/step_8_form_1_1.ctp:160
+#: View/Elements/forms/step_8b_form_1.ctp:148
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:148
+#: View/Elements/forms/step_8d_form_1.ctp:110
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:109
+#: View/Elements/forms/step_8malzonek_form_1.ctp:164
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:160
+#: View/Elements/forms/step_9_form_1.ctp:215
+#: View/Elements/forms/step_9b_form_1.ctp:202
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:200
+#: View/Elements/forms/step_9malzonek_form_1.ctp:213
+msgid "Zapisz i przejdź dalej"
+msgstr ""
+
+#: View/Elements/forms/step_0_form_1.ctp:118
+#: View/Elements/forms/step_10_form_1.ctp:525
+#: View/Elements/forms/step_10malzonek_form_1.ctp:459
+#: View/Elements/forms/step_1_1_form_1_1.ctp:50
+#: View/Elements/forms/step_1_form_1.ctp:114
+#: View/Elements/forms/step_2_form_1.ctp:102
+#: View/Elements/forms/step_3_form_1.ctp:325
+#: View/Elements/forms/step_4_form_1.ctp:451
+#: View/Elements/forms/step_5_form_1.ctp:97
+#: View/Elements/forms/step_6_form_1.ctp:735
+#: View/Elements/forms/step_6malzonek_form_1.ctp:840
+#: View/Elements/forms/step_7_form_1.ctp:269
+#: View/Elements/forms/step_8_form_1.ctp:169
+#: View/Elements/forms/step_8_form_1_1.ctp:164
+#: View/Elements/forms/step_8b_form_1.ctp:152
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:152
+#: View/Elements/forms/step_8d_form_1.ctp:114
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:113
+#: View/Elements/forms/step_8malzonek_form_1.ctp:168
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:164
+#: View/Elements/forms/step_9_form_1.ctp:219
+#: View/Elements/forms/step_9b_form_1.ctp:206
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:204
+#: View/Elements/forms/step_9malzonek_form_1.ctp:217
+#: View/Questionnaires/edit-system_id-1_1.ctp:116;206;283;493;541;615;719;823
+msgid "Następny"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:1;9
+#: View/Elements/forms/step_10malzonek_form_1.ctp:1;9
+msgid "Dodatkowe koszty uzyskania przychodu"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:21
+#: View/Elements/forms/step_10malzonek_form_1.ctp:21
+msgid ""
+"Czy chcesz uwzględnić ryczałtowe koszty związane z typowymi ubraniami "
+"roboczymi oraz ich czyszczeniem?"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:27
+#: View/Elements/forms/step_10malzonek_form_1.ctp:27
+msgid "Czy chcesz uwzględnić koszty prowadzenia konta bankowego w Niemczech?"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:46;396
+#: View/Elements/forms/step_10malzonek_form_1.ctp:44;393
+msgid "uzupełnij"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:46;91;140;188;236;286
+#: View/Elements/forms/step_10malzonek_form_1.ctp:44;89;138;186;234;284
+msgid "Nazwa lub opis w j.niemieckim"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:52;60;101;110;150;158;198;206;246;254;296;304;349;357;374;403;409
+#: View/Elements/forms/step_10malzonek_form_1.ctp:50;58;99;108;148;156;196;204;244;252;294;302;347;355;371;400;406
+#: View/Elements/forms/step_8_form_1.ctp:31
+#: View/Elements/forms/step_8_form_1_1.ctp:31
+#: View/Elements/forms/step_8d_form_1.ctp:71;83;94
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:70;82;93
+#: View/Elements/forms/step_8malzonek_form_1.ctp:31
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:31
+#: View/Elements/forms/step_9b_form_1.ctp:54
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:51
+msgid "kwota"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:52;198
+#: View/Elements/forms/step_10malzonek_form_1.ctp:50;196
+msgid "Kwota "
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:60;110;206;254
+#: View/Elements/forms/step_10malzonek_form_1.ctp:58;108;204;252
+msgid "Podsuma"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:66;117;165;213;261;311;364;420
+#: View/Elements/forms/step_10malzonek_form_1.ctp:64;115;163;211;259;309;362;417
+#: View/Elements/forms/step_4_form_1.ctp:44
+#: View/Elements/forms/step_6_form_1.ctp:44
+#: View/Elements/forms/step_6malzonek_form_1.ctp:49
+#: View/Elements/forms/step_7_form_1.ctp:44;166
+#: View/Elements/forms/step_8_form_1.ctp:44;46;68
+#: View/Elements/forms/step_8_form_1_1.ctp:44;63
+#: View/Elements/forms/step_8b_form_1.ctp:90
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:91
+#: View/Elements/forms/step_8d_form_1.ctp:28
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:27
+#: View/Elements/forms/step_8malzonek_form_1.ctp:45;48;68
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:44;63
+#: View/Elements/forms/step_9_form_1.ctp:42
+#: View/Elements/forms/step_9b_form_1.ctp:70
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:67
+#: View/Elements/forms/step_9malzonek_form_1.ctp:44
+#: View/Questionnaires/edit-system_id-1_1.ctp:530
+msgid "Ilość"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:66;117;165;213;261;311;364;420
+#: View/Elements/forms/step_10malzonek_form_1.ctp:64;115;163;211;259;309;362;417
+#: View/Elements/forms/step_8_form_1.ctp:68
+#: View/Elements/forms/step_8_form_1_1.ctp:63
+#: View/Elements/forms/step_8malzonek_form_1.ctp:68
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:63
+#: View/Elements/forms/step_9_form_1.ctp:42
+#: View/Elements/forms/step_9b_form_1.ctp:70
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:67
+#: View/Elements/forms/step_9malzonek_form_1.ctp:44
+msgid "Podaj liczbę kosztów z których chcesz się rozliczyć"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:101;150;246;296;349
+#: View/Elements/forms/step_10malzonek_form_1.ctp:99;148;244;294;347
+#: View/Elements/forms/step_11_form_1.ctp:50;82
+#: View/Elements/forms/step_7_form_1.ctp:109;229
+#: View/Elements/forms/step_8b_form_1.ctp:95;100;106;133
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:96;101;106;133
+#: View/Elements/forms/step_9_form_1.ctp:190;204
+#: View/Elements/forms/step_9b_form_1.ctp:54
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:51
+#: View/Elements/forms/step_9malzonek_form_1.ctp:192;201
+msgid "Kwota"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:158
+#: View/Elements/forms/step_10malzonek_form_1.ctp:156
+msgid "podsuma"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:304
+#: View/Elements/forms/step_10malzonek_form_1.ctp:302
+msgid "Koszty przeprowadzki związanej z wykonywaniem pracy - Kwota "
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:338
+#: View/Elements/forms/step_10malzonek_form_1.ctp:336
+#: View/Elements/forms/step_8b_form_1.ctp:124;125
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:124;125
+msgid "Nazwa (z listy lub wpisz własne)"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:357
+#: View/Elements/forms/step_10malzonek_form_1.ctp:355
+msgid "Podsuma "
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:374
+#: View/Elements/forms/step_10malzonek_form_1.ctp:371;423;436
+#: View/Elements/forms/step_7_form_1.ctp:131;248
+msgid "Suma"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:396
+#: View/Elements/forms/step_10malzonek_form_1.ctp:393
+msgid "Nazwa lub opis w j. niemieckim"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:403
+#: View/Elements/forms/step_10malzonek_form_1.ctp:400
+msgid "Koszt"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:409
+#: View/Elements/forms/step_10malzonek_form_1.ctp:406
+msgid "Z czego pokrył ubezpieczyciel"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:427;434;443;450
+#: View/Elements/forms/step_10malzonek_form_1.ctp:423;430;436;443
+#: View/Elements/forms/step_9b_form_1.ctp:63;196
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:60;193
+msgid "suma"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:427;443
+msgid "Suma koszty lekow"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:434;450
+#: View/Elements/forms/step_10malzonek_form_1.ctp:430;443
+msgid "Suma z czego pokryl ubezpieczyciel"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:465;471
+msgid "Imię i nazwisko"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:465
+msgid ""
+"Kirchensteuer laut Lohnsteuerbescheinigung steuerpflichtige Person / "
+"Ehemann / Person A"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:471
+msgid "Kirchensteuer laut Lohnsteuerbescheinigung Ehefrau / Person B"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:481;491;500;507
+msgid "Kwota €0"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:481
+msgid "Odprowadzony podatek kościelny dla podatnika (z poz.6 karty podatkowej)"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:491
+msgid ""
+"Odprowadzony podatek kościelny dla współmałżonka(z poz.6 karty podatkowej)"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:500
+msgid "Łączny podatek kościelny (z poz.6)"
+msgstr ""
+
+#: View/Elements/forms/step_10_form_1.ctp:507
+msgid "Zwrot podatku kościelnego za rok poprzedni"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:1;6
+msgid "Przychody spoza Niemiec"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:30
+msgid "Kraj uzyskania dochodu przez Podatnika <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:43
+msgid ""
+"Wnioskuję o traktowanie jako osoba podlegająca nieograniczonemu obowiązkowi "
+"podatkowemu (Konieczne jest załączenie zaświadczenia EWR/EOG oraz wysłanie "
+"go pocztą do właściwego Urzędu Skarbowego)"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:50;82
+msgid ""
+"Suma dochodów niepodlegających opodatkowaniu w Niemczech (uzupełnij też "
+"jeśli €0)"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:68
+msgid "Kraj uzyskania dochodu przez Współmałżonka <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:87
+msgid "Wniosek o traktowanie współmałżonka jak osoba z prawem do ulg"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:104
+#: View/Questionnaires/results.ctp:10
+msgid "Podsumowanie"
+msgstr ""
+
+#: View/Elements/forms/step_11_form_1.ctp:109
+msgid "Powrót do wniosku"
+msgstr ""
+
+#: View/Elements/forms/step_1_1_form_1_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:624;629
+msgid "Dane kontaktowe"
+msgstr ""
+
+#: View/Elements/forms/step_1_1_form_1_1.ctp:25;28
+#: View/Emails/html/contact.ctp:12 View/Packages/my_tokens.ctp:37
+#: View/Questionnaires/view.ctp:65 View/Users/admin_add.ctp:15
+#: View/Users/admin_edit.ctp:15 View/Users/profile.ctp:18
+#: View/Users/register.ctp:32 View/Users/user_profile.ctp:70
+#: View/Users/view.ctp:31
+msgid "E-mail"
+msgstr "E-mail"
+
+#: View/Elements/forms/step_1_1_form_1_1.ctp:37 View/Packages/my_tokens.ctp:46
+#: View/Questionnaires/view.ctp:74 View/Users/register.ctp:37
+#: View/Users/user_profile.ctp:79;134
+msgid "Telefon"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:124;129
+msgid "Dane osobowe"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:25
+#: View/Elements/forms/step_3_form_1.ctp:151
+#: View/Elements/forms/step_4_form_1.ctp:60
+msgid "Identifikationsnummer"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:25
+#: View/Elements/forms/step_3_form_1.ctp:151
+#: View/Elements/forms/step_4_form_1.ctp:60
+msgid "Niemiecki numer Identyfikacyjny (Identifikationsnummer)"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:35;38
+#: View/Elements/forms/step_3_form_1.ctp:156
+#: View/Elements/forms/step_4_form_1.ctp:71
+#: View/Questionnaires/edit-system_id-1_1.ctp:154;370
+msgid "Imię *"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:35;38
+#: View/Elements/forms/step_3_form_1.ctp:156
+#: View/Elements/forms/step_4_form_1.ctp:71
+msgid "Imię <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:49;52
+#: View/Elements/forms/step_3_form_1.ctp:161
+#: View/Questionnaires/edit-system_id-1_1.ctp:163;375
+msgid "Nazwisko *"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:49;52
+#: View/Elements/forms/step_3_form_1.ctp:161
+msgid "Nazwisko <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:64;67
+#: View/Elements/forms/step_3_form_1.ctp:167
+#: View/Questionnaires/edit-system_id-1_1.ctp:173;381
+msgid "Data urodzenia*"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:64;67
+#: View/Elements/forms/step_3_form_1.ctp:167
+#: View/Elements/forms/step_4_form_1.ctp:83;271
+msgid "Data urodzenia <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:78
+#: View/Elements/forms/step_3_form_1.ctp:177
+msgid "Wyznanie <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_1_form_1.ctp:98
+msgid "Zawód wykonywany w Nimeczech w rozliczanym roku podatkowym"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:217;222
+msgid "Dane adresowe"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:25
+#: View/Elements/forms/step_3_form_1.ctp:236
+msgid "Kraj <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:43
+#: View/Elements/forms/step_3_form_1.ctp:254
+#: View/Questionnaires/edit-system_id-1_1.ctp:237;441
+msgid "Ulica *"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:43
+#: View/Elements/forms/step_3_form_1.ctp:254
+msgid "Ulica <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:48
+#: View/Elements/forms/step_3_form_1.ctp:259
+#: View/Questionnaires/edit-system_id-1_1.ctp:242;446
+msgid "numer *"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:48
+#: View/Elements/forms/step_3_form_1.ctp:259
+msgid "Nr domu <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:53
+#: View/Elements/forms/step_3_form_1.ctp:264
+#: View/Questionnaires/edit-system_id-1_1.ctp:247;451;683
+msgid "numer"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:53
+#: View/Elements/forms/step_3_form_1.ctp:264
+#: View/Questionnaires/edit-system_id-1_1.ctp:247;451;683
+msgid "Nr mieszkania"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:64;80
+#: View/Elements/forms/step_3_form_1.ctp:276;293
+#: View/Questionnaires/edit-system_id-1_1.ctp:253;457
+msgid "Kod pocztowy *"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:64;80
+#: View/Elements/forms/step_3_form_1.ctp:276;293
+msgid "Kod pocztowy <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:69;85
+#: View/Elements/forms/step_3_form_1.ctp:281;298
+#: View/Questionnaires/edit-system_id-1_1.ctp:258;462
+msgid "Miejscowość *"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:69;85
+#: View/Elements/forms/step_3_form_1.ctp:281;298
+msgid "Miejscowość <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:90
+#: View/Elements/forms/step_3_form_1.ctp:303
+msgid "Miejscowość i kod pocztowy zagraniczny *"
+msgstr ""
+
+#: View/Elements/forms/step_2_form_1.ctp:90
+#: View/Elements/forms/step_3_form_1.ctp:303
+msgid "Miejscowość i kod pocztowy zagraniczny <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:294;299
+msgid "Stan cywilny"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:26;27
+msgid ""
+"Zaznacz ostatni właściwy dla Ciebie stan cywilny w roku, który rozliczasz "
+"<sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:44
+msgid "Data separacji <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:51
+#: View/Questionnaires/edit-system_id-1_1.ctp:336
+msgid "Data separacji *"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:59
+msgid "Data rozwodu <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:66
+#: View/Questionnaires/edit-system_id-1_1.ctp:349
+msgid "Data rozwodu *"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:75
+msgid "Data Owdowienia <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:82
+msgid "Data owdowienia *"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:96
+msgid "Data ślubu <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:102
+msgid "Data ślubu *"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:121
+msgid "Czy chcesz się rozliczyć wspólnie ze współmałżonkiem?"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:128
+msgid "Rozliczenie indywidualne"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:145
+#: View/Questionnaires/edit-system_id-1_1.ctp:357
+msgid "Dane małżonka"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:193;217
+#: View/Questionnaires/edit-system_id-1_1.ctp:402;427
+msgid "Adres"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:193
+msgid ""
+"Czy Twój współmałżonek również pracował na terenie Niemiec w rozliczanym "
+"roku?"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:204
+msgid "Zawód małżonka wykonywany w Nimeczech"
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:217
+msgid "Adres taki sam jak podany wyżej w \"Dane adresowe\""
+msgstr ""
+
+#: View/Elements/forms/step_3_form_1.ctp:227
+#: View/Questionnaires/edit-system_id-1_1.ctp:436
+msgid "Dane adresowe małżonka"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:503;508
+msgid "Dzieci"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:26
+#: View/Questionnaires/edit-system_id-1_1.ctp:523
+msgid "Czy posiadasz dzieci?"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:26
+msgid "Czy chcesz uwzględnić dzieci w tym rozliczeniu?"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:77 View/Questionnaires/add.ctp:46
+#: View/Users/register.ctp:26 View/Users/user_profile.ctp:129
+msgid "Nazwisko"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:83
+#: View/Questionnaires/edit-system_id-1_1.ctp:173;381
+msgid "Data urodzenia *"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:88;187;199;266;286;416
+msgid "dane"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:88
+msgid "Dziecko jest pełnoletnie"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:94
+msgid "Wysokość należnego Kindergeldu *"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:94
+msgid "Wysokość należnego Kindergeldu <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:99
+msgid "Nazwa właściwej Familienkasse"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:115
+msgid "Kraj zamieszkania dziecka <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:130
+msgid "Okres od - do"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:130
+msgid "Okres zamieszkania na terenie Niemiec w rozliczanym roku <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:137;152
+msgid "ulica, kod pocztowy miasto"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:137
+msgid "Miejsce zamieszkania na terenie Niemiec <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:145
+msgid "Okres zamieszkania poza terenem Niemiec *"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:145
+msgid ""
+"Okres zamieszkania dziecka poza terenem Niemiec w roku który rozliczasz "
+"<sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:152
+msgid "Miejsce zamieszkania poza terenem Niemiec <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:161
+msgid "Czy posiadasz koszty opieki nad dzieckiem?”"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:178
+msgid "Rodzaj (z listy lub wpisz własne)"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:179
+msgid "Rodzaj"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:187
+msgid "Nazwa i adres placówki"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:193
+msgid "okres od - do"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:193
+msgid "Okres uczęszczania w rozliczanym roku"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:199
+msgid "Koszty prywatnej szkoły/przedszkola/opieki w EUR"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:215
+msgid "W stosunku do podatnika  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:233
+msgid "W stosunku do współmałżonka  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:249
+msgid ""
+"PODAJ DANE DRUGIEGO RODZICA KIEDY NIE JEST NIM WSPÓŁMAŁŻONEK LUB NIE MA "
+"DANYCH WSPÓŁMAŁŻONKA"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:266
+msgid "Imię i nazwisko <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:271
+#: View/Elements/forms/step_8_form_1.ctp:150
+#: View/Elements/forms/step_8_form_1_1.ctp:145
+#: View/Elements/forms/step_8malzonek_form_1.ctp:149
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:145
+msgid "dd.mm.yyyy"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:276;281;424
+msgid "dd.mm-dd.mm"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:276
+msgid "Okres trwania pokrewieństwa w ciągu roku <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:281
+msgid "Okres zamieszkania poza terenem Niemiec <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:286
+msgid "Ostatni znany adres"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:297
+msgid "Rodzaj pokrewieństwa  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:326
+msgid ""
+"Dziecko uzyskało już wykształcenie zawodowe lub ukończyło studia pierwszego "
+"stopnia"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:350
+msgid "Czy w roku który rozliczasz dziecko uczyło się?"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:365
+msgid "dd.mm.rrrr-dd.mm.rrrr"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:365
+msgid "Czas trwania nauki w danym roku podatkowym <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:376
+msgid "Nazwa szkoły lub określenie placówki  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:392
+msgid "Czy dziecko podjęło zatrudnienie w rozliczanym roku podatkowym?"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:416
+msgid ""
+"Czy dziecko znajdowało się w stosunku pracy w niepełnym wymiarze godzin "
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:424
+msgid "Okres zatrudnienia dziecka w rozliczanym roku podatkowym"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:431
+msgid "ilość godzin tygodniowo"
+msgstr ""
+
+#: View/Elements/forms/step_4_form_1.ctp:431
+msgid "Tygodniowy czas pracy"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:549;554
+msgid "Dane bankowe"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:23
+msgid "Posiadam konto bankowe"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:32
+msgid "Posiadam konto w niemieckim banku?"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:41
+msgid "DEXXXXXXXXXXXXXXXXXXXX"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:41
+msgid "IBAN Niemiecki <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:47
+msgid "IBAN Zagraniczny *"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:47
+msgid "IBAN Zagraniczny <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:52
+msgid "BIC/SWIFT *"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:52
+msgid "BIC/SWIFT <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:65
+#: View/Questionnaires/edit-system_id-1_1.ctp:588
+msgid "Jestem właścicielem konta"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:71
+msgid "Współmałżonek właścicielem konta"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:78
+#: View/Questionnaires/edit-system_id-1_1.ctp:598
+msgid "Właścicielem konta jest inna osoba"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:85
+#: View/Questionnaires/edit-system_id-1_1.ctp:605
+msgid "Imię i Nazwisko"
+msgstr ""
+
+#: View/Elements/forms/step_5_form_1.ctp:85
+msgid "Właściciel konta Imię i Nazwisko <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:1;6
+#: View/Elements/forms/step_6malzonek_form_1.ctp:6
+msgid "Karta Podatkowa"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:19
+#: View/Elements/forms/step_6malzonek_form_1.ctp:19
+msgid "Czy uzyskałeś dochody z tytułu pracy na terenie Niemiec?"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:44
+#: View/Elements/forms/step_6malzonek_form_1.ctp:49
+msgid "Podaj liczbę kart podatkowych"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:68;84
+#: View/Elements/forms/step_6malzonek_form_1.ctp:72;88
+msgid "Klasa podatkowa na Twojej karcie *"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:99
+#: View/Elements/forms/step_6malzonek_form_1.ctp:103
+msgid "Okres zatrudnienia na karcie podatkowej *"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:135;145;156;167;179;207;217;228;239;251;301;312;323;334;345;355;367;377;388;399;410;421;432;443;583;594;605;616;627;654;665;676;687;698
+#: View/Elements/forms/step_6malzonek_form_1.ctp:135;145;156;167;179;196;206;217;228;240;289;300;311;322;431;441;452;462;473;484;495;506;517;528;671;682;693;704;715;742;753;764;775;786
+msgid "Kwota podana w formacie 0,00"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:267;279;290
+#: View/Elements/forms/step_6malzonek_form_1.ctp:255;267;278
+msgid "Kwota podana w formacie 0"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:708
+#: View/Elements/forms/step_6malzonek_form_1.ctp:799
+msgid ""
+"Czy twój pracodawca odprowadzał składki na ubezpieczenia społeczne w Polsce "
+"i nie widnieją one na karcie podatkowej?"
+msgstr ""
+
+#: View/Elements/forms/step_6_form_1.ctp:721
+#: View/Elements/forms/step_6malzonek_form_1.ctp:830
+msgid ""
+"Czy w odniesieniu do ubezpieczenia jest prawo do nieopodatkowanych dodatków "
+"pracodawcy, nieopodatkowanych zapomóg"
+msgstr ""
+
+#: View/Elements/forms/step_6malzonek_form_1.ctp:1
+msgid "Karta Podatkowa Współmałżonka"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:1;6
+#: View/Questionnaires/edit-system_id-1_1.ctp:728;733
+msgid "Świadczenia"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:23;147
+#: View/Questionnaires/edit-system_id-1_1.ctp:654;750;776;804;812
+msgid "Telefon *"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:23
+#: View/Questionnaires/edit-system_id-1_1.ctp:750
+msgid "Czy pobierałeś niemieckie świadczenia (podatnik)?"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:44
+msgid "Ile łącznie świadczeń pobierałeś"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:67;187
+msgid "Niemieckie świadczenie"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:83;203
+msgid "Od"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:96;216
+msgid "Do"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:147
+msgid "Czy Twój współmałżonek pobierał niemieckie świadczenia?"
+msgstr ""
+
+#: View/Elements/forms/step_7_form_1.ctp:166
+msgid "Ile łącznie świadczeń pobierał twój partner/małżonek"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:2;7
+#: View/Elements/forms/step_8_form_1_1.ctp:2;7
+#: View/Elements/forms/step_8malzonek_form_1.ctp:2;7
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:2;7
+msgid "Koszty podwójnego gospodarstwa"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:2;15
+#: View/Elements/forms/step_8_form_1_1.ctp:2;15
+#: View/Elements/forms/step_8malzonek_form_1.ctp:2;15
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:2;15
+msgid "Prowadzenie podwójnego gospodarstwa"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:31
+#: View/Elements/forms/step_8_form_1_1.ctp:31
+#: View/Elements/forms/step_8malzonek_form_1.ctp:31
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:31
+msgid ""
+"Pole uzupełnia się automatycznie po wpisaniu pozycji 21 na karci podatkowej "
+"w kroku poprzednim (z karty podatkowej poz.21)"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:44;46
+#: View/Elements/forms/step_8_form_1_1.ctp:44
+#: View/Elements/forms/step_8malzonek_form_1.ctp:45;48
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:44
+msgid ""
+"Czy utrzymujesz własne gospodarstwo domowe w kraju zamieszkania i kraju "
+"wykonywania pracy"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:83;88
+#: View/Elements/forms/step_8_form_1_1.ctp:78;83
+#: View/Elements/forms/step_8malzonek_form_1.ctp:83;88
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:78;83
+msgid "data"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:83
+#: View/Elements/forms/step_8_form_1_1.ctp:78
+#: View/Elements/forms/step_8malzonek_form_1.ctp:83
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:78
+msgid ""
+"Podaj datę od kiedy prowadzone jest dodatkowe gospodarstwo domowe na terenie "
+"Niemiec  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:88
+#: View/Elements/forms/step_8_form_1_1.ctp:83
+msgid "Podaj datę od kiedy prowadzone było to gospodarstwo domowe <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:102
+#: View/Elements/forms/step_8_form_1_1.ctp:97
+#: View/Elements/forms/step_8malzonek_form_1.ctp:102
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:97
+msgid ""
+"Podaj powód rozpoczęcia prowadzenia dodatkowego gospodarstwa na terenie "
+"Niemiec (z listy lub wpisz własne)*"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:113;145
+#: View/Elements/forms/step_8_form_1_1.ctp:108;140
+#: View/Elements/forms/step_8malzonek_form_1.ctp:112;144
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:108;140
+msgid "ulica,numer domu/mieszkania,kod pocztowy,miejscowość"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:113
+#: View/Elements/forms/step_8_form_1_1.ctp:108
+#: View/Elements/forms/step_8malzonek_form_1.ctp:112
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:108
+msgid "Adres miejsca wykonywania pracy w Niemczech <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:127
+#: View/Elements/forms/step_8_form_1_1.ctp:122
+#: View/Elements/forms/step_8malzonek_form_1.ctp:126
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:122
+msgid "Jeśli poza terenem Niemiec podaj kraj : <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:138
+#: View/Elements/forms/step_8_form_1_1.ctp:133
+#: View/Elements/forms/step_8malzonek_form_1.ctp:137
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:133
+#: View/Elements/forms/step_9_form_1.ctp:116
+#: View/Elements/forms/step_9malzonek_form_1.ctp:118
+msgid "adres"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:138
+#: View/Elements/forms/step_8_form_1_1.ctp:133
+#: View/Elements/forms/step_8malzonek_form_1.ctp:137
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:133
+msgid "Czy jest prowadzone własne gospodarstwo domowe w ośrodku życia :"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:145
+#: View/Elements/forms/step_8_form_1_1.ctp:140
+#: View/Elements/forms/step_8malzonek_form_1.ctp:144
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:140
+msgid "Adres własnego gospodarstwa w ośrodku życia <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8_form_1.ctp:150
+#: View/Elements/forms/step_8_form_1_1.ctp:145
+#: View/Elements/forms/step_8malzonek_form_1.ctp:149
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:145
+msgid "Rozpoczęcie prowadzenia własnego gospodarstwa domowego <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:1;10
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:1;10
+msgid "Zjazdy w ramach prowadzenia podwójnego gospodarstwa"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:31
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:31
+msgid ""
+"Czy zjazdy były wykonywane samochodem służbowym lub w ramach nieodpłatnego "
+"transportu zbiorczego pracodawcy <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:75;80
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:76;81
+msgid "Ilość km do wpisania"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:75
+msgid ""
+"Jeśli w rozliczanym roku, rozpocząłeś prowadzenie tego gospodarstwa domowego "
+"na terenie Niemiec, wówczas podaj odległość między miejscem wykonywania "
+"pracy w Niemczech a gospodarstwem domowym w ośrodku życia."
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:80
+msgid ""
+"Jeśli w rozliczanym roku zakończyłeś prowadzenie tego gospodarstwa domowego "
+"na terenie Niemiec, wówczas podaj odległość między miejscem wykonywania "
+"pracy w Niemczech a gospodarstwem domowym w ośrodku życia"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:85
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:86
+msgid "Ilość km do wpisania *"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:85
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:86
+msgid ""
+"Podaj odległość między gospodarstwem domowym w ośrodku życia a miejscem "
+"wykonywania pracy w Niemczech"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:90
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:91
+msgid ""
+"Łączna ilość zjazdów w trakcie prowadzenia tego podwójnego gospodarstwa "
+"domowego <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:95
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:96
+msgid "Koszty zjazdów publicznymi środkami transportu"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:100
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:101
+msgid ""
+"Koszty promów i przelotów lub koszty odpłatnego transportu zbiorczego "
+"pracodawcy"
+msgstr ""
+
+#: View/Elements/forms/step_8b_form_1.ctp:106
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:106
+msgid "Koszty najmu mieszkania na terenie Niemiec"
+msgstr ""
+
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:76
+msgid ""
+"Jeśli w rozliczanym roku, twój współmałzonek rozpoczął prowadzenie tego "
+"gospodarstwa domowego na terenie Niemiec, wówczas podaj odległość między "
+"miejscem wykonywania pracy w Niemczech a gospodarstwem domowym w ośrodku "
+"życia."
+msgstr ""
+
+#: View/Elements/forms/step_8bmalzonek_form_1.ctp:81
+msgid ""
+"Jeśli w rozliczanym roku twój współmałzonek zakończył prowadzenie tego "
+"gospodarstwa domowego na terenie Niemiec, wówczas podaj odległość między "
+"miejscem wykonywania pracy w Niemczech a gospodarstwem domowym w ośrodku "
+"życia"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:1;11
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:1;11
+msgid ""
+"Ryczałtowe diety na poczet wyżywienia przy rozpoczęcia prowadzenia "
+"podwójnego gospodarstwa domowego"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:28
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:27
+msgid ""
+"Czy chesz uwzględnić w rozliczeniu, diety związane z rozpoczęciem "
+"prowadzenia tego podwójnego gospodarstwa domowego?"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:61
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:60
+msgid "Czy gospodarstwo będące ośrodkiem życia znajduje się w Polsce?"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:66;78
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:65;77
+#: View/Elements/forms/step_9_form_1.ctp:69;74;79;131;136;142
+#: View/Elements/forms/step_9b_form_1.ctp:100;107;112
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:96;103;108
+#: View/Elements/forms/step_9malzonek_form_1.ctp:71;76;81;133;138;144
+msgid "ilość dni"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:66
+msgid ""
+"Podaj ilość dni, w którym wyjeżdżałeś i wracałeś do miejsca wykonywania "
+"pracy w Niemczech,  w ramach pierwszych 90 dni prowadzenia tego podwójnego "
+"gospodarstwa domowego"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:71
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:70
+msgid "koszt(do ukycia bo stała wartosc to 12)"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:78
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:77
+msgid ""
+"Podaj ile z tych pierwszych 90 dni prowadzenia podwójnego gospodarstwa "
+"domowego przebywaleś pełne 24 godziny naterenie Niemiec"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:83
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:82
+msgid "koszt(do ukycia bo stała wartosc to 24)"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:89
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:88
+#: View/Elements/forms/step_9_form_1.ctp:106;169
+#: View/Elements/forms/step_9malzonek_form_1.ctp:108;171
+msgid "€0"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:89
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:88
+msgid ""
+"Jeśli w tym czasie, pracodawca pokrywał koszty wyżywienia, to podaj w jakiej "
+"kwocie"
+msgstr ""
+
+#: View/Elements/forms/step_8d_form_1.ctp:94
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:93
+msgid "Podsuma do oblicznia i ukrycia"
+msgstr ""
+
+#: View/Elements/forms/step_8dmalzonek_form_1.ctp:65
+msgid ""
+"Podaj ilość dni, w którym wyjeżdżałeś i wracałeś do miejsca wykonywania "
+"pracy w Niemczech,  w ramach pierwszych 90 dni prowadzenia tego podwójnego "
+"gospodarstwa domoweg"
+msgstr ""
+
+#: View/Elements/forms/step_8malzonek_form_1.ctp:88
+#: View/Elements/forms/step_8malzonek_form_1_1.ctp:83
+msgid ""
+"Podaj datę od kiedy prowadzone było to gospodarstwo domowe  <sup>*</sup>"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:1;6
+#: View/Elements/forms/step_9malzonek_form_1.ctp:1;6
+msgid "Koszty uzyskania przychodu poniesione w roku podatkowym"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:21
+#: View/Elements/forms/step_9malzonek_form_1.ctp:22
+msgid ""
+"Czy w rozliczeniu roku, ponosiłeś koszty związane z zatrudnieniem na terenie "
+"Niemiec i chcesz je uwzględnić?"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:57
+#: View/Elements/forms/step_9malzonek_form_1.ctp:59
+msgid "miejsce"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:57
+#: View/Elements/forms/step_9malzonek_form_1.ctp:59
+msgid "Miejsce wykonywania pracy"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:64
+#: View/Elements/forms/step_9malzonek_form_1.ctp:66
+msgid "Okres od do"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:64;123
+#: View/Elements/forms/step_9malzonek_form_1.ctp:66;125
+msgid "Okres wykonywania pracy w tym miejscu"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:69;131
+#: View/Elements/forms/step_9malzonek_form_1.ctp:71;133
+msgid "Dni pracy w tygodniu"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:74;136
+#: View/Elements/forms/step_9malzonek_form_1.ctp:76;138
+msgid "Podaj ilość dni urlopu/chorobowego w powyższym okresie"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:79;142
+#: View/Elements/forms/step_9malzonek_form_1.ctp:81;144
+msgid ""
+"Podaj łączą ilość dni wykonywania pracy w Niemczech w podanym wyżej okresie"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:84;89;95;101;147;153;158;164
+#: View/Elements/forms/step_9malzonek_form_1.ctp:86;91;97;103;149;155;160;166
+msgid "ilość km"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:84;147
+#: View/Elements/forms/step_9malzonek_form_1.ctp:149
+msgid ""
+"Bezpośrednia odległość w km, między miejscem zamieszkania w Niemczech a "
+"miejscem wykonywania pracy (w jedną stronę)"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:89;153
+#: View/Elements/forms/step_9malzonek_form_1.ctp:91;155
+msgid "Ile z podanych wyżej km pokonujesz własny lub udosobnionym samachodem?"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:95;158
+#: View/Elements/forms/step_9malzonek_form_1.ctp:97;160
+msgid "Ile z podanych wyżej km pokonujesz transportem zbiorczym pracodawcy?"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:101;164
+#: View/Elements/forms/step_9malzonek_form_1.ctp:103;166
+msgid ""
+"Ilość z podanych wyżej km pokonujesz transportem publicznym, rowerem, "
+"motocyklem lub pieszo?"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:106;169
+#: View/Elements/forms/step_9malzonek_form_1.ctp:108;171
+msgid ""
+"Łączna kwota poniesionych kosztów w wyżej podanym okresie, na transport "
+"publiczy na podstawie paragonów, faktur, biletów"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:116
+#: View/Elements/forms/step_9malzonek_form_1.ctp:118
+msgid "Miejsce zbiórki"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:123
+#: View/Elements/forms/step_9malzonek_form_1.ctp:125
+msgid "okres od do"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:190
+#: View/Elements/forms/step_9malzonek_form_1.ctp:192
+msgid ""
+"Dodatki na pokrycie kosztów dodane przez pracodawcę (z karty podatkowej poz. "
+"18)"
+msgstr ""
+
+#: View/Elements/forms/step_9_form_1.ctp:204
+#: View/Elements/forms/step_9malzonek_form_1.ctp:201
+msgid ""
+"Ryczałtowo opodatkowane dodatki pracodawcy na pokrycie kosztów (z karty "
+"podatkowej poz. 18)"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:1;6
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:1
+msgid "Koszty podróży służbowych"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:21
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:19
+msgid ""
+"Czy w roku który rozliczasz poniosłeś koszty związane z podróżami "
+"służbowymi, pracą w delegacjach lub zmieniającymi się miejscami pracy np. "
+"różne budowy?"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:47
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:44
+msgid "nazwa"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:47
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:44
+#: View/Pagegroups/edit.ctp:94;96 View/Questionnairetypes/add.ctp:26
+#: View/Questionnairetypes/edit.ctp:27
+msgid "Nazwa"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:84
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:80
+msgid ""
+"Czy chcesz uwzględnić w rozliczeniu, diety związane z wykonywaniem pracy w "
+"różnych miejscach np. różne budowy?"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:100
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:96
+msgid "Nieobecność powyżej 8 godzin"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:107
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:103
+msgid "Nieobecność 24 godziny"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:112
+msgid "Dni w których przyjeżdzałeś i odjeżdżałeś z miesca wykonywania pracy"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:128
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:124
+msgid "Nazwa kraju"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:140;154;168
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:136;151;166
+msgid "ilosc dni"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:140
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:136
+msgid "Nieobecność w głównym zakładzie pracy powyżej 8 godzin"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:146;160;175;183
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:142;157;172;181
+msgid "Kwota €"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:146;160;175
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:142;157;172
+msgid "Kwota należnej diety"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:154
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:151
+msgid "Nieobecność ze względu na przyjazd i odjazd"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:168
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:166
+msgid "Nieobecność w głównym zakładzie pracy powyżej 24"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:183
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:181
+msgid "Suma w €"
+msgstr ""
+
+#: View/Elements/forms/step_9b_form_1.ctp:196
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:193
+msgid ""
+"Dodatki na pokrycie kosztów wypłacone przez pracodawcę (z karty podatkowej "
+"poz.20)"
+msgstr ""
+
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:5
+msgid "KOSZTY PODRÓŻY SŁUŻBOWYCH"
+msgstr ""
+
+#: View/Elements/forms/step_9bmalzonek_form_1.ctp:108
+msgid "Dni w których przyjeżdżałeś i odjeżdżałeś z miejsca wykonywania pracy"
+msgstr ""
+
+#: View/Elements/forms/step_9malzonek_form_1.ctp:86
+msgid ""
+"Bezpośrednia odległość w km, między miejscem zamieszkania w Niemczech a "
+"miejscem wykonywania pracy (w jedną stronę) "
+msgstr ""
+
+#: View/Emails/lostpassword.ctp:3 View/Emails/html/lostpassword.ctp:3
+msgid "Please click %s to reset your password."
+msgstr "Kliknij %s aby zresetować hasło."
+
+#: View/Emails/lostpassword.ctp:3 View/Emails/html/lostpassword.ctp:3
+#: View/Emails/html/register.ctp:107
+msgid "here"
+msgstr "tutaj"
+
+#: View/Emails/lostpassword.ctp:5 View/Emails/html/lostpassword.ctp:5
+msgid "If you did not request password change, ignore that message."
+msgstr "Jeśli nie żądałeś zmiany hasła, zignoruj tę wiadomość."
+
+#: View/Emails/html/contact.ctp:3 View/Emails/html/register.ctp:93
+msgid "Drogi Administratorze"
+msgstr ""
+
+#: View/Emails/html/contact.ctp:4
+msgid "Wypełniono formularz kontaktowy na <b>%s</b>"
+msgstr ""
+
+#: View/Emails/html/contact.ctp:5 View/Emails/html/register.ctp:95
+#: View/Emails/html/verification.ctp:80 View/Emails/html/verified.ctp:81
+msgid "Detale"
+msgstr ""
+
+#: View/Emails/html/contact.ctp:13 View/Questionnaires/add.ctp:32
+#: View/Users/register.ctp:21 View/Users/user_profile.ctp:124
+msgid "Imię"
+msgstr ""
+
+#: View/Emails/html/contact.ctp:14
+msgid "Wiadomość"
+msgstr ""
+
+#: View/Emails/html/register.ctp:81
+msgid "Drogi %s"
+msgstr ""
+
+#: View/Emails/html/register.ctp:82
+msgid ""
+"We're pleased to notify, that your account at <b>%s</b> has been registered."
+msgstr "Twoje konto w portalu <b>%s</b> zostało zarejestrowane."
+
+#: View/Emails/html/register.ctp:83
+msgid "Your login details"
+msgstr "Twoje dane logowania"
+
+#: View/Emails/html/register.ctp:87;100 View/Emails/html/verification.ctp:84
+#: View/Emails/html/verified.ctp:85
+msgid "Login "
+msgstr ""
+
+#: View/Emails/html/register.ctp:88;101 View/Roles/view.ctp:93
+#: View/Users/admin_add.ctp:45 View/Users/admin_edit.ctp:63
+#: View/Users/changepassword.ctp:10 View/Users/login.ctp:30
+#: View/Users/register.ctp:43
+msgid "Password"
+msgstr "Hasło"
+
+#: View/Emails/html/register.ctp:94
+msgid "Zostało zarejestrowane nowe konto na <b>%s</b>"
+msgstr ""
+
+#: View/Emails/html/register.ctp:99
+msgid "Typ "
+msgstr ""
+
+#: View/Emails/html/register.ctp:107
+msgid "Please click %s to activate your account."
+msgstr "Kliknij %s aby aktywować konto."
+
+#: View/Emails/html/verification.ctp:79
+msgid "Prośba o weryfikację konta na stronie <b>%s</b>"
+msgstr ""
+
+#: View/Emails/html/verified.ctp:79
+msgid "Konto zweryfikowane na <b>%s</b>"
+msgstr ""
+
+#: View/Emails/html/verified.ctp:80
+msgid "Możesz używać naszego certyfikatu do weryfikacji swoich wniosków."
+msgstr ""
+
+#: View/Index/index.ctp:38 View/Users/login.ctp:8
+msgid "Zaloguj się lub"
+msgstr ""
+
+#: View/Index/index.ctp:38 View/Users/login.ctp:8
+msgid "załóż konto"
+msgstr ""
+
+#: View/Index/index.ctp:41;44 View/Users/login.ctp:24
+#: View/Users/lostpassword.ctp:15 Model/User.php:validation for field email
+msgid "email"
+msgstr "E-mail"
+
+#: View/Index/index.ctp:50
+msgid "hasło"
+msgstr ""
+
+#: View/Index/index.ctp:58 View/Users/login.ctp:37
+msgid "Remember me"
+msgstr "Zapamiętaj mnie"
+
+#: View/Index/index.ctp:63 View/Users/login.ctp:42
+msgid "Forgot password?"
+msgstr "Nie pamiętasz hasła?"
+
+#: View/Index/index.ctp:70 View/Users/login.ctp:49
+msgid "Login"
+msgstr "Zaloguj"
+
+#: View/Index/index.ctp:78
+msgid "Przejdź do rejestracji"
+msgstr ""
+
+#: View/Index/index_admin.ctp:4 View/Index/index_admina.ctp:3
+msgid "Panel administratora"
+msgstr ""
+
+#: View/Index/index_admin.ctp:25;48;62;76;101;115;129;267;282;296
+#: View/Index/index_admina.ctp:16;31;45 View/Index/index_superadmin.ctp:17;32
+msgid "View more"
+msgstr "Przejdź"
+
+#: View/Index/index_admin.ctp:46
+msgid "Wnioski oczekujące na płatność lub nieopłacone"
+msgstr ""
+
+#: View/Index/index_admin.ctp:60
+msgid "Wnioski wysłane (oczekujące na decyzję)"
+msgstr ""
+
+#: View/Index/index_admin.ctp:74
+msgid "Wnioski odrzucone"
+msgstr ""
+
+#: View/Index/index_admin.ctp:99
+msgid "B2B aktywni"
+msgstr ""
+
+#: View/Index/index_admin.ctp:113
+msgid "B2B oczekujący"
+msgstr ""
+
+#: View/Index/index_admin.ctp:280
+msgid "Użytkownicy niezweryfikowani"
+msgstr ""
+
+#: View/Index/index_admina.ctp:29 View/Roles/view.ctp:5 View/Users/edit.ctp:120
+msgid "Role"
+msgstr ""
+
+#: View/Index/index_superadmin.ctp:3
+msgid "SuperAdmin Dashboard"
+msgstr ""
+
+#: View/Index/index_superadmin.ctp:15
+msgid "Instances"
+msgstr ""
+
+#: View/Index/index_superadmin.ctp:30
+msgid "All Users"
+msgstr ""
+
+#: View/Index/info.ctp:3;5
+msgid "Konfiguracja/Opcje"
+msgstr ""
+
+#: View/Index/logout.ctp:14
+msgid "Wylogowano "
+msgstr ""
+
+#: View/Index/logout.ctp:15
+msgid "Za chwilę zostaniesz przekierowany na stronę główna."
+msgstr ""
+
+#: View/Index/datatable/order_incoming.ctp:26
+msgid "Are you sure you want to delete order number %s?"
+msgstr ""
+
+#: View/Packages/add.ctp:3
+msgid "Add Package"
+msgstr ""
+
+#: View/Packages/add.ctp:12 View/Packages/edit.ctp:13 View/Packages/view.ctp:20
+msgid "List Packages"
+msgstr ""
+
+#: View/Packages/add.ctp:13 View/Packages/edit.ctp:14 View/Packages/view.ctp:22
+#: View/Roles/add.ctp:13 View/Roles/edit.ctp:14 View/Roles/view.ctp:22
+msgid "List Users"
+msgstr "Lista"
+
+#: View/Packages/add.ctp:14 View/Packages/edit.ctp:15 View/Packages/view.ctp:23
+#: View/Roles/add.ctp:14 View/Roles/edit.ctp:15 View/Roles/view.ctp:23;124
+msgid "New User"
+msgstr "Nowy użytkownik"
+
+#: View/Packages/add.ctp:63 View/Packages/edit.ctp:67 View/Packages/view.ctp:41
+msgid "Cost"
+msgstr ""
+
+#: View/Packages/add.ctp:66 View/Packages/edit.ctp:70 View/Packages/view.ctp:48
+msgid "Currency"
+msgstr "Waluta"
+
+#: View/Packages/add.ctp:69 View/Packages/edit.ctp:73 View/Packages/view.ctp:55
+msgid "Tokens"
+msgstr ""
+
+#: View/Packages/add.ctp:72 View/Packages/edit.ctp:76 View/Packages/view.ctp:62
+msgid "Title"
+msgstr ""
+
+#: View/Packages/add.ctp:78 View/Packages/edit.ctp:82
+msgid "User Id"
+msgstr ""
+
+#: View/Packages/dotpaythankyou.ctp:19
+msgid "Błąd. Taka płatność nie istnieje nie istnieje"
+msgstr ""
+
+#: View/Packages/dotpaythankyou.ctp:26
+#: View/Questionnaires/dotpaythankyou.ctp:28
+msgid "Płatność przyjęta"
+msgstr ""
+
+#: View/Packages/dotpaythankyou.ctp:39
+#: View/Questionnaires/dotpaythankyou.ctp:21;41
+msgid "Błąd. Taki wniosek nie istnieje nie istnieje"
+msgstr ""
+
+#: View/Packages/edit.ctp:3
+msgid "Edit Package"
+msgstr ""
+
+#: View/Packages/index.ctp:4
+msgid "Packages"
+msgstr ""
+
+#: View/Packages/index.ctp:13
+msgid "Packages List"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:14
+msgid "Posiadasz"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:18 View/Questionnaires/view.ctp:44
+#: View/Users/add.ctp:71 View/Users/edit.ctp:80 View/Users/edit_b2b.ctp:65
+#: View/Users/register.ctp:69 View/Users/user_profile.ctp:38
+msgid "Firma"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:22 View/Questionnaires/view.ctp:49
+#: View/Users/add.ctp:76 View/Users/edit.ctp:85 View/Users/edit_b2b.ctp:70
+#: View/Users/register.ctp:74 View/Users/user_profile.ctp:45
+msgid "NIP"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:27 View/Questionnaires/view.ctp:55
+#: View/Users/user_profile.ctp:60
+msgid "Nazwa użytkownika"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:32 View/Questionnaires/view.ctp:60
+#: View/Users/register.ctp:52 View/Users/user_profile.ctp:65
+msgid "Data urodzenia"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:42 View/Questionnaires/view.ctp:70
+#: View/Users/profile.ctp:23 View/Users/user_profile.ctp:75
+msgid "Konto utworzono"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:91 View/Questionnaires/payment.ctp:35;63
+msgid "Wybieram i płacę *"
+msgstr ""
+
+#: View/Packages/my_tokens.ctp:114
+msgid "Podaj nazwę firmy"
+msgstr ""
+
+#: View/Packages/paydotpay_for_tokens.ctp:9 View/Questionnaires/paydotpay.ctp:9
+msgid "Zapłać przez Dotpay"
+msgstr ""
+
+#: View/Packages/view.ctp:5
+msgid "Package"
+msgstr ""
+
+#: View/Packages/view.ctp:19
+msgid "Delete Package"
+msgstr ""
+
+#: View/Packages/view.ctp:21
+msgid "New Package"
+msgstr ""
+
+#: View/Packages/view.ctp:76
+msgid "User"
+msgstr "Użytkownik"
+
+#: View/Pagegroups/add.ctp:13
+msgid "Dodaj pomoc"
+msgstr ""
+
+#: View/Pagegroups/edit.ctp:3
+msgid "Edytuj Pomoce"
+msgstr ""
+
+#: View/Pagegroups/edit.ctp:11
+msgid "Edytuj Pomoc"
+msgstr ""
+
+#: View/Pagegroups/edit.ctp:99
+msgid "Dodaj pliki"
+msgstr ""
+
+#: View/Pagegroups/edit.ctp:105
+msgid "Opis"
+msgstr ""
+
+#: View/Pagegroups/edit.ctp:142 View/Pagegroups/view.ctp:41
+msgid "Pobierz"
+msgstr ""
+
+#: View/Payments/my_payments.ctp:1057 View/Questionnaires/all.ctp:107
+#: View/Questionnaires/all_b2b.ctp:1057
+msgid "Dodaj nowy wniosek"
+msgstr ""
+
+#: View/Pdf/pdf_1.ctp:112 View/Virtualtypes/add.ctp:44
+msgid "Typ"
+msgstr ""
+
+#: View/Pdf/pdf_1.ctp:115
+msgid "Wartość"
+msgstr ""
+
+#: View/Questionnaires/add.ctp:74;77
+msgid "START"
+msgstr ""
+
+#: View/Questionnaires/add.ctp:85
+msgid "Załóż konto"
+msgstr ""
+
+#: View/Questionnaires/add.ctp:86
+msgid "Zaloguj się"
+msgstr ""
+
+#: View/Questionnaires/add.ctp:96
+msgid "Brak nowych wniosków do dodania"
+msgstr ""
+
+#: View/Questionnaires/add.ctp:103 View/Questionnaires/dotpaythankyou.ctp:19
+#: View/Users/notifications.ctp:52
+msgid "Zobacz moje wnioski"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:19 View/Questionnaires/decision.ctp:33
+msgid "Wydruk PDF"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:22 View/Users/datatable/usernotverified.ctp:20
+msgid "Podgląd"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:25
+#: View/Questionnaires/datatable/questionb2b.ctp:80
+msgid "Popraw"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:26
+#: View/Questionnaires/datatable/questionb2b.ctp:81
+msgid "Weryfikuj"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:30
+#: View/Questionnaires/datatable/questionb2b.ctp:45
+msgid "Edytuj"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:80
+msgid "Status:"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:83
+msgid "Wypełniony poprawnie"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:87
+msgid "Oczekuje na wysłanie"
+msgstr ""
+
+#: View/Questionnaires/all.ctp:91
+msgid "Wniosek wysłany. Oczekuje na decyzję"
+msgstr ""
+
+#: View/Questionnaires/decision.ctp:8
+msgid "Decyzja wniosku"
+msgstr ""
+
+#: View/Questionnaires/decision.ctp:12 View/Questionnairetypes/add.ctp:42
+#: View/Questionnairetypes/edit.ctp:43 View/Roles/view.ctp:94
+#: View/Users/add.ctp:118
+msgid "Status"
+msgstr "Status"
+
+#: View/Questionnaires/decision.ctp:68
+msgid "Wyślij dodatkowe dokumenty do urzędu skarbowego"
+msgstr ""
+
+#: View/Questionnaires/decision.ctp:72
+msgid "Zobacz podsumowanie wniosku"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:8;20;63
+#: View/Questionnaires/datatable/questionb2b.ctp:61 View/Users/verify.ctp:81
+msgid "Wyślij dokumenty"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:14;81
+msgid "podsumowanie"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:16;83
+#: View/Questionnaires/datatable/questionb2b.ctp:60;64;68
+msgid "Decyzja"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:47
+msgid "przejdź do decyzji"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:59
+msgid "Załącz dokumenty, które chcesz wysłać do urzędu skarboweg"
+msgstr ""
+
+#: View/Questionnaires/documents.ctp:64
+msgid "pomiń i przejdź dalej"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:13
+msgid "Błędy we wniosku"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:72
+#: View/Questionnaires/edit-system_id-1_1.ctp:834;838;853
+msgid "Zakończ i przejdź do podsumowania"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:76
+msgid "Zakończ"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:91
+msgid "Zapisz wszystkie pola i zweryfikuj"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:218
+msgid "Zapisano wniosek"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:247
+#: View/Questionnaires/edit-system_id-1_1.ctp:927
+msgid "Zapisano do szkicu"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:300
+msgid "Popraw błedy we wniosku"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:336
+msgid "Popraw błedy w tym kroku"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:358
+msgid "Popraw błedy w kroku"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1.ctp:383
+msgid "Uzupełnij wymagane pola"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:29
+msgid "Wybierz swój Land (Bundesland) w którym pracujesz *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:46
+msgid "Wybierz właściwy niemiecki Urząd Skarbowy (Finanzamt) *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:59
+msgid "Niemiecki Numer Podatkowy (Steuernummer)"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:65
+msgid "Nie mam nadanego numeru, wnioskuje o nowy numer"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:83
+msgid "Wybierz swój Land (Bundesland) ostatni właściwy"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:100
+msgid "Wybierz właściwy niemiecki Urząd Skarbowy (Finanzamt)"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:112;202;279;489;537;611;715;819
+msgid "Kolejny krok"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:145;365
+msgid "Identifikationsnummer *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:145;365
+msgid "Niemiecki numer Identyfikacyjny (Identifikationsnummer) *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:182;390
+msgid "Wyznanie *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:195
+msgid "Wykonywany zawód *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:195;414
+msgid "Zawód wykonywany w Nimeczech *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:242;446
+msgid "Nr domu *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:267;471;703
+msgid "Kraj *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:319
+msgid "Stan cywilny *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:331
+msgid "Data separacji"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:344
+msgid "Data rozwodu"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:402
+msgid ""
+"Czy Twój współmałżonek również pracował na terenie Niemiec i chce złożyć "
+"zeznanie podatkowe za ten rok?"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:427
+msgid "Adres taki sam jak podany wyżej"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:523
+msgid "Czy posiadasz dzieci"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:570
+msgid "IBAN *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:575
+msgid "Nazwa banku *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:575
+msgid "Nazwa banku  *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:581
+msgid "BIC/SWIFT"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:593
+msgid "Moja żona jest właścicielem konta"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:605
+msgid "Właściciel konta Imię i Nazwisko"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:647
+msgid "E-mail *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:647
+msgid "E-mail  *"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:662
+msgid "Chcę otrzymać decyzję pod inny adres"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:668
+msgid "Chcę otrzymać decyzję na adres"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:673
+msgid "Ulica "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:678
+msgid "numer "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:678
+msgid "Nr domu "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:689
+msgid "Kod pocztowy "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:694
+msgid "Miejscowość "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:694
+msgid "Miejscowość"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:762
+msgid "Niemieckie świadczenia "
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:776
+msgid "Czy pobierałeś niemieckie świadczenia (współmałżonek/partner)?"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:788
+msgid "Niemieckie świadczenia (współmałżonek/partner)"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:804
+msgid ""
+"Czy utrzymujesz stałe stosunki gospodarcze z instytucjami finansowymi z "
+"zagranicy?"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:812
+msgid "Czy uzyskałeś dochody z tytułu pracy najemnej na terenie Niemiec?"
+msgstr ""
+
+#: View/Questionnaires/edit-system_id-1_1.ctp:852
+msgid ""
+"Klikając poniżej przejdziesz do płatności! Przed dokonaniem płatności będzie "
+"możliwe wprowadzenie zmian."
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:10 View/Users/datatable/userb2b.ctp:40
+msgid "Płatności"
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:17;50 View/Questionnaires/payment_b2b.ctp:20
+#: View/Questionnaires/payment_przelew.ctp:16
+msgid "Płatność za"
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:18;51 View/Questionnaires/payment_b2b.ctp:22
+#: View/Questionnaires/payment_przelew.ctp:17
+msgid "Nr wniosku"
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:20;53 View/Questionnaires/payment_b2b.ctp:24
+#: View/Questionnaires/payment_przelew.ctp:18
+msgid "Razem do zapłaty"
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:72
+msgid "Zobacz podsumowanie"
+msgstr ""
+
+#: View/Questionnaires/payment.ctp:76 View/Questionnaires/results.ctp:20
+#: View/Questionnaires/verify.ctp:8
+msgid "Podgląd wydruku PDF"
+msgstr ""
+
+#: View/Questionnaires/payment_b2b.ctp:10
+msgid "Płatności poprzez token"
+msgstr ""
+
+#: View/Questionnaires/payment_b2b.ctp:11
+msgid "Twoje dostępne tokeny"
+msgstr ""
+
+#: View/Questionnaires/payment_b2b.ctp:21
+msgid "Wnioskodawca"
+msgstr ""
+
+#: View/Questionnaires/payment_b2b.ctp:36
+msgid "Zapłać moim Tokenem"
+msgstr ""
+
+#: View/Questionnaires/payment_b2b.ctp:41 View/Users/user_profile.ctp:92
+msgid "Dokup tokeny"
+msgstr ""
+
+#: View/Questionnaires/payment_przelew.ctp:10
+msgid "Płatnośc przelewem"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:27
+msgid "przejdź do płatności"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:33
+msgid "przejdź do certyfikacji"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:39
+msgid "przejdź do wysłania wniosku"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:45
+msgid "zobacz decyzję"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:52 View/Questionnaires/verify.ctp:11
+msgid "popraw wniosek"
+msgstr ""
+
+#: View/Questionnaires/results.ctp:56
+msgid "do wniosku"
+msgstr ""
+
+#: View/Questionnaires/send.ctp:7
+msgid "Prośba o wniosek do druku"
+msgstr ""
+
+#: View/Questionnaires/send.ctp:9
+msgid "Wyslij wniosek"
+msgstr ""
+
+#: View/Questionnaires/send.ctp:32
+msgid "Chcę otrzymać wniosek"
+msgstr ""
+
+#: View/Questionnaires/send.ctp:57
+msgid "Podgląd wydruku PDF (poglądowy)"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:14
+msgid "Wybierz rodzaj weryfikacji wnioski"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:20 View/Questionnaires/view.ctp:36
+#: View/Users/user_profile.ctp:54
+msgid "Certyfikat"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:22
+msgid "Własny Certyfikat"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:24
+msgid "Bez certyfikacji"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:58
+msgid "Wybieram ten certyfikat"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:89 View/Users/upload_certyficate.ctp:57
+msgid "Certyfikat *.pfx"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:97
+msgid "Dodaj certyfikat"
+msgstr ""
+
+#: View/Questionnaires/verify.ctp:123
+msgid "Wybieram bez certyfikacji"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:6
+msgid "Oczekujemy na wpłatę na konto tradycyjnym przelewem"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:28 View/Users/user_profile.ctp:27
+msgid "Status konta"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:34 View/Users/user_profile.ctp:52
+msgid "Certyfikaty do weryfikacji wniosków"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:78 View/Users/add.ctp:56 View/Users/edit.ctp:59
+#: View/Users/register.ctp:59 View/Users/user_profile.ctp:83
+msgid "Typ konta"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:98
+msgid "Dane: "
+msgstr ""
+
+#: View/Questionnaires/view.ctp:106
+msgid "Status wniosku"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:113
+msgid "Dane na wniosku"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:126
+msgid "Szkic (niezweryfikowany przez ELSTER)"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:130
+msgid "Poprawnie wypełniony wniosek (zweryfikowany przez ELSTER)"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:147
+msgid "Utworzony"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:159
+msgid "Typ płatności"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:164
+msgid "Certyfikacja"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:195
+msgid "Zobacz logi"
+msgstr ""
+
+#: View/Questionnaires/view.ctp:198
+msgid "Zobacz wniosek"
+msgstr ""
+
+#: View/Questionnaires/datatable/questionb2b.ctp:84
+msgid "Wydrukuj PDF"
+msgstr ""
+
+#: View/Questionnaires/datatable/questionb2b.ctp:91
+msgid "Chcesz napewno usunąć wniosek %s?"
+msgstr ""
+
+#: View/Questionnairetypes/add.ctp:3
+msgid "Dodaj typ wniosku"
+msgstr ""
+
+#: View/Questionnairetypes/add.ctp:31 View/Questionnairetypes/edit.ctp:32
+msgid "Rok"
+msgstr ""
+
+#: View/Questionnairetypes/add.ctp:36 View/Questionnairetypes/edit.ctp:37
+msgid "numer formularza"
+msgstr ""
+
+#: View/Questionnairetypes/add.ctp:36 View/Questionnairetypes/edit.ctp:37
+msgid "Numer formularza"
+msgstr ""
+
+#: View/Questionnairetypes/add.ctp:42 View/Questionnairetypes/edit.ctp:43
+msgid "status"
+msgstr ""
+
+#: View/Questionnairetypes/edit.ctp:3
+msgid "Edytuj typ wniosku"
+msgstr ""
+
+#: View/Roles/add.ctp:3
+msgid "Add Role"
+msgstr ""
+
+#: View/Roles/add.ctp:12 View/Roles/edit.ctp:13 View/Roles/view.ctp:20
+msgid "List Roles"
+msgstr "Role"
+
+#: View/Roles/add.ctp:65 View/Roles/edit.ctp:65
+msgid "Ogólne"
+msgstr ""
+
+#: View/Roles/add.ctp:73 View/Roles/edit.ctp:73
+msgid "Uprawnienia"
+msgstr ""
+
+#: View/Roles/add.ctp:77 View/Roles/edit.ctp:77
+msgid "Dla projektów"
+msgstr ""
+
+#: View/Roles/add.ctp:77;82 View/Roles/edit.ctp:77;82
+msgid "rola"
+msgstr ""
+
+#: View/Roles/add.ctp:82 View/Roles/edit.ctp:82
+msgid "Dla zadań"
+msgstr ""
+
+#: View/Roles/add.ctp:92 View/Roles/edit.ctp:92
+msgid "Dodatkowe uprawnienia"
+msgstr ""
+
+#: View/Roles/edit.ctp:3 View/Roles/view.ctp:18
+msgid "Edit Role"
+msgstr ""
+
+#: View/Roles/view.ctp:19
+msgid "Delete Role"
+msgstr ""
+
+#: View/Roles/view.ctp:21
+msgid "New Role"
+msgstr "Nowa rola"
+
+#: View/Roles/view.ctp:48
+msgid "Symbol"
+msgstr ""
+
+#: View/Roles/view.ctp:55;95
+msgid "Created"
+msgstr "Data utworzenia"
+
+#: View/Roles/view.ctp:85
+msgid "Related Users"
+msgstr ""
+
+#: View/Roles/view.ctp:91 View/Users/add.ctp:101 View/Users/edit.ctp:45
+#: View/Users/edit_b2b.ctp:43 View/Users/profile.ctp:56
+msgid "Username"
+msgstr ""
+
+#: View/Roles/view.ctp:92
+msgid "Email"
+msgstr "E-mail"
+
+#: View/Roles/view.ctp:97
+msgid "Role Id"
+msgstr ""
+
+#: View/Roles/view.ctp:113
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/Roles/view.ctp:114
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Roles/view.ctp:115
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Technicals/add.ctp:3
+msgid "Add Technical"
+msgstr ""
+
+#: View/Technicals/add.ctp:12 View/Technicals/edit.ctp:13
+#: View/Technicals/view.ctp:20
+msgid "List Technicals"
+msgstr ""
+
+#: View/Technicals/add.ctp:25 View/Technicals/edit.ctp:26
+msgid "Konfiguracja"
+msgstr ""
+
+#: View/Technicals/add.ctp:40 View/Technicals/edit.ctp:44
+#: View/Technicals/view.ctp:46
+msgid "Value"
+msgstr ""
+
+#: View/Technicals/edit.ctp:3 View/Technicals/view.ctp:18
+msgid "Edit Technical"
+msgstr ""
+
+#: View/Technicals/view.ctp:5
+msgid "Technical"
+msgstr ""
+
+#: View/Technicals/view.ctp:19
+msgid "Delete Technical"
+msgstr ""
+
+#: View/Technicals/view.ctp:21
+msgid "New Technical"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:273
+msgid "Are you sure?"
+msgstr "Czy na pewno?"
+
+#: View/Themed/App/Elements/head.ctp:300
+msgid "Success"
+msgstr "Sukces"
+
+#: View/Themed/App/Layouts/bootstrap.ctp:99
+msgid "Wyloguj"
+msgstr ""
+
+#: View/Themed/App/Layouts/bootstrap.ctp:110
+msgid "Płatności: "
+msgstr ""
+
+#: View/Themed/App/Layouts/bootstrap.ctp:319
+msgid "Wybierz"
+msgstr ""
+
+#: View/Users/add.ctp:4
+msgid "Dodaj użytkownika B2B"
+msgstr ""
+
+#: View/Users/add.ctp:6
+msgid "Dodaj użytkownika"
+msgstr ""
+
+#: View/Users/add.ctp:34
+msgid "Rola i typ konta"
+msgstr ""
+
+#: View/Users/add.ctp:40
+msgid "Rola"
+msgstr ""
+
+#: View/Users/add.ctp:67 View/Users/edit.ctp:76 View/Users/edit_b2b.ctp:61
+msgid "Dane firmy"
+msgstr ""
+
+#: View/Users/add.ctp:71
+msgid "firma"
+msgstr ""
+
+#: View/Users/add.ctp:76
+msgid "nip"
+msgstr ""
+
+#: View/Users/add.ctp:81
+msgid "Dane konta"
+msgstr ""
+
+#: View/Users/add.ctp:85 View/Users/edit.ctp:30 View/Users/edit_b2b.ctp:28
+msgid "imie"
+msgstr ""
+
+#: View/Users/add.ctp:90 View/Users/edit.ctp:35 View/Users/edit_b2b.ctp:33
+msgid "nazwisko"
+msgstr ""
+
+#: View/Users/add.ctp:95 View/Users/edit.ctp:40 View/Users/edit_b2b.ctp:38
+msgid "tel"
+msgstr ""
+
+#: View/Users/add.ctp:95 View/Users/edit.ctp:40 View/Users/edit_b2b.ctp:38
+msgid "telefon"
+msgstr ""
+
+#: View/Users/add.ctp:106 View/Users/edit.ctp:50 View/Users/edit_b2b.ctp:48
+#: View/Users/profile.ctp:61
+msgid "e-mail"
+msgstr ""
+
+#: View/Users/add.ctp:113 View/Users/edit.ctp:69 View/Users/edit_b2b.ctp:54
+#: View/Users/register.ctp:52 View/Users/user_profile.ctp:139
+msgid "data urodzenia"
+msgstr ""
+
+#: View/Users/add.ctp:146 View/Users/edit.ctp:136
+msgid "Superadmin"
+msgstr ""
+
+#: View/Users/add.ctp:152 View/Users/edit.ctp:142
+msgid "Instance"
+msgstr ""
+
+#: View/Users/add.ctp:166
+msgid "Dodaj"
+msgstr ""
+
+#: View/Users/admin_add.ctp:6
+msgid "New user"
+msgstr "Nowy użytkownik"
+
+#: View/Users/admin_add.ctp:50 View/Users/admin_edit.ctp:68
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: View/Users/admin_edit.ctp:6
+msgid "Edit user"
+msgstr "Edytuj użytkownika"
+
+#: View/Users/admin_edit.ctp:55
+msgid "Change password"
+msgstr "Zmiana hasła"
+
+#: View/Users/changepassword.ctp:5
+msgid "Set new password"
+msgstr "Ustaw nowe hasło"
+
+#: View/Users/changepassword.ctp:15 View/Users/register.ctp:48
+msgid "Repeat password"
+msgstr "Powtórz hasło"
+
+#: View/Users/edit.ctp:45 View/Users/edit_b2b.ctp:43 View/Users/profile.ctp:56
+#: View/Users/user_profile.ctp:124;129
+msgid "First name"
+msgstr "Imię"
+
+#: View/Users/edit.ctp:92
+msgid "Administrator options"
+msgstr ""
+
+#: View/Users/edit.ctp:169 View/Users/edit_b2b.ctp:283
+msgid "Weryfikacja"
+msgstr ""
+
+#: View/Users/edit.ctp:214 View/Users/edit_b2b.ctp:235
+#: View/Users/profile.ctp:81
+msgid "Change Password"
+msgstr "Zmiana hasła"
+
+#: View/Users/edit.ctp:231 View/Users/edit_b2b.ctp:252
+#: View/Users/profile.ctp:97 View/Users/user_profile.ctp:173
+msgid "Old password"
+msgstr "Stare hasło"
+
+#: View/Users/edit.ctp:238 View/Users/edit_b2b.ctp:259
+#: View/Users/profile.ctp:103 View/Users/user_profile.ctp:179
+msgid "New password"
+msgstr "Nowe hasło"
+
+#: View/Users/edit.ctp:243 View/Users/edit_b2b.ctp:264
+#: View/Users/profile.ctp:108 View/Users/user_profile.ctp:184
+msgid "Confirm new password"
+msgstr "Potwierdź nowe hasło"
+
+#: View/Users/edit_b2b.ctp:77
+msgid "Status konta B2B"
+msgstr ""
+
+#: View/Users/edit_b2b.ctp:112;146
+msgid "Zapisz zmiany"
+msgstr ""
+
+#: View/Users/edit_b2b.ctp:126
+msgid "Dostępne tokeny"
+msgstr ""
+
+#: View/Users/edit_b2b.ctp:158
+msgid "Pakiety"
+msgstr ""
+
+#: View/Users/lostpassword.ctp:9
+msgid "Forget Password?"
+msgstr "Przypominanie hasła"
+
+#: View/Users/lostpassword.ctp:11
+msgid "Enter your e-mail address below to reset your password."
+msgstr "Wpisz adres e-mail którego użyłeś/aś do rejestracji konta."
+
+#: View/Users/notifications.ctp:6
+msgid "Powiadomiania"
+msgstr ""
+
+#: View/Users/premium.ctp:6
+msgid "Become premium user"
+msgstr "Zostań użytkownikiem premium"
+
+#: View/Users/profile.ctp:39
+msgid "Zmień dane"
+msgstr ""
+
+#: View/Users/register.ctp:92
+msgid "Zarejestruj się"
+msgstr ""
+
+#: View/Users/register.ctp:95
+msgid "Powrót do logowania"
+msgstr ""
+
+#: View/Users/registered.ctp:13 View/Users/registered_firmowe.ctp:13
+msgid "Rejestracja zakończona "
+msgstr ""
+
+#: View/Users/registered.ctp:14
+msgid ""
+"Wejdź na swoją skrzynkę pocztową i kliknij link aktywacyjny do swojego konta."
+msgstr ""
+
+#: View/Users/registered_firmowe.ctp:14
+msgid "Poczekaj na potwierdzenie administratora o aktywacji konta."
+msgstr ""
+
+#: View/Users/upload_certyficate.ctp:12 View/Users/verify.ctp:12
+msgid "Dokumenty przesłane do weryfikacji Twojego konta"
+msgstr ""
+
+#: View/Users/upload_certyficate.ctp:27 View/Users/verify.ctp:27
+msgid "Dodaj kolejne"
+msgstr ""
+
+#: View/Users/upload_certyficate.ctp:42
+msgid "Osobisty certyfikat"
+msgstr ""
+
+#: View/Users/upload_certyficate.ctp:65
+msgid "Wyślij certyfikat"
+msgstr ""
+
+#: View/Users/upload_certyficate.ctp:66;85 View/Users/verify.ctp:82;101
+msgid "Do profilu"
+msgstr ""
+
+#: View/Users/user_profile.ctp:4
+msgid ""
+"Konto poprawnie zweryfikowane. Możesz podpinać do swoich wniosków Certyfikat "
+msgstr ""
+
+#: View/Users/user_profile.ctp:9
+msgid ""
+"Konto poprawnie zweryfikowane. Możesz podpinać do swoich wniosków własny "
+"certyfikat "
+msgstr ""
+
+#: View/Users/user_profile.ctp:32
+msgid "Przejdź do weryfikacji konta"
+msgstr ""
+
+#: View/Users/user_profile.ctp:88
+msgid "Twoje tokeny"
+msgstr ""
+
+#: View/Users/user_profile.ctp:104
+msgid ""
+"Uwaga! Zmiana danych spowoduje, że będzie wymagany ponowny proces "
+"weryfikacji konta. Utracisz możliwść podpianania certyfikatu SpeedTax do "
+"Twoich wniosków"
+msgstr ""
+
+#: View/Users/user_profile.ctp:163
+msgid "Zmiana hasła"
+msgstr ""
+
+#: View/Users/verify.ctp:42
+msgid "Dokumenty do weryfikacji Twojego konta"
+msgstr ""
+
+#: View/Users/verify.ctp:58
+msgid "Dowód osobisty"
+msgstr ""
+
+#: View/Users/verify.ctp:63
+msgid "Drugi dokument"
+msgstr ""
+
+#: View/Users/verify.ctp:74
+msgid "Twoje zdjęcie"
+msgstr ""
+
+#: View/Users/view.ctp:28
+msgid "Account details on"
+msgstr ""
+
+#: View/Users/view.ctp:35
+msgid "Date of birth"
+msgstr ""
+
+#: View/Users/view.ctp:39
+msgid "Account creation date"
+msgstr ""
+
+#: View/Users/datatable/user.ctp:20;23
+#: View/Users/datatable/useradmins.ctp:20;23
+#: View/Users/datatable/userb2b.ctp:28;31
+#: View/Users/datatable/userb2bwaiting.ctp:21;24
+msgid "Login As"
+msgstr "Zaloguj"
+
+#: View/Users/datatable/user.ctp:31 View/Users/datatable/useradmins.ctp:31
+#: View/Users/datatable/userb2bwaiting.ctp:30
+msgid "Are you sure you want to delete %s?"
+msgstr "Czy na pewno chcesz usunąć %s?"
+
+#: View/Users/datatable/userb2bwaiting.ctp:19
+msgid "Aktywuj konto"
+msgstr ""
+
+#: View/Users/datatable/userb2bwaiting.ctp:19
+msgid "Czy chcesz zmienić status konta na aktywne dla firmy %s?"
+msgstr ""
+
+#: View/Users/datatable/usernotverified.ctp:19
+msgid "Zatwierdź weryfikację"
+msgstr ""
+
+#: View/Virtualtypes/add.ctp:3
+msgid "Pola"
+msgstr ""
+
+#: View/Virtualtypes/add.ctp:25;30
+msgid "Label"
+msgstr ""
+
+#: View/Virtualtypes/add.ctp:52
+msgid "Required"
+msgstr ""
+
+#: View/Virtualtypes/add.ctp:58
+msgid "Position"
+msgstr ""
+
+#: View/Virtualtypes/add.ctp:78
+msgid "Details"
+msgstr ""
+
+#: View/Virtualtypes/index.ctp:11;60
+msgid "Grupa"
+msgstr ""
+
+#: View/Virtualtypes/index.ctp:48;67;84
+msgid "Dodaj pole"
+msgstr ""
+
+#: View/Virtualtypes/index.ctp:79
+msgid "Grupa 1"
+msgstr ""
+
+#: Model/Package.php:validation for field cost
+msgid "pole koszt wymagane"
+msgstr ""
+
+#: Model/Package.php:validation for field currency
+msgid "pole waluta wymagane"
+msgstr ""
+
+#: Model/Package.php:validation for field tokens
+msgid "pole tokeny wymagane"
+msgstr ""
+
+#: Model/Package.php:validation for field title
+msgid "pole tytuł wymagane"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field title
+msgid "pole wymagane (2-255 znaków)"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field name;validation surname
+msgid "pole wymagane (2-80 znaków)"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field name;validation
+#: surname;validation zawod_wykonywany_niemcy Model/Virtualtype.php:validation
+#: name
+msgid "tylko litery"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field email
+msgid "Nieprawidłowy format email."
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field 0100402;validation
+#: urzad_skarbowy;validation bundesland;validation nip;validation
+#: born;validation wyznanie;validation zawod_wykonywany_niemcy;validation
+#: kraj;validation ulica;validation nr_domu;validation miejscowosc;validation
+#: kod_pocztowy;validation stan_cywilny;validation iban;validation nazwa_banku
+#: Model/User.php:validation name;validation type;validation surname;validation
+#: born
+msgid "pole wymagane"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field numer_podatkowy
+msgid "tylko cyfry oraz znak /"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field nip
+msgid "tylko cyfry"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field nr_mieszkania;validation
+#: nr_domu
+msgid "tylko litery i znaki"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field kod_pocztowy
+msgid "tylko cyfry oraz znak -"
+msgstr ""
+
+#: Model/Questionnaire.php:validation for field iban
+msgid "tylko cyfry i znaki (min 28 znaków)"
+msgstr ""
+
+#: Model/Role.php:validation for field id Model/User.php:validation
+#: id;validation role_id
+#: Plugin/Ddatatables/Model/DdatatableField.php:validation dview_id
+msgid "numeric"
+msgstr "Wartość numeryczna"
+
+#: Model/Role.php:validation for field name;validation symbol
+#: Plugin/Ddatatables/Model/Ddatatable.php:validation code
+#: Plugin/Ddatatables/Model/DdatatableField.php:validation
+msgid "notBlank"
+msgstr ""
+
+#: Model/Role.php:validation for field created;validation modified
+#: Model/User.php:validation
+msgid "datetime"
+msgstr "Data, czas"
+
+#: Model/User.php:validation for field email
+msgid "Taki email już istnieje w bazie"
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "Passwords do not match"
+msgstr "Podane hasła różnią się od siebie"
+
+#: Model/User.php:validation for field password
+msgid "Minimum 1 characters long"
+msgstr ""
+
+#: Plugin/Ddatatables/Model/Ddatatable.php:validation for field code
+msgid "Ddatatable by that name already exists"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field locale
+msgid "Please enter a Locale"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field model
+msgid "Please enter a Model"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field foreign_key
+msgid "Please enter a Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field
+msgid "Please enter a Field"
+msgstr ""
+
+#~ msgid "Active"
+#~ msgstr "Active"
+
+#~ msgid "Products"
+#~ msgstr "Produkty"
+
+#~ msgid "Mark"
+#~ msgstr "Marka"
+
+#~ msgid "Engine name"
+#~ msgstr "Nazwa silnika"
+
+#~ msgid "Invalid product ID:"
+#~ msgstr "Nieprawidłowe ID produktu:"
+
+#~ msgid "Invalid engine ID:"
+#~ msgstr "Nieprawidowe ID silnika:"
+
+#~ msgid "line"
+#~ msgstr "linia"
+
+#~ msgid "Manage products links"
+#~ msgstr "Zarządzaj powiązaniami produktów"
+
+#~ msgid "Invalid username or password"
+#~ msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+#~ msgid "Invalid activation link"
+#~ msgstr "Nieprawidłowy link aktywacyjny"
+
+#~ msgid "For Client"
+#~ msgstr "Dla Klienta"
+
+#~ msgid "Dosage"
+#~ msgstr "Dawka"
+
+#~ msgid "Notes"
+#~ msgstr "Uwagi"
+
+#~ msgid "Amount"
+#~ msgstr "Ilość"
+
+#~ msgid "g"
+#~ msgstr "g"
+
+#~ msgid "kcal"
+#~ msgstr "kcal"
+
+#~ msgid "Prot."
+#~ msgstr "Białko"
+
+#~ msgid "Carb."
+#~ msgstr "Węgl."
+
+#~ msgid "Fat"
+#~ msgstr "Tłuszcz"
+
+#~ msgid "Unit"
+#~ msgstr "Jednostka"
+
+#~ msgid "Please Select"
+#~ msgstr "Wybierz"
+
+#~ msgid "Admin Dashboard"
+#~ msgstr "Start"
+
+#~ msgid "Users"
+#~ msgstr "Użytkownicy"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Import car brands"
+#~ msgstr "Importuj marki pojazdów"
+
+#~ msgid "Import car models"
+#~ msgstr "Importuj modele pojazdów"
+
+#~ msgid "Import engines"
+#~ msgstr "Importuj silniki"
+
+#~ msgid "Choose mark"
+#~ msgstr "Wybierz markę"
+
+#~ msgid "Export"
+#~ msgstr "Eksport"
+
+#~ msgid "Sign In"
+#~ msgstr "Logowanie"
+
+#~ msgid "Banned"
+#~ msgstr "Banned"
+
+#~ msgid "1 month"
+#~ msgstr "1 miesiąc"
+
+#~ msgid "Buy"
+#~ msgstr "Zakup"
+
+#~ msgid "Your license has expired"
+#~ msgstr "Twoja licencja wygasła"
+
+#~ msgid "Date Of Birth"
+#~ msgstr "Data urodzenia"
+
+#~ msgid "E-mail exists in database"
+#~ msgstr "E-mail już istnieje w bazie danych"
+
+#~ msgid "Thank you for registration"
+#~ msgstr "Dziękujemy za rejestrację"
+
+#~ msgid "Please correct form errors"
+#~ msgstr "Proszę poprawić błędy"
+
+#~ msgid "Copy Diet"
+#~ msgstr "Kopiuj dietę"
+
+#~ msgid "Diet"
+#~ msgstr "Dieta"
+
+#~ msgid "Supplementation"
+#~ msgstr "Suplementacja"
+
+#~ msgid "Training"
+#~ msgstr "Wysiłek fizyczny"
+
+#~ msgid "Pulse Control"
+#~ msgstr "Kontrola tętna"
+
+#~ msgid "Summary"
+#~ msgstr "Podsumowanie"
+
+#~ msgid "License"
+#~ msgstr "Licencja"
+
+#~ msgid "days"
+#~ msgstr "dni"
+
+#~ msgid "Invalid invoice"
+#~ msgstr "Nieprawidłowa faktura"
+
+#~ msgid "Diet Plan"
+#~ msgstr "Plan dietetyczny"
+
+#~ msgid "Shopping List"
+#~ msgstr "Lista zakupów"
+
+#~ msgid "PCF Distribution"
+#~ msgstr "Rozkład BWT"
+
+#~ msgid "P"
+#~ msgstr "B"
+
+#~ msgid "C"
+#~ msgstr "W"
+
+#~ msgid "F"
+#~ msgstr "T"
+
+#~ msgid "Add Client"
+#~ msgstr "Dodaj klienta"
+
+#~ msgid "Last name"
+#~ msgstr "Nazwisko"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Visits"
+#~ msgstr "Wizyty"
+
+#~ msgid "Add Diet"
+#~ msgstr "Dodaj dietę"
+
+#~ msgid "Client"
+#~ msgstr "Klient"
+
+#~ msgid "Kalorycznosc"
+#~ msgstr "Kaloryczność"
+
+#~ msgid "Rozklad Kaloryczny"
+#~ msgstr "Rozkład kaloryczny"
+
+#~ msgid "Rozklad Bwt"
+#~ msgstr "Rozkład BWT"
+
+#~ msgid "Physical Activity"
+#~ msgstr "Aktywność fizyczna"
+
+#~ msgid "Zadanie"
+#~ msgstr "Nazwa"
+
+#~ msgid "Zadanie Ilosc"
+#~ msgstr "Ilość w tygodniu"
+
+#~ msgid "Zadanie Czas"
+#~ msgstr "Czas trwania"
+
+#~ msgid "Zadanie Zdjecie"
+#~ msgstr "Zdjęcie (opcjonalne)"
+
+#~ msgid "Print notes"
+#~ msgstr "Drukuj pole \"Uwagi klienta\""
+
+#~ msgid "Edit Diet"
+#~ msgstr "Edytuj dietę"
+
+#~ msgid "Dieties"
+#~ msgstr "Diety"
+
+#~ msgid "Diet Meals"
+#~ msgstr "Posiłki diety"
+
+#~ msgid "Avarage values"
+#~ msgstr "Wartości średnie"
+
+#~ msgid "All"
+#~ msgstr "Wszystkie"
+
+#~ msgid "Dose"
+#~ msgstr "Dawka"
+
+#~ msgid "Comment"
+#~ msgstr "Uwagi"
+
+#~ msgid "Task"
+#~ msgstr "Zadanie"
+
+#~ msgid "Time"
+#~ msgstr "Czas"
+
+#~ msgid "Times per week"
+#~ msgstr "Ilość w tygodniu"
+
+#~ msgid "Edit Diety"
+#~ msgstr "Edytuj dietę"
+
+#~ msgid "New Diety"
+#~ msgstr "Nowa dieta"
+
+#~ msgid "Uwagi Klienta"
+#~ msgstr "Drukuj pole \"Uwagi klienta\""
+
+#~ msgid "Print"
+#~ msgstr "Drukuj"
+
+#~ msgid "Meals (PDF)"
+#~ msgstr "Posiłki (PDF)"
+
+#~ msgid "Supplementation (PDF)"
+#~ msgstr "Suplementacja (PDF)"
+
+#~ msgid "Training (PDF)"
+#~ msgstr "Wysiłek fizyczny (PDF)"
+
+#~ msgid "Pulse Control (PDF)"
+#~ msgstr "Kontrola tętna (PDF)"
+
+#~ msgid "Summary (PDF)"
+#~ msgstr "Podsumowanie (PDF)"
+
+#~ msgid "Copy"
+#~ msgstr "Kopiuj"
+
+#~ msgid "Edit Meal"
+#~ msgstr "Edytuj posiłek"
+
+#~ msgid "Basic info"
+#~ msgstr "Informacje podstawowe"
+
+#~ msgid "Units"
+#~ msgstr "Jednostki"
+
+#~ msgid "Skladniki Numery Kodowe"
+#~ msgstr "Numery kodowe"
+
+#~ msgid "Posilki Grupies"
+#~ msgstr "Grupy posiłków"
+
+#~ msgid "New Client"
+#~ msgstr "Nowy klient"
+
+#~ msgid "New Diet"
+#~ msgstr "Nowa dieta"
+
+#~ msgid "New Diet Plan"
+#~ msgstr "Nowy plan dietetyczny"
+
+#~ msgid "New Posilki Grupy"
+#~ msgstr "Nowa grupa posiłków"
+
+#~ msgid "New Meal"
+#~ msgstr "Nowy posiłek"
+
+#~ msgid "New Unit"
+#~ msgstr "Nowa jednostka"
+
+#~ msgid "New Skladniki Numery Kodowe"
+#~ msgstr "Nowy numer kodowy"
+
+#~ msgid "New Ingredient"
+#~ msgstr "Nowy składnik"
+
+#~ msgid "New Visit"
+#~ msgstr "Nowa wizyta"
+
+#~ msgid "Buy premium license"
+#~ msgstr "Kup licencję"
+
+#~ msgid "Payments by"
+#~ msgstr "Płatności obsługuje"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Method"
+#~ msgstr "Metoda"
+
+#~ msgid "Invoice"
+#~ msgstr "Faktura"
+
+#~ msgid "Buy license"
+#~ msgstr "Kup licencję"
+
+#~ msgid "Choose your licensing plan"
+#~ msgstr "Wybierz plan licencyjny"
+
+#~ msgid "Do you want to buy license &quot;%s&quot;?"
+#~ msgstr "Czy na pewno chcesz kupuć licencję &quot;%s&quot;?"
+
+#~ msgid "I Agree the contract"
+#~ msgstr "Akceptuję regulamin usługi"
+
+#~ msgid "Buy and pay"
+#~ msgstr "Kupuję i płacę"
+
+#~ msgid "Add Diet Plan"
+#~ msgstr "Dodaj plan dietetyczny"
+
+#~ msgid "change"
+#~ msgstr "zmiana"
+
+#~ msgid "Change"
+#~ msgstr "Zmiana"
+
+#~ msgid "Edit Diet Plan"
+#~ msgstr "Edytuj plan dietetyczny"
+
+#~ msgid "Hour"
+#~ msgstr "Godzina"
+
+#~ msgid "Meal"
+#~ msgstr "Posiłek"
+
+#~ msgid "Create new"
+#~ msgstr "Utwórz nowy"
+
+#~ msgid "Plany Dietetycznes"
+#~ msgstr "Plany dietetyczne"
+
+#~ msgid "Monday"
+#~ msgstr "Poniedziałek"
+
+#~ msgid "Tuesday"
+#~ msgstr "Wtorek"
+
+#~ msgid "Wednesday"
+#~ msgstr "Środa"
+
+#~ msgid "Thursday"
+#~ msgstr "Czwartek"
+
+#~ msgid "Friday"
+#~ msgstr "Piątek"
+
+#~ msgid "Saturday"
+#~ msgstr "Sobota"
+
+#~ msgid "Sunday"
+#~ msgstr "Niedziela"
+
+#~ msgid "Day"
+#~ msgstr "Dzień"
+
+#~ msgid "Total"
+#~ msgstr "Suma"
+
+#~ msgid "Ingredients (PDF)"
+#~ msgstr "Składniki (PDF)"
+
+#~ msgid "Add Posilki Grupy"
+#~ msgstr "Dodaj grupę posiłków"
+
+#~ msgid "Edit Posilki Grupy"
+#~ msgstr "Edytuj grupę posiłków"
+
+#~ msgid "Add Meal"
+#~ msgstr "Dodaj posiłek"
+
+#~ msgid "Meal Group"
+#~ msgstr "Grupa"
+
+#~ msgid "Posilkis"
+#~ msgstr "Posiłki"
+
+#~ msgid "Edit Posilki"
+#~ msgstr "Edytuj posiłek"
+
+#~ msgid "Id Skladniki Numery Kodowe"
+#~ msgstr "Numer kodowy"
+
+#~ msgid "Id Skladniki Jednostki"
+#~ msgstr "Jednostka"
+
+#~ msgid "Wartosc Energetyczna Kj"
+#~ msgstr "Wartość Energetyczna kJ"
+
+#~ msgid "Roles"
+#~ msgstr "Role"
+
+#~ msgid "Add Skladniki Jednostki"
+#~ msgstr "Dodaj jednostkę"
+
+#~ msgid "Edit Skladniki Jednostki"
+#~ msgstr "Edytuj jednostkę"
+
+#~ msgid "Skladniki Jednostkis"
+#~ msgstr "Jednostki"
+
+#~ msgid "Skladniki Jednostki"
+#~ msgstr "Jednostki"
+
+#~ msgid "Add Skladniki Numery Kodowe"
+#~ msgstr "Dodaj numer kodowy"
+
+#~ msgid "Edit Skladniki Numery Kodowe"
+#~ msgstr "Edytuj numer kodowy"
+
+#~ msgid "Skladniki Numery Kodowes"
+#~ msgstr "Numery kodowe"
+
+#~ msgid "Add Ingredient"
+#~ msgstr "Dodaj składnik"
+
+#~ msgid "Nutrition"
+#~ msgstr "Wartości odżywcze"
+
+#~ msgid "Skladnikis"
+#~ msgstr "Składniki"
+
+#~ msgid "Edit Skladniki"
+#~ msgstr "Edytuj składnik"
+
+#~ msgid "Surname"
+#~ msgstr "Nazwisko"
+
+#~ msgid "License to"
+#~ msgstr "Licencja do"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Sign Up"
+#~ msgstr "Rejestracja"
+
+#~ msgid "Enter your personal details below:"
+#~ msgstr "Wypełnij poniższe pola:"
+
+#~ msgid "Edit User"
+#~ msgstr "Edytuj użytkownika"
+
+#~ msgid "Delete User"
+#~ msgstr "Usuń użytkownika"
+
+#~ msgid "Pseudo"
+#~ msgstr "Pseudonim"
+
+#~ msgid "Create Time"
+#~ msgstr "Data utworzenia"
+
+#~ msgid "Last Login"
+#~ msgstr "Ostatnie logowanie"
+
+#~ msgid "Premium To"
+#~ msgstr "Konto premium ważne do"
+
+#~ msgid "Add Visit"
+#~ msgstr "Dodaj wizytę"
+
+#~ msgid "Tkanka Tluszczowa"
+#~ msgstr "Tkanka tłuszczowa"
+
+#~ msgid "Edit Visit"
+#~ msgstr "Edytuj wizytę"
+
+#~ msgid "Edit Wizyty"
+#~ msgstr "Edytuj wizytę"
+
+#~ msgid "List Wizyties"
+#~ msgstr "Lista wizyt"
+
+#~ msgid "This field is required."
+#~ msgstr "To pole jest wymagane."
+
+#~ msgid "boolean"
+#~ msgstr "Tak/Nie"
+
+#~ msgid "decimal"
+#~ msgstr "Wartość dziesiętna"
+
+#~ msgid "Page with given URL already exists"
+#~ msgstr "Strona o podanym adresie URL już istnieje"
+
+#~ msgid "notEmpty"
+#~ msgstr "Niepuste"
+
+#~ msgid "Articles below minimum quantity"
+#~ msgstr "Artykuły poniżej ilości minimalnej"
+
+#~ msgid "Index"
+#~ msgstr "Mój pulpit"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Quantity Min"
+#~ msgstr "Ilość min."
+
+#~ msgid "Quantity Max"
+#~ msgstr "Ilość maks."
+
+#~ msgid "Current Quantity"
+#~ msgstr "Ilość dostępna"
+
+#~ msgid "** This is an automatically generated email, please do not reply **"
+#~ msgstr ""
+#~ "** Ta wiadomość została wygenerowana automatycznie, prosimy na nią nie "
+#~ "odpowiadać **"

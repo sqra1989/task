@@ -1,0 +1,3161 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-21 09:25+0100\n"
+"Last-Translator: Krzysztof Błachowicz <krzysztof.blachowicz@itdesk.eu>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: Config/bootstrap.php:178
+msgid "Banned"
+msgstr ""
+
+#: Config/bootstrap.php:178 View/Attributes/view.ctp:80
+msgid "Active"
+msgstr ""
+
+#: Config/bootstrap.php:204 View/Clients/view.ctp:172 View/Invoices/add.ctp:36
+#: View/Invoices/client_index.ctp:21 View/Invoices/edit.ctp:40
+#: View/Invoices/index.ctp:21 View/Invoices/view.ctp:69
+#: View/Orders/view.ctp:39;218 View/Reports/current_orders.ctp:57
+#: View/Reports/orders_total.ctp:68
+msgid "Number"
+msgstr ""
+
+#: Config/bootstrap.php:205
+msgid "Text"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:42;70
+msgid "Articles below minimum quantity"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:52
+msgid "Index"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:53
+msgid "Price"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:54
+msgid "Quantity Min"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:55
+msgid "Quantity Max"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:56
+msgid "Current Quantity"
+msgstr ""
+
+#: Console/Command/DepositoryCronShell.php:60
+msgid "** This is an automatically generated email, please do not reply **"
+msgstr ""
+
+#: Controller/AssetsController.php:172;312;409;475;505;544
+#: Controller/ClientsController.php:336
+#: Controller/OrdersAssetsController.php:73
+#: Controller/WebserviceController.php:788
+msgid "Invalid asset"
+msgstr "Invalid product"
+
+#: Controller/AssetsController.php:176;479;511;548
+#: Controller/CartController.php:474;488 Controller/ClientsController.php:340
+#: Controller/ComplaintsController.php:149
+#: Controller/OrdersController.php:168;236;247;254;302;332
+msgid "Invalid order"
+msgstr ""
+
+#: Controller/AssetsController.php:184;488;519;556
+#: Controller/ClientsController.php:348
+msgid "Invalid order/asset"
+msgstr "Invalid order/product"
+
+#: Controller/AssetsController.php:287;348
+msgid "The asset has been saved."
+msgstr "The product has been saved."
+
+#: Controller/AssetsController.php:290;352
+msgid "The asset could not be saved. Please, try again."
+msgstr "The product could not be saved. Please, try again."
+
+#: Controller/AssetsController.php:415
+msgid "The asset has been deleted."
+msgstr "The product has been deleted."
+
+#: Controller/AssetsController.php:417
+msgid "The asset could not be deleted. Please, try again."
+msgstr "The product could not be deleted. Please, try again."
+
+#: Controller/AssetsController.php:448
+msgid "The asset has been added to cart."
+msgstr "The product has been added to cart."
+
+#: Controller/AssetsController.php:586;607
+#: Controller/ClientsController.php:283;393;414
+msgid "Attachment named %s already exists."
+msgstr ""
+
+#: Controller/AttributesController.php:60;94;121
+msgid "Invalid attribute"
+msgstr ""
+
+#: Controller/AttributesController.php:75;98
+msgid "The attribute has been saved."
+msgstr ""
+
+#: Controller/AttributesController.php:78;101
+msgid "The attribute could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AttributesController.php:125
+msgid "The attribute has been deleted."
+msgstr ""
+
+#: Controller/AttributesController.php:127
+msgid "The attribute could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CartController.php:60
+msgid "Please select Supplier"
+msgstr ""
+
+#: Controller/CartController.php:76
+msgid "Cart has been updated."
+msgstr ""
+
+#: Controller/CartController.php:81
+msgid "Order with given number already exists."
+msgstr ""
+
+#: Controller/CartController.php:144;152
+msgid "%s days"
+msgstr ""
+
+#: Controller/CartController.php:399
+msgid "New order confirmation"
+msgstr ""
+
+#: Controller/CartController.php:416
+msgid "New order from"
+msgstr ""
+
+#: Controller/CartController.php:423;467
+msgid "Order was placed."
+msgstr ""
+
+#: Controller/CartController.php:431
+msgid "Unable to send order."
+msgstr ""
+
+#: Controller/CartController.php:462
+msgid "New order"
+msgstr ""
+
+#: Controller/CategoriesController.php:62
+msgid "The categories order has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:129;337;370
+msgid "Invalid category"
+msgstr ""
+
+#: Controller/CategoriesController.php:159 View/Assets/view.ctp:14
+#: View/Clients/add.ctp:53 View/Clients/edit.ctp:54
+#: View/Themed/App/Elements/nav_employee.ctp:36
+msgid "Products"
+msgstr ""
+
+#: Controller/CategoriesController.php:320;349
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:323;352
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:374
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:376
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:104;168;228
+msgid "Invalid client"
+msgstr ""
+
+#: Controller/ClientsController.php:141;194
+msgid "The client has been saved."
+msgstr ""
+
+#: Controller/ClientsController.php:144;197
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:249
+msgid "The client has been deleted."
+msgstr ""
+
+#: Controller/ClientsController.php:251
+msgid "The client could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:362
+msgid "Invalid attachment"
+msgstr ""
+
+#: Controller/ClientsGroupsController.php:59;91;116
+msgid "Invalid clients group"
+msgstr ""
+
+#: Controller/ClientsGroupsController.php:74;95
+msgid "The clients group has been saved."
+msgstr ""
+
+#: Controller/ClientsGroupsController.php:77;98
+msgid "The clients group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientsGroupsController.php:120
+msgid "The clients group has been deleted."
+msgstr ""
+
+#: Controller/ClientsGroupsController.php:122
+msgid "The clients group could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ComplaintsController.php:82;179;210
+msgid "Invalid complaint"
+msgstr ""
+
+#: Controller/ComplaintsController.php:90
+msgid "The complaint has been closed."
+msgstr ""
+
+#: Controller/ComplaintsController.php:93
+msgid "The complaint has been opened."
+msgstr ""
+
+#: Controller/ComplaintsController.php:96;156;183
+msgid "The complaint has been saved."
+msgstr ""
+
+#: Controller/ComplaintsController.php:101;159;186
+msgid "The complaint could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ComplaintsController.php:214
+msgid "The complaint has been deleted."
+msgstr ""
+
+#: Controller/ComplaintsController.php:216
+msgid "The complaint could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:81;129;156
+msgid "Invalid contact forms message"
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:108
+#: View/Complaints/view.ctp:272
+msgid "New message"
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:110
+msgid "Your message was sent."
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:113;136
+msgid "The contact forms message could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:133
+msgid "The contact forms message has been saved."
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:160
+msgid "The contact forms message has been deleted."
+msgstr ""
+
+#: Controller/ContactFormsMessagesController.php:162
+msgid "The contact forms message could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DepositoriesController.php:73;110;140
+msgid "Invalid depository"
+msgstr ""
+
+#: Controller/DepositoriesController.php:93;119
+msgid "The depository has been saved."
+msgstr ""
+
+#: Controller/DepositoriesController.php:96;122
+msgid "The depository could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DepositoriesController.php:144
+msgid "The depository has been deleted."
+msgstr ""
+
+#: Controller/DepositoriesController.php:146
+msgid "The depository could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployeesController.php:156;364
+msgid "Invalid employee"
+msgstr ""
+
+#: Controller/EmployeesController.php:177;242;296;311;319
+#: Controller/OperatorsController.php:106;177;192;197
+#: Controller/PaymentsController.php:378
+#: Controller/UsersController.php:57;107;352 Model/Employee.php:validation for
+#: field email Model/Operator.php:validation Model/User.php:validation
+msgid "E-mail exists in database"
+msgstr ""
+
+#: Controller/EmployeesController.php:190
+#: Controller/OperatorsController.php:127;209
+msgid "The operator has been saved."
+msgstr ""
+
+#: Controller/EmployeesController.php:194;197;335
+msgid "The employee could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployeesController.php:256
+msgid "Thank you for registration."
+msgstr ""
+
+#: Controller/EmployeesController.php:260;263
+msgid "The registration could not be completed. Please, try again."
+msgstr ""
+
+#: Controller/EmployeesController.php:277
+#: Controller/OperatorsController.php:85;158;242
+msgid "Invalid operator"
+msgstr ""
+
+#: Controller/EmployeesController.php:331
+msgid "The employee has been saved."
+msgstr ""
+
+#: Controller/EmployeesController.php:368
+msgid "The employee has been deleted."
+msgstr ""
+
+#: Controller/EmployeesController.php:370
+msgid "The employee could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployeesController.php:382
+#: Controller/OperatorsController.php:120;260
+msgid "New account password"
+msgstr ""
+
+#: Controller/EmployeesController.php:383
+#: Controller/OperatorsController.php:121;261
+msgid "Your password is"
+msgstr ""
+
+#: Controller/InvoicesController.php:111
+msgid "Paid"
+msgstr ""
+
+#: Controller/InvoicesController.php:111
+msgid "Unpaid"
+msgstr ""
+
+#: Controller/InvoicesController.php:111
+msgid "Overdue"
+msgstr ""
+
+#: Controller/InvoicesController.php:168;202;229;248;254;287;294
+msgid "Invalid invoice"
+msgstr ""
+
+#: Controller/InvoicesController.php:183;206
+msgid "The invoice has been saved."
+msgstr ""
+
+#: Controller/InvoicesController.php:186;209
+msgid "The invoice could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/InvoicesController.php:233
+msgid "The invoice has been deleted."
+msgstr ""
+
+#: Controller/InvoicesController.php:235
+msgid "The invoice could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/InvoicesController.php:272 View/Invoices/view.ctp:5
+#: View/Payments/view.ctp:50
+msgid "Invoice"
+msgstr ""
+
+#: Controller/InvoicesController.php:274
+#: Controller/PaymentsController.php:128;189;212
+msgid "The payment has been saved."
+msgstr ""
+
+#: Controller/InvoicesController.php:277
+#: Controller/PaymentsController.php:131;192;215
+msgid "The payment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:46;79;117;189
+msgid "Invalid news"
+msgstr ""
+
+#: Controller/NewsController.php:98;127
+msgid "The news has been saved."
+msgstr ""
+
+#: Controller/NewsController.php:101;130
+msgid "The news could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:193
+msgid "The news has been deleted."
+msgstr ""
+
+#: Controller/NewsController.php:195
+msgid "The news could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OperatorsController.php:131;134;213
+msgid "The operator could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OperatorsController.php:246
+msgid "The operator has been deleted."
+msgstr ""
+
+#: Controller/OperatorsController.php:248
+msgid "The operator could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersAssetsController.php:116;178;206
+msgid "Invalid orders asset"
+msgstr "Invalid orders product"
+
+#: Controller/OrdersAssetsController.php:158;182
+msgid "The orders asset has been saved."
+msgstr "The orders product has been saved."
+
+#: Controller/OrdersAssetsController.php:161;185
+msgid "The orders asset could not be saved. Please, try again."
+msgstr "The orders product could not be saved. Please, try again."
+
+#: Controller/OrdersAssetsController.php:210
+msgid "The orders asset has been deleted."
+msgstr "The orders product has been deleted."
+
+#: Controller/OrdersAssetsController.php:212
+msgid "The orders asset could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:173;280;306
+msgid "The order has been saved."
+msgstr ""
+
+#: Controller/OrdersController.php:176;209;283;309
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:181
+msgid "The order has been saved, quote was sent."
+msgstr ""
+
+#: Controller/OrdersController.php:202
+msgid "New quote"
+msgstr ""
+
+#: Controller/OrdersController.php:336
+msgid "The order has been deleted."
+msgstr ""
+
+#: Controller/OrdersController.php:338
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersStatusesController.php:62;99;129
+msgid "Invalid orders status"
+msgstr ""
+
+#: Controller/OrdersStatusesController.php:82;108
+msgid "The orders status has been saved."
+msgstr ""
+
+#: Controller/OrdersStatusesController.php:85;111
+msgid "The orders status could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersStatusesController.php:133
+msgid "The orders status has been deleted."
+msgstr ""
+
+#: Controller/OrdersStatusesController.php:135
+msgid "The orders status could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PaymentsController.php:125
+msgid "Premium license"
+msgstr ""
+
+#: Controller/PaymentsController.php:125
+msgid "days"
+msgstr ""
+
+#: Controller/PaymentsController.php:141;144;174;208;235;421;426
+msgid "Invalid payment"
+msgstr ""
+
+#: Controller/PaymentsController.php:239
+msgid "The payment has been deleted."
+msgstr ""
+
+#: Controller/PaymentsController.php:241
+msgid "The payment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PaymentsController.php:372
+msgid "Pseudo exists in database"
+msgstr ""
+
+#: Controller/RolesController.php:40;72;97
+msgid "Invalid role"
+msgstr ""
+
+#: Controller/RolesController.php:55;76
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:58;79
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:101
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:103
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SatisfactionsController.php:67;101;128
+msgid "Invalid satisfation"
+msgstr ""
+
+#: Controller/SatisfactionsController.php:82;105
+msgid "The satisfation has been saved."
+msgstr ""
+
+#: Controller/SatisfactionsController.php:85;108
+msgid "The satisfation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SatisfactionsController.php:132
+msgid "The satisfation has been deleted."
+msgstr ""
+
+#: Controller/SatisfactionsController.php:134
+msgid "The satisfation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:41;88;147
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:62;121
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:65
+msgid "Please correct form errors."
+msgstr ""
+
+#: Controller/UsersController.php:97;98
+msgid "Invalid old password"
+msgstr ""
+
+#: Controller/UsersController.php:126
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:151
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:153
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:187;192
+msgid "This account has been baned"
+msgstr ""
+
+#: Controller/UsersController.php:230;240
+msgid "Invalid username or password"
+msgstr ""
+
+#: Controller/UsersController.php:235
+msgid "Account is not activated"
+msgstr ""
+
+#: Controller/UsersController.php:276 View/Users/login.ctp:29
+msgid "New account"
+msgstr ""
+
+#: Controller/UsersController.php:279;283
+msgid "Thank you for registration"
+msgstr ""
+
+#: Controller/UsersController.php:286
+msgid "Please correct form errors"
+msgstr ""
+
+#: Controller/UsersController.php:302
+msgid "Account successfully activated, please log in"
+msgstr ""
+
+#: Controller/UsersController.php:305;308
+msgid "Invalid activation link"
+msgstr ""
+
+#: Controller/UsersController.php:327
+msgid "Password change request"
+msgstr ""
+
+#: Controller/UsersController.php:329
+msgid ""
+"To set a new password, click on the link that we have sent to your e-mail "
+"address"
+msgstr ""
+
+#: Controller/UsersController.php:332
+msgid "Invalid e-mail address"
+msgstr ""
+
+#: Controller/UsersController.php:356
+msgid "Password has been changed"
+msgstr ""
+
+#: Controller/UsersController.php:361
+msgid "Invalid link"
+msgstr ""
+
+#: Controller/WebserviceController.php:37
+msgid "Authentication error"
+msgstr ""
+
+#: Controller/WebserviceController.php:267;368;382;524;666;817;929;988;994
+#: View/Themed/App/Elements/head.ctp:114
+msgid "OK"
+msgstr ""
+
+#: Controller/WebserviceController.php:272
+msgid "Invoice error"
+msgstr ""
+
+#: Controller/WebserviceController.php:374;416;433;515;544;562;657
+msgid "Insert/Update error"
+msgstr ""
+
+#: Controller/WebserviceController.php:387
+msgid "Delete error"
+msgstr ""
+
+#: Controller/WebserviceController.php:416;544
+msgid "Error parsing XML file"
+msgstr ""
+
+#: Controller/WebserviceController.php:433
+msgid "Empty SKU for product"
+msgstr ""
+
+#: Controller/WebserviceController.php:562
+msgid "Empty LocalItemCode for product"
+msgstr ""
+
+#: Controller/WebserviceController.php:788;823
+msgid "Order error"
+msgstr ""
+
+#: Controller/WebserviceController.php:854
+msgid "PaymentMethod error"
+msgstr ""
+
+#: Controller/WebserviceController.php:878
+msgid "Currency error"
+msgstr ""
+
+#: Controller/WebserviceController.php:934
+msgid "Client error"
+msgstr ""
+
+#: Controller/WebserviceController.php:983
+msgid "Error"
+msgstr ""
+
+#: Controller/WebserviceController.php:983
+msgid "Invalid XML"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:80
+msgid "Plugin to process"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:83
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:88
+msgid ""
+"Add new ACOs for new controllers and actions. Does not remove nodes from the "
+"ACO table."
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:93
+msgid ""
+"Perform a full sync on the ACO table.Will create new ACOs or missing "
+"controllers and actions.Will also remove orphaned entries that no longer "
+"have a matching controller/action"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:97
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:102
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:108
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:113
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:136
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:315
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:333
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:335
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:56
+msgid "Both ACOs and AROs have been dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:65
+msgid "Permissions dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:67
+msgid "Error while trying to drop permissions"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:294
+msgid "%d ACOs have been created/updated"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:368
+msgid "%d AROs have been created"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:472
+msgid "ActionAuthorizer could not be found"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:2
+msgid "Acl Manager %s"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:8
+#: Plugin/AclManager/View/Acl/permissions.ctp:71
+#: Plugin/I18n/View/Translations/admin_index.ctp:40 View/Attributes/view.ctp:15
+#: View/Clients/view.ctp:15 View/ClientsGroups/view.ctp:15
+#: View/Complaints/add.ctp:19 View/Complaints/edit.ctp:15
+#: View/ContactFormsMessages/edit.ctp:15 View/Depositories/view.ctp:15
+#: View/Elements/actions/ContactFormsMessages_view.ctp:4
+#: View/Elements/actions/assets_edit.ctp:5
+#: View/Elements/actions/assets_index.ctp:4
+#: View/Elements/actions/assets_view.ctp:5
+#: View/Elements/actions/attributes_edit.ctp:4
+#: View/Elements/actions/attributes_index.ctp:4
+#: View/Elements/actions/categories_index.ctp:4
+#: View/Elements/actions/clients_groups_index.ctp:4
+#: View/Elements/actions/clients_index.ctp:4
+#: View/Elements/actions/depositories_index.ctp:4
+#: View/Elements/actions/employees_index.ctp:4
+#: View/Elements/actions/operators_index.ctp:4
+#: View/Elements/actions/orders_statuses_index.ctp:4
+#: View/Elements/actions/orders_view.ctp:4 View/Employees/edit.ctp:48
+#: View/Employees/view.ctp:15 View/Invoices/add.ctp:15
+#: View/Invoices/client_index.ctp:53 View/Invoices/edit.ctp:15
+#: View/Invoices/index.ctp:63 View/Invoices/view.ctp:15 View/News/add.ctp:15
+#: View/News/edit.ctp:15 View/News/index.ctp:16 View/Operators/edit.ctp:48
+#: View/Orders/add.ctp:15 View/Orders/edit.ctp:15
+#: View/OrdersStatuses/view.ctp:15 View/Payments/view.ctp:15
+#: View/Roles/add.ctp:17 View/Roles/edit.ctp:17 View/Roles/index.ctp:18
+#: View/Users/index.ctp:17 View/Users/profile.ctp:6 View/Users/view.ctp:15
+msgid "Actions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:10
+#: Plugin/AclManager/View/Acl/permissions.ctp:74
+msgid "Manage permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:11
+#: Plugin/AclManager/View/Acl/permissions.ctp:75
+msgid "Update ACOs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:12
+#: Plugin/AclManager/View/Acl/permissions.ctp:76
+msgid "Update AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:13
+#: Plugin/AclManager/View/Acl/permissions.ctp:77
+msgid "Drop ACOs/AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:13
+#: Plugin/AclManager/View/Acl/permissions.ctp:77
+msgid "Do you want to drop all ACOs and AROs?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:14
+#: Plugin/AclManager/View/Acl/permissions.ctp:78
+msgid "Drop permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:14
+#: Plugin/AclManager/View/Acl/permissions.ctp:78
+msgid "Do you want to drop all the permissions?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:2
+msgid "%s permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:3;53
+msgid ""
+"Page %page% of %pages%, showing %current% records out of %count% total, "
+"starting on record %start%, ending on %end%"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:5;55
+msgid "previous"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:7;57
+msgid "next"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Inherit"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Allow"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "Deny"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:41
+msgid "No change"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:51 View/Assets/add.ctp:167
+#: View/Assets/edit.ctp:176 View/Attributes/add.ctp:56
+#: View/Attributes/edit.ctp:59 View/Categories/add.ctp:56
+#: View/Categories/edit.ctp:71 View/Clients/add.ctp:153
+#: View/Clients/edit.ctp:170 View/ClientsGroups/add.ctp:62
+#: View/ClientsGroups/edit.ctp:65 View/Complaints/edit.ctp:77
+#: View/Complaints/view.ctp:124;382 View/ContactFormsMessages/edit.ctp:40
+#: View/Depositories/add.ctp:60 View/Depositories/edit.ctp:63
+#: View/Employees/add.ctp:124 View/Employees/edit.ctp:165
+#: View/Invoices/add.ctp:66 View/Invoices/edit.ctp:70 View/News/add.ctp:52
+#: View/News/edit.ctp:56 View/Operators/add.ctp:130 View/Operators/edit.ctp:169
+#: View/Orders/add.ctp:50 View/Orders/edit.ctp:54 View/Orders/view.ctp:306
+#: View/OrdersStatuses/add.ctp:74 View/OrdersStatuses/edit.ctp:72
+#: View/Roles/add.ctp:36 View/Roles/edit.ctp:40 View/Users/admin_add.ctp:55
+#: View/Users/admin_edit.ctp:46;73 View/Users/edit.ctp:99;148
+msgid "Save"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:61
+msgid "Manage for"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:73
+msgid "< Back"
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:24
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:43
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:6
+msgid "Alert notice message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:46;62
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:10
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:6
+msgid "Alert success message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:50
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:15
+msgid "Alert error message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:66
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:11
+msgid "Alert info message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:70
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:16
+msgid "Alert warning message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:74
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:21
+msgid "Alert danger message testing..."
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:148
+msgid "The translation has been saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:169;192
+msgid "Translation saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:212
+msgid "Translation deleted"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid ""
+"Be aware that your Translation and all associated data will be deleted if "
+"you confirm!"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70
+#: View/Assets/datatable/asset.ctp:46
+#: View/Assets/datatable/related_assets.ctp:12
+#: View/Attributes/datatable/attribute.ctp:16 View/Cart/index.ctp:97
+#: View/Clients/datatable/asset.ctp:12 View/Clients/datatable/client.ctp:19
+#: View/ClientsGroups/datatable/clients_group.ctp:8 View/Complaints/edit.ctp:18
+#: View/ContactFormsMessages/edit.ctp:18
+#: View/ContactFormsMessages/datatable/contact_forms_message.ctp:12
+#: View/Depositories/datatable/depository.ctp:9
+#: View/Elements/attachments.ctp:40
+#: View/Elements/actions/ContactFormsMessages_view.ctp:8
+#: View/Elements/actions/assets_edit.ctp:9
+#: View/Elements/actions/attributes_edit.ctp:8
+#: View/Employees/datatable/employee.ctp:33 View/Invoices/edit.ctp:18
+#: View/News/edit.ctp:18 View/Operators/edit.ctp:51
+#: View/Operators/datatable/operator.ctp:32 View/Orders/edit.ctp:18
+#: View/Orders/datatable/order.ctp:11
+#: View/Orders/datatable/order_incoming.ctp:21
+#: View/OrdersStatuses/datatable/order_status.ctp:9 View/Roles/edit.ctp:21
+#: View/Users/index.ctp:65
+msgid "Delete"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+#: View/Employees/register.ctp:42 View/Users/changepassword.ctp:24
+#: View/Users/lostpassword.ctp:13 View/Users/register.ctp:54
+msgid "Submit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6 View/Categories/view.ctp:77
+#: View/Categories/view_alt.ctp:238 View/Complaints/client_index.ctp:109
+#: View/Complaints/index.ctp:134 View/Employees/client_index.ctp:126
+#: View/Index/index.ctp:185 View/Invoices/client_index.ctp:124
+#: View/Invoices/index.ctp:138 View/News/index.ctp:61
+#: View/Payments/client_index.ctp:83 View/Payments/index.ctp:101
+#: View/Reports/current_orders.ctp:108 View/Roles/index.ctp:59
+#: View/Users/index.ctp:73
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+#: View/Complaints/view.ctp:121;278 View/News/add.ctp:49 View/News/edit.ctp:53
+msgid "Content"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+#: View/Categories/view_alt.ctp:172 View/Clients/index.ctp:34
+#: View/Complaints/index.ctp:40 View/Elements/page_header.ctp:116
+#: View/Employees/client_index.ctp:39 View/Invoices/client_index.ctp:34
+#: View/Invoices/index.ctp:44 View/Operators/index.ctp:34
+#: View/OrdersStatuses/index.ctp:34 View/Payments/client_index.ctp:29
+#: View/Payments/index.ctp:42 View/Reports/current_orders.ctp:38
+#: View/Reports/orders_total.ctp:46 View/Reports/satisfaction.ctp:41
+msgid "Search"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67
+#: View/Assets/datatable/asset.ctp:57
+#: View/Assets/datatable/related_assets.ctp:23
+#: View/Assets/datatable/related_orders.ctp:13
+#: View/Clients/datatable/asset.ctp:23
+#: View/ContactFormsMessages/datatable/contact_forms_message.ctp:11
+#: View/Orders/datatable/order.ctp:10 View/Orders/datatable/order_client.ctp:19
+#: View/Orders/datatable/order_incoming.ctp:20
+#: View/OrdersAssets/datatable/related_orders.ctp:13
+msgid "View"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68
+#: View/Assets/datatable/asset.ctp:58
+#: View/Assets/datatable/related_assets.ctp:24
+#: View/Attributes/datatable/attribute.ctp:15
+#: View/Clients/datatable/asset.ctp:24 View/Clients/datatable/client.ctp:18
+#: View/ClientsGroups/datatable/clients_group.ctp:7
+#: View/Depositories/datatable/depository.ctp:8
+#: View/Elements/category_select_input.ctp:11
+#: View/Employees/datatable/employee.ctp:32
+#: View/Operators/datatable/operator.ctp:31
+#: View/OrdersStatuses/datatable/order_status.ctp:8 View/Users/index.ctp:64
+msgid "Edit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4 View/Assets/edit.ctp:58
+#: View/Attributes/edit.ctp:47 View/Attributes/view.ctp:34;69
+#: View/Clients/edit.ctp:43 View/Clients/view.ctp:36;120;167
+#: View/ClientsGroups/edit.ctp:47 View/ClientsGroups/view.ctp:32
+#: View/Complaints/edit.ctp:41 View/Complaints/view.ctp:307;378
+#: View/ContactFormsMessages/edit.ctp:31 View/Depositories/edit.ctp:47
+#: View/Depositories/view.ctp:32 View/Employees/edit.ctp:65
+#: View/Employees/view.ctp:36 View/Invoices/edit.ctp:31
+#: View/Invoices/view.ctp:34 View/News/edit.ctp:29 View/Operators/edit.ctp:63
+#: View/Orders/edit.ctp:39 View/Orders/view.ctp:90
+#: View/OrdersStatuses/edit.ctp:47 View/OrdersStatuses/view.ctp:69
+#: View/Payments/view.ctp:36
+msgid "Id"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr ""
+
+#: Plugin/Utils/Lib/I18nCountry.php:55
+#: Plugin/Utils/View/Emails/html/error_notification.ctp:1;5;6;7;11;16;21;28;35;42
+#: Plugin/Utils/View/Emails/text/error_notification.ctp:3;4;5
+msgid "utils"
+msgstr ""
+
+#: View/Assets/add.ctp:3
+msgid "Add Asset"
+msgstr "Add Product"
+
+#: View/Assets/add.ctp:47 View/Assets/edit.ctp:47 View/Assets/view.ctp:41
+msgid "Asset Details"
+msgstr "Product Details"
+
+#: View/Assets/add.ctp:50 View/Assets/edit.ctp:50 View/Attributes/view.ctp:64
+msgid "Related Assets"
+msgstr "Related Products"
+
+#: View/Assets/add.ctp:58 View/Assets/edit.ctp:63 View/Attributes/add.ctp:47
+#: View/Attributes/edit.ctp:50 View/Attributes/view.ctp:41;70
+#: View/Cart/index.ctp:41 View/Categories/add.ctp:47
+#: View/Categories/edit.ctp:50 View/Categories/view_alt.ctp:140;184
+#: View/Clients/add.ctp:61 View/Clients/edit.ctp:62 View/Clients/index.ctp:16
+#: View/Clients/view.ctp:43;123 View/ClientsGroups/add.ctp:49
+#: View/ClientsGroups/edit.ctp:52 View/ClientsGroups/view.ctp:39
+#: View/Complaints/edit.ctp:47 View/ContactFormsMessages/add.ctp:34
+#: View/ContactFormsMessages/view.ctp:66 View/Depositories/add.ctp:47
+#: View/Depositories/edit.ctp:50 View/Depositories/view.ctp:39
+#: View/Elements/cart.ctp:9 View/Elements/quote.ctp:9
+#: View/Employees/view.ctp:57 View/News/add.ctp:28 View/News/edit.ctp:32
+#: View/Orders/view.ctp:128 View/OrdersStatuses/add.ctp:47
+#: View/OrdersStatuses/edit.ctp:50 View/OrdersStatuses/view.ctp:41
+#: View/Payments/client_index.ctp:51 View/Payments/index.ctp:66
+#: View/Payments/view.ctp:113 View/Users/edit.ctp:206 View/Users/view.ctp:46
+msgid "Name"
+msgstr ""
+
+#: View/Assets/add.ctp:63 View/Assets/edit.ctp:68
+msgid "SKU"
+msgstr ""
+
+#: View/Assets/add.ctp:68 View/Assets/edit.ctp:73 View/Assets/view.ctp:218
+#: View/Attributes/view.ctp:76 View/Categories/add.ctp:50
+#: View/Categories/edit.ctp:53 View/Clients/view.ctp:179
+#: View/Complaints/add.ctp:47 View/Complaints/edit.ctp:50
+#: View/Invoices/add.ctp:57 View/Invoices/edit.ctp:61
+#: View/Invoices/view.ctp:118 View/Orders/view.ctp:221
+#: View/Payments/client_index.ctp:55 View/Payments/index.ctp:32;70
+#: View/Payments/view.ctp:99
+msgid "Description"
+msgstr ""
+
+#: View/Assets/add.ctp:81 View/Assets/edit.ctp:86 View/Attributes/view.ctp:79
+msgid "Unit"
+msgstr ""
+
+#: View/Assets/add.ctp:93 View/Assets/edit.ctp:99 View/Assets/view.ctp:200
+#: View/Attributes/view.ctp:78 View/Cart/index.ctp:42 View/Elements/cart.ctp:10
+#: View/Elements/quote.ctp:10 View/Orders/view.ctp:130
+msgid "Quantity"
+msgstr ""
+
+#: View/Assets/add.ctp:108
+msgid "Pricing"
+msgstr ""
+
+#: View/Assets/add.ctp:124 View/Assets/edit.ctp:132 View/Assets/view.ctp:164
+msgid "Attributes"
+msgstr ""
+
+#: View/Assets/add.ctp:147 View/Assets/edit.ctp:154
+msgid "Files"
+msgstr ""
+
+#: View/Assets/add.ctp:168 View/Assets/edit.ctp:177 View/Attributes/add.ctp:57
+#: View/Attributes/edit.ctp:60 View/Categories/add.ctp:57
+#: View/Categories/edit.ctp:72 View/Clients/add.ctp:154
+#: View/Clients/edit.ctp:171 View/ClientsGroups/add.ctp:63
+#: View/ClientsGroups/edit.ctp:66 View/Complaints/add.ctp:76;78
+#: View/Complaints/edit.ctp:78 View/Complaints/view.ctp:125;282
+#: View/ContactFormsMessages/edit.ctp:41 View/Depositories/add.ctp:61
+#: View/Depositories/edit.ctp:64 View/Employees/add.ctp:125
+#: View/Employees/edit.ctp:166 View/Employees/register.ctp:43
+#: View/Invoices/add.ctp:67 View/Invoices/edit.ctp:71 View/News/add.ctp:53
+#: View/News/edit.ctp:57 View/Operators/add.ctp:131 View/Operators/edit.ctp:170
+#: View/Orders/add.ctp:51 View/Orders/edit.ctp:55 View/Orders/view.ctp:311
+#: View/OrdersStatuses/add.ctp:75 View/OrdersStatuses/edit.ctp:73
+#: View/Payments/pay.ctp:35 View/Themed/App/Elements/head.ctp:115
+#: View/Users/admin_add.ctp:56 View/Users/admin_edit.ctp:47
+#: View/Users/lostpassword.ctp:14 View/Users/register.ctp:55
+msgid "Cancel"
+msgstr ""
+
+#: View/Assets/edit.ctp:12 View/Categories/add.ctp:12
+#: View/Categories/edit.ctp:12 View/OrdersStatuses/add.ctp:12
+#: View/OrdersStatuses/edit.ctp:12 View/Users/edit.ctp:12
+msgid "Personal Informations"
+msgstr ""
+
+#: View/Assets/index.ctp:13
+msgid "Assets List"
+msgstr "Products List"
+
+#: View/Assets/view.ctp:56 View/Orders/view.ctp:301
+msgid "Back"
+msgstr ""
+
+#: View/Assets/view.ctp:117 View/Attributes/view.ctp:77 View/Cart/index.ctp:46
+#: View/Elements/cart.ctp:14 View/Elements/quote.ctp:12
+#: View/Orders/view.ctp:131
+msgid "Net Price"
+msgstr ""
+
+#: View/Assets/view.ctp:135 View/Elements/product_row.ctp:98
+msgid "Discount"
+msgstr ""
+
+#: View/Assets/view.ctp:142 View/Elements/product_row.ctp:58;73
+msgid "Availability"
+msgstr ""
+
+#: View/Assets/view.ctp:146 View/Elements/product_row.ctp:60;75
+msgid "In Stock"
+msgstr ""
+
+#: View/Assets/view.ctp:148 View/Elements/product_row.ctp:62;77
+msgid "Out of Stock"
+msgstr ""
+
+#: View/Assets/view.ctp:202
+msgid "Add to cart"
+msgstr ""
+
+#: View/Assets/view.ctp:281
+msgid "Asset Order Attachments"
+msgstr "Product Order Attachment"
+
+#: View/Assets/view.ctp:318 View/Clients/attachments.ctp:3
+#: View/Elements/page_sidebar_employee.ctp:91
+msgid "My Files"
+msgstr ""
+
+#: View/Assets/view.ctp:355
+msgid "Previous Orders"
+msgstr ""
+
+#: View/Assets/datatable/asset.ctp:46
+#: View/Assets/datatable/related_assets.ctp:12
+#: View/Attributes/datatable/attribute.ctp:16
+#: View/Clients/datatable/asset.ctp:12 View/Clients/datatable/client.ctp:19
+#: View/ClientsGroups/datatable/clients_group.ctp:8
+#: View/Depositories/datatable/depository.ctp:9 View/Elements/category.ctp:9
+#: View/Employees/datatable/employee.ctp:33
+#: View/Operators/datatable/operator.ctp:32 View/Orders/datatable/order.ctp:11
+#: View/OrdersStatuses/datatable/order_status.ctp:9 View/Users/index.ctp:65
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: View/Attributes/add.ctp:50 View/Attributes/edit.ctp:53
+#: View/Attributes/view.ctp:48 View/Categories/view_alt.ctp:185
+msgid "Type"
+msgstr ""
+
+#: View/Attributes/index.ctp:13
+msgid "Assets Attributes List"
+msgstr "Products Attributes List"
+
+#: View/Attributes/view.ctp:5
+msgid "Attribute"
+msgstr ""
+
+#: View/Attributes/view.ctp:18
+msgid "Edit Attribute"
+msgstr ""
+
+#: View/Attributes/view.ctp:19
+msgid "Delete Attribute"
+msgstr ""
+
+#: View/Attributes/view.ctp:19;104 View/Clients/view.ctp:19;147;206
+#: View/ClientsGroups/view.ctp:19 View/Complaints/edit.ctp:18
+#: View/Complaints/index.ctp:126 View/ContactFormsMessages/edit.ctp:18
+#: View/Depositories/view.ctp:19 View/Elements/actions/attributes_edit.ctp:8
+#: View/Employees/view.ctp:19 View/Invoices/edit.ctp:18
+#: View/Invoices/view.ctp:19 View/News/edit.ctp:18 View/News/index.ctp:53
+#: View/Operators/edit.ctp:51 View/Orders/edit.ctp:18
+#: View/OrdersStatuses/view.ctp:19;94 View/Payments/view.ctp:19
+#: View/Reports/current_orders.ctp:100 View/Reports/orders_total.ctp:116
+#: View/Roles/edit.ctp:21 View/Roles/index.ctp:51 View/Users/view.ctp:19
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Attributes/view.ctp:20 View/Elements/actions/attributes_edit.ctp:9
+msgid "List Attributes"
+msgstr ""
+
+#: View/Attributes/view.ctp:21 View/Elements/actions/attributes_index.ctp:8
+msgid "New Attribute"
+msgstr ""
+
+#: View/Attributes/view.ctp:22 View/Elements/actions/attributes_edit.ctp:10
+msgid "List Assets"
+msgstr "List Products"
+
+#: View/Attributes/view.ctp:23;113 View/Elements/actions/attributes_edit.ctp:11
+msgid "New Assets"
+msgstr ""
+
+#: View/Attributes/view.ctp:71 View/Orders/view.ctp:129
+msgid "Sku"
+msgstr ""
+
+#: View/Attributes/view.ctp:72
+msgid "Local Code"
+msgstr ""
+
+#: View/Attributes/view.ctp:73 View/Clients/view.ctp:92;125;170
+#: View/ClientsGroups/view.ctp:46 View/ContactFormsMessages/view.ctp:59
+#: View/Depositories/view.ctp:46 View/Employees/view.ctp:71
+#: View/Index/index.ctp:174 View/Invoices/view.ctp:55 View/News/view.ctp:28
+#: View/Orders/view.ctp:46;222 View/OrdersStatuses/view.ctp:70
+#: View/Payments/view.ctp:64 View/Reports/orders_total.ctp:35
+msgid "Created"
+msgstr ""
+
+#: View/Attributes/view.ctp:74 View/Clients/view.ctp:99;126;171
+#: View/ClientsGroups/view.ctp:53 View/Depositories/view.ctp:53
+#: View/Employees/view.ctp:78 View/Invoices/view.ctp:62
+#: View/OrdersStatuses/view.ctp:71 View/Payments/view.ctp:71
+msgid "Modified"
+msgstr ""
+
+#: View/Attributes/view.ctp:75
+msgid "Short Description"
+msgstr ""
+
+#: View/Attributes/view.ctp:81
+msgid "Assets Group Id"
+msgstr ""
+
+#: View/Attributes/view.ctp:102
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/Attributes/view.ctp:103
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Attributes/view.ctp:104
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Cart/checkout.ctp:12
+msgid "Summary"
+msgstr ""
+
+#: View/Cart/checkout.ctp:30 View/Cart/checkout_error.ctp:34
+msgid "Back to cart"
+msgstr ""
+
+#: View/Cart/checkout.ctp:36 View/Cart/index.ctp:130
+msgid "Supplier"
+msgstr ""
+
+#: View/Cart/checkout.ctp:40 View/Cart/checkout_error.ctp:41
+#: View/Emails/html/new_order.ctp:28 View/Emails/html/new_order_client.ctp:32
+msgid "External Order Number"
+msgstr ""
+
+#: View/Cart/checkout.ctp:43
+msgid "Autogenerated"
+msgstr ""
+
+#: View/Cart/checkout.ctp:50 View/Cart/checkout_error.ctp:46
+#: View/Cart/index.ctp:137 View/Emails/html/new_order.ctp:32
+#: View/Emails/html/new_order_client.ctp:36 View/Emails/html/quote.ctp:19
+#: View/Orders/view.ctp:99
+msgid "Notes"
+msgstr ""
+
+#: View/Cart/checkout.ctp:55
+msgid "Place order"
+msgstr ""
+
+#: View/Cart/checkout.ctp:60 View/Cart/checkout_error.ctp:56
+#: View/Cart/index.ctp:147
+msgid "Your cart is empty."
+msgstr ""
+
+#: View/Cart/checkout_error.ctp:51 View/Complaints/add.ctp:74
+#: View/Complaints/view.ctp:281 View/ContactFormsMessages/add.ctp:62
+msgid "Send"
+msgstr ""
+
+#: View/Cart/index.ctp:12
+msgid "Cart Content"
+msgstr ""
+
+#: View/Cart/index.ctp:44 View/Elements/cart.ctp:12 View/Orders/view.ctp:133
+msgid "Attachments"
+msgstr ""
+
+#: View/Cart/index.ctp:47 View/Elements/cart.ctp:15 View/Elements/quote.ctp:13
+#: View/Orders/view.ctp:132
+msgid "Subtotal"
+msgstr ""
+
+#: View/Cart/index.ctp:122
+msgid "Update Cart"
+msgstr ""
+
+#: View/Cart/index.ctp:142
+msgid "Checkout"
+msgstr ""
+
+#: View/Cart/index.ctp:160 View/Elements/page_header.ctp:170
+msgid "Are you sure you want to remove this asset from basket?"
+msgstr "Are you sure you want to remove this product from basket?"
+
+#: View/Categories/index.ctp:55
+msgid "Assets Categories Tree"
+msgstr "Products Categories Tree"
+
+#: View/Categories/index.ctp:69
+msgid "Expand All"
+msgstr ""
+
+#: View/Categories/index.ctp:70
+msgid "Collapse All"
+msgstr ""
+
+#: View/Categories/index.ctp:103
+msgid "Save order"
+msgstr ""
+
+#: View/Categories/view.ctp:21;23 View/Categories/view_alt.ctp:21;23
+#: View/Elements/page_sidebar_admin.ctp:81
+#: View/Elements/page_sidebar_employee.ctp:43
+#: View/Elements/page_sidebar_operator.ctp:81 View/Index/index.ctp:42
+#: View/Index/index_employee.ctp:42 View/Orders/view.ctp:122
+#: View/Themed/App/Elements/nav_admin.ctp:26
+#: View/Themed/App/Elements/nav_operator.ctp:26
+msgid "Assets"
+msgstr "Products"
+
+#: View/Categories/view.ctp:87 View/Categories/view_alt.ctp:248
+#: View/Complaints/client_index.ctp:119 View/Complaints/index.ctp:144
+#: View/Employees/client_index.ctp:136 View/Index/index.ctp:195
+#: View/Invoices/client_index.ctp:134 View/Invoices/index.ctp:148
+#: View/News/index.ctp:71 View/Reports/current_orders.ctp:118
+#: View/Reports/orders_total.ctp:140 View/Roles/index.ctp:69
+#: View/Users/index.ctp:84
+msgid "First page"
+msgstr ""
+
+#: View/Categories/view.ctp:89 View/Categories/view_alt.ctp:250
+#: View/Complaints/client_index.ctp:121 View/Complaints/index.ctp:146
+#: View/Employees/client_index.ctp:138 View/Index/index.ctp:197
+#: View/Invoices/client_index.ctp:136 View/Invoices/index.ctp:150
+#: View/News/index.ctp:73 View/Payments/client_index.ctp:92
+#: View/Payments/index.ctp:110 View/Reports/current_orders.ctp:120
+#: View/Reports/orders_total.ctp:142 View/Roles/index.ctp:71
+#: View/Users/index.ctp:86
+msgid "Previous"
+msgstr ""
+
+#: View/Categories/view.ctp:91 View/Categories/view_alt.ctp:252
+#: View/Complaints/client_index.ctp:123 View/Complaints/index.ctp:148
+#: View/Employees/client_index.ctp:140 View/Index/index.ctp:199
+#: View/Invoices/client_index.ctp:138 View/Invoices/index.ctp:152
+#: View/News/index.ctp:75 View/Payments/client_index.ctp:94
+#: View/Payments/index.ctp:112 View/Reports/current_orders.ctp:122
+#: View/Reports/orders_total.ctp:144 View/Roles/index.ctp:73
+#: View/Users/index.ctp:88
+msgid "Next"
+msgstr ""
+
+#: View/Categories/view.ctp:93 View/Categories/view_alt.ctp:254
+#: View/Complaints/client_index.ctp:125 View/Complaints/index.ctp:150
+#: View/Employees/client_index.ctp:142 View/Index/index.ctp:201
+#: View/Invoices/client_index.ctp:140 View/Invoices/index.ctp:154
+#: View/News/index.ctp:77 View/Reports/current_orders.ctp:124
+#: View/Reports/orders_total.ctp:146 View/Roles/index.ctp:75
+#: View/Users/index.ctp:90
+msgid "Last page"
+msgstr ""
+
+#: View/Categories/view.ctp:104 View/Categories/view_alt.ctp:61
+#: View/Clients/add.ctp:50 View/Clients/edit.ctp:51
+msgid "Categories"
+msgstr ""
+
+#: View/Categories/view.ctp:118;120;139;141
+#: View/Categories/view_alt.ctp:76;78;97;99
+msgid "All"
+msgstr ""
+
+#: View/Categories/view_alt.ctp:125 View/Clients/index.ctp:10
+#: View/Complaints/index.ctp:26 View/Employees/client_index.ctp:15
+#: View/Invoices/client_index.ctp:15 View/Invoices/index.ctp:15
+#: View/Operators/index.ctp:10 View/OrdersStatuses/index.ctp:10
+#: View/Payments/client_index.ctp:15 View/Payments/index.ctp:16
+#: View/Reports/current_orders.ctp:19 View/Reports/orders_total.ctp:19
+#: View/Reports/satisfaction.ctp:19
+msgid "Filters"
+msgstr ""
+
+#: View/Categories/view_alt.ctp:173 View/Clients/index.ctp:35
+#: View/Complaints/index.ctp:41 View/Employees/client_index.ctp:40
+#: View/Invoices/client_index.ctp:35 View/Invoices/index.ctp:45
+#: View/Operators/index.ctp:35 View/OrdersStatuses/index.ctp:35
+#: View/Payments/client_index.ctp:30 View/Payments/index.ctp:43
+#: View/Reports/current_orders.ctp:39 View/Reports/orders_total.ctp:47
+#: View/Reports/satisfaction.ctp:42
+msgid "Clear"
+msgstr ""
+
+#: View/Categories/view_alt.ctp:186
+msgid "Mandatory"
+msgstr ""
+
+#: View/Categories/view_alt.ctp:209
+msgid "Products List"
+msgstr ""
+
+#: View/Clients/add.ctp:3
+msgid "Add Client"
+msgstr "Add Contractor"
+
+#: View/Clients/add.ctp:47 View/Clients/edit.ctp:48
+msgid "Client Info"
+msgstr ""
+
+#: View/Clients/add.ctp:66 View/Clients/edit.ctp:67
+#: View/Clients/view.ctp:50;128 View/Employees/add.ctp:74
+#: View/Employees/edit.ctp:92 View/Employees/view.ctp:92
+#: View/Operators/add.ctp:74 View/Operators/edit.ctp:92 View/Users/edit.ctp:211
+#: View/Users/view.ctp:60
+msgid "Email"
+msgstr ""
+
+#: View/Clients/add.ctp:73 View/Clients/edit.ctp:74 View/Clients/view.ctp:57
+#: View/Employees/register.ctp:8 View/Users/edit.ctp:218
+msgid "Vat Number"
+msgstr ""
+
+#: View/Clients/add.ctp:78 View/Clients/edit.ctp:79 View/Clients/view.ctp:64
+#: View/Users/edit.ctp:223
+msgid "Address"
+msgstr ""
+
+#: View/Clients/add.ctp:85 View/Clients/edit.ctp:86 View/Clients/view.ctp:71
+#: View/Users/edit.ctp:230
+msgid "Postalcode"
+msgstr ""
+
+#: View/Clients/add.ctp:90 View/Clients/edit.ctp:91 View/Clients/view.ctp:78
+#: View/Users/edit.ctp:235
+msgid "City"
+msgstr ""
+
+#: View/Clients/add.ctp:95 View/Clients/edit.ctp:96 View/Clients/view.ctp:85
+#: View/Users/edit.ctp:240
+msgid "Country"
+msgstr ""
+
+#: View/Clients/add.ctp:124 View/Clients/edit.ctp:125
+msgid "Clients Role"
+msgstr ""
+
+#: View/Clients/add.ctp:129 View/Clients/edit.ctp:130
+#: View/Elements/page_sidebar_admin.ctp:150
+#: View/Themed/App/Elements/nav_admin.ctp:82
+#: View/Themed/App/Elements/nav_operator.ctp:82
+msgid "Depositories"
+msgstr ""
+
+#: View/Clients/attachments.ctp:11
+msgid "Files List"
+msgstr ""
+
+#: View/Clients/edit.ctp:3 View/Clients/view.ctp:18
+msgid "Edit Client"
+msgstr "Edit Contractor"
+
+#: View/Clients/edit.ctp:135
+msgid "Is Active"
+msgstr ""
+
+#: View/Clients/edit.ctp:136 View/Depositories/add.ctp:50;51
+#: View/Depositories/edit.ctp:53;54 View/OrdersStatuses/add.ctp:50;51;55
+#: View/OrdersStatuses/edit.ctp:53;54;58
+msgid "Is Default"
+msgstr ""
+
+#: View/Clients/index.ctp:3 View/Elements/page_sidebar_admin.ctp:43
+#: View/Elements/page_sidebar_operator.ctp:43
+#: View/Themed/App/Elements/nav_admin.ctp:15;18
+#: View/Themed/App/Elements/nav_operator.ctp:15;18
+msgid "Clients"
+msgstr "Contractors"
+
+#: View/Clients/index.ctp:21 View/ContactFormsMessages/view.ctp:80
+#: View/Employees/register.ctp:12 View/Users/admin_add.ctp:15
+#: View/Users/admin_edit.ctp:15 View/Users/edit.ctp:69 View/Users/login.ctp:11
+#: View/Users/lostpassword.ctp:9 View/Users/register.ctp:20
+msgid "E-mail"
+msgstr ""
+
+#: View/Clients/index.ctp:26
+msgid "NIP"
+msgstr ""
+
+#: View/Clients/index.ctp:55
+msgid "Clients List"
+msgstr "Contractors List"
+
+#: View/Clients/view.ctp:5 View/Complaints/index.ctp:32;65
+#: View/Employees/add.ctp:52 View/Employees/view.ctp:50
+#: View/Invoices/view.ctp:48 View/Operators/index.ctp:26
+#: View/OrdersStatuses/index.ctp:26 View/Payments/index.ctp:22;65
+#: View/Reports/current_orders.ctp:25;60 View/Reports/orders_total.ctp:24;71
+#: View/Reports/satisfaction.ctp:24
+msgid "Client"
+msgstr "Contractor"
+
+#: View/Clients/view.ctp:19
+msgid "Delete Client"
+msgstr "Delete Contractor"
+
+#: View/Clients/view.ctp:20 View/Elements/page_sidebar_admin.ctp:50
+#: View/Elements/page_sidebar_operator.ctp:50
+#: View/Elements/actions/employees_index.ctp:11 View/Employees/view.ctp:24
+#: View/Invoices/add.ctp:19 View/Invoices/edit.ctp:20 View/Invoices/view.ctp:22
+msgid "List Clients"
+msgstr "List Contractors"
+
+#: View/Clients/view.ctp:21 View/Elements/actions/clients_index.ctp:8
+#: View/Elements/actions/employees_index.ctp:12 View/Employees/view.ctp:25
+#: View/Invoices/add.ctp:20 View/Invoices/edit.ctp:21 View/Invoices/view.ctp:23
+msgid "New Client"
+msgstr "New Contractor"
+
+#: View/Clients/view.ctp:22 View/Elements/actions/clients_index.ctp:9
+#: View/Employees/view.ctp:20 View/Orders/add.ctp:19 View/Orders/edit.ctp:20
+msgid "List Employees"
+msgstr ""
+
+#: View/Clients/view.ctp:23;156 View/Elements/actions/clients_index.ctp:10
+#: View/Elements/actions/employees_index.ctp:8 View/Employees/view.ctp:21
+msgid "New Employee"
+msgstr ""
+
+#: View/Clients/view.ctp:24 View/Invoices/add.ctp:18 View/Invoices/edit.ctp:19
+#: View/Invoices/view.ctp:20 View/Payments/view.ctp:24
+msgid "List Invoices"
+msgstr ""
+
+#: View/Clients/view.ctp:25;215 View/Invoices/view.ctp:21
+#: View/Payments/view.ctp:25
+msgid "New Invoice"
+msgstr ""
+
+#: View/Clients/view.ctp:115
+msgid "Related Employees"
+msgstr ""
+
+#: View/Clients/view.ctp:121 View/ContactFormsMessages/edit.ctp:37
+#: View/Operators/edit.ctp:67
+msgid "User Id"
+msgstr ""
+
+#: View/Clients/view.ctp:122;169 View/Employees/edit.ctp:70
+#: View/Invoices/add.ctp:33 View/Invoices/edit.ctp:37
+msgid "Client Id"
+msgstr ""
+
+#: View/Clients/view.ctp:124 View/ContactFormsMessages/add.ctp:45
+#: View/ContactFormsMessages/view.ctp:73 View/Employees/add.ctp:64
+#: View/Employees/edit.ctp:82 View/Employees/view.ctp:64
+#: View/Operators/add.ctp:62 View/Operators/edit.ctp:82 View/Users/view.ctp:53
+msgid "Surname"
+msgstr ""
+
+#: View/Clients/view.ctp:127 View/Employees/add.ctp:69
+#: View/Employees/edit.ctp:87 View/Employees/view.ctp:85
+#: View/Operators/add.ctp:69 View/Operators/edit.ctp:87
+#: View/Users/edit.ctp:47;63
+msgid "Phone"
+msgstr ""
+
+#: View/Clients/view.ctp:162
+msgid "Related Invoices"
+msgstr ""
+
+#: View/Clients/view.ctp:168 View/Invoices/add.ctp:30 View/Invoices/edit.ctp:34
+#: View/Invoices/view.ctp:41
+msgid "Profile Id"
+msgstr ""
+
+#: View/Clients/view.ctp:173 View/Invoices/add.ctp:39
+#: View/Invoices/client_index.ctp:26 View/Invoices/edit.ctp:43
+#: View/Invoices/index.ctp:31 View/Invoices/view.ctp:76
+msgid "Created Date"
+msgstr ""
+
+#: View/Clients/view.ctp:174 View/Invoices/add.ctp:42 View/Invoices/edit.ctp:46
+#: View/Invoices/view.ctp:83
+msgid "Due Date"
+msgstr ""
+
+#: View/Clients/view.ctp:175 View/Invoices/add.ctp:45 View/Invoices/edit.ctp:49
+#: View/Invoices/view.ctp:90
+msgid "Month"
+msgstr ""
+
+#: View/Clients/view.ctp:176 View/Invoices/add.ctp:48 View/Invoices/edit.ctp:52
+#: View/Invoices/view.ctp:97
+msgid "Year"
+msgstr ""
+
+#: View/Clients/view.ctp:177 View/Invoices/add.ctp:51 View/Invoices/edit.ctp:55
+#: View/Invoices/view.ctp:104
+msgid "Payment Method"
+msgstr ""
+
+#: View/Clients/view.ctp:178 View/Invoices/add.ctp:54 View/Invoices/edit.ctp:58
+#: View/Invoices/view.ctp:111 View/Payments/client_index.ctp:53
+#: View/Payments/index.ctp:68 View/Payments/pay.ctp:14
+#: View/Payments/view.ctp:78
+msgid "Amount"
+msgstr ""
+
+#: View/Clients/view.ctp:180 View/Invoices/add.ctp:60 View/Invoices/edit.ctp:64
+#: View/Invoices/view.ctp:125
+msgid "Xml"
+msgstr ""
+
+#: View/Clients/view.ctp:181 View/Invoices/add.ctp:63 View/Invoices/edit.ctp:67
+#: View/Invoices/view.ctp:132
+msgid "Pdf"
+msgstr ""
+
+#: View/ClientsGroups/add.ctp:54 View/ClientsGroups/edit.ctp:57
+msgid "Symbol"
+msgstr ""
+
+#: View/ClientsGroups/index.ctp:13
+msgid "Clients Groups List"
+msgstr ""
+
+#: View/ClientsGroups/view.ctp:5
+msgid "Clients Group"
+msgstr ""
+
+#: View/ClientsGroups/view.ctp:18
+msgid "Edit Clients Group"
+msgstr ""
+
+#: View/ClientsGroups/view.ctp:19
+msgid "Delete Clients Group"
+msgstr ""
+
+#: View/ClientsGroups/view.ctp:20
+msgid "List Clients Groups"
+msgstr ""
+
+#: View/ClientsGroups/view.ctp:21
+#: View/Elements/actions/clients_groups_index.ctp:8
+msgid "New Clients Group"
+msgstr ""
+
+#: View/Complaints/add.ctp:7
+msgid "New Complaint for Order No"
+msgstr ""
+
+#: View/Complaints/add.ctp:9 View/Complaints/client_index.ctp:27
+#: View/Orders/add.ctp:26 View/Orders/edit.ctp:27
+msgid "New Complaint"
+msgstr ""
+
+#: View/Complaints/add.ctp:22 View/Complaints/edit.ctp:19
+#: View/Orders/add.ctp:25 View/Orders/edit.ctp:26
+msgid "List Complaints"
+msgstr ""
+
+#: View/Complaints/add.ctp:23 View/Complaints/edit.ctp:20
+#: View/Orders/add.ctp:18 View/Orders/edit.ctp:19
+#: View/OrdersStatuses/view.ctp:22
+msgid "List Orders"
+msgstr ""
+
+#: View/Complaints/add.ctp:24 View/Complaints/edit.ctp:21
+#: View/OrdersStatuses/view.ctp:23;103
+msgid "New Order"
+msgstr ""
+
+#: View/Complaints/add.ctp:25 View/Complaints/edit.ctp:22
+msgid "List Created By Employees"
+msgstr ""
+
+#: View/Complaints/add.ctp:26 View/Complaints/edit.ctp:23
+#: View/Orders/add.ctp:20 View/Orders/edit.ctp:21
+msgid "New Created By Employee"
+msgstr ""
+
+#: View/Complaints/add.ctp:27 View/Complaints/edit.ctp:24
+msgid "List Created By Operators"
+msgstr ""
+
+#: View/Complaints/add.ctp:28 View/Complaints/edit.ctp:25
+#: View/Orders/add.ctp:22 View/Orders/edit.ctp:23
+msgid "New Created By Operator"
+msgstr ""
+
+#: View/Complaints/add.ctp:29 View/Complaints/edit.ctp:26
+msgid "List Assigned To Operators"
+msgstr ""
+
+#: View/Complaints/add.ctp:30 View/Complaints/edit.ctp:27
+msgid "New Assigned To Operator"
+msgstr ""
+
+#: View/Complaints/add.ctp:31 View/Complaints/edit.ctp:28
+msgid "List Approved By Users"
+msgstr ""
+
+#: View/Complaints/add.ctp:32 View/Complaints/edit.ctp:29
+msgid "New Approved By User"
+msgstr ""
+
+#: View/Complaints/add.ctp:33 View/Complaints/edit.ctp:30
+#: View/Orders/add.ctp:27 View/Orders/edit.ctp:28
+msgid "List Notes"
+msgstr ""
+
+#: View/Complaints/add.ctp:34 View/Complaints/edit.ctp:31
+#: View/Orders/add.ctp:28 View/Orders/edit.ctp:29
+msgid "New Note"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:6;19 View/Complaints/index.ctp:10
+#: View/Themed/App/Elements/nav_admin.ctp:11
+#: View/Themed/App/Elements/nav_employee.ctp:51
+#: View/Themed/App/Elements/nav_operator.ctp:11
+msgid "Complaints"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:37
+msgid "Order"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:43 View/Complaints/index.ctp:67
+#: View/Invoices/index.ctp:36 View/Orders/view.ctp:73;225
+#: View/Payments/client_index.ctp:54 View/Payments/index.ctp:69
+#: View/Payments/view.ctp:92 View/Reports/current_orders.ctp:62
+#: View/Reports/orders_total.ctp:73 View/Users/view.ctp:95
+msgid "Status"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:73 View/Complaints/index.ctp:98
+#: View/Orders/view.ctp:259
+msgid "Reply recieved"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:75 View/Complaints/index.ctp:100
+#: View/Orders/view.ctp:261
+msgid "Reply sent"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:78 View/Complaints/index.ctp:103
+#: View/Orders/view.ctp:264
+msgid "Waiting for reply"
+msgstr ""
+
+#: View/Complaints/client_index.ctp:81 View/Complaints/edit.ctp:74
+#: View/Complaints/index.ctp:106 View/Complaints/view.ctp:379
+#: View/Orders/view.ctp:267
+msgid "Closed"
+msgstr ""
+
+#: View/Complaints/edit.ctp:6
+msgid "Edit Complaint"
+msgstr ""
+
+#: View/Complaints/edit.ctp:44
+msgid "Order Id"
+msgstr ""
+
+#: View/Complaints/edit.ctp:53 View/Orders/add.ctp:38 View/Orders/edit.ctp:42
+#: View/OrdersStatuses/view.ctp:72
+msgid "Created By Employee Id"
+msgstr ""
+
+#: View/Complaints/edit.ctp:56 View/Orders/add.ctp:41 View/Orders/edit.ctp:45
+#: View/OrdersStatuses/view.ctp:73
+msgid "Created By Operator Id"
+msgstr ""
+
+#: View/Complaints/edit.ctp:59 View/Orders/add.ctp:44 View/Orders/edit.ctp:48
+#: View/OrdersStatuses/view.ctp:74
+msgid "Assigned To Operator Id"
+msgstr ""
+
+#: View/Complaints/edit.ctp:62 View/Complaints/view.ctp:337
+msgid "Requires Approval"
+msgstr ""
+
+#: View/Complaints/edit.ctp:65
+msgid "Is Approved"
+msgstr ""
+
+#: View/Complaints/edit.ctp:68
+msgid "Approved By User Id"
+msgstr ""
+
+#: View/Complaints/edit.ctp:71 View/Orders/add.ctp:47 View/Orders/edit.ctp:51
+#: View/OrdersStatuses/view.ctp:75
+msgid "Approved Datetime"
+msgstr ""
+
+#: View/Complaints/index.ctp:13 View/Themed/App/Elements/nav_admin.ctp:44
+#: View/Themed/App/Elements/nav_operator.ctp:44
+msgid "Current Complaints"
+msgstr ""
+
+#: View/Complaints/index.ctp:32 View/Invoices/index.ctp:26
+#: View/Operators/index.ctp:26 View/OrdersStatuses/index.ctp:26
+#: View/Payments/index.ctp:22 View/Reports/current_orders.ctp:25;30
+#: View/Reports/orders_total.ctp:24;29 View/Reports/satisfaction.ctp:24
+msgid "Choose one"
+msgstr ""
+
+#: View/Complaints/view.ctp:6
+msgid "Complaint no"
+msgstr ""
+
+#: View/Complaints/view.ctp:135
+msgid "Are you sure you want to delete this note?"
+msgstr ""
+
+#: View/Complaints/view.ctp:148
+msgid "The note has been deleted."
+msgstr ""
+
+#: View/Complaints/view.ctp:250
+msgid "The note has been saved."
+msgstr ""
+
+#: View/Complaints/view.ctp:275
+msgid "Create"
+msgstr ""
+
+#: View/Complaints/view.ctp:315
+msgid "Submitted By"
+msgstr ""
+
+#: View/Complaints/view.ctp:357
+msgid "Assigned To Operator"
+msgstr ""
+
+#: View/Complaints/view.ctp:379 View/News/index.ctp:45
+msgid "No"
+msgstr ""
+
+#: View/Complaints/view.ctp:379 View/News/index.ctp:45
+msgid "Yes"
+msgstr ""
+
+#: View/Complaints/view.ctp:393
+msgid "Back to Order"
+msgstr ""
+
+#: View/ContactFormsMessages/add.ctp:3
+#: View/Elements/page_sidebar_employee.ctp:75
+msgid "Contact Form"
+msgstr ""
+
+#: View/ContactFormsMessages/add.ctp:12
+msgid "Your message"
+msgstr ""
+
+#: View/ContactFormsMessages/add.ctp:50
+msgid "Your E-mail"
+msgstr ""
+
+#: View/ContactFormsMessages/add.ctp:53 View/ContactFormsMessages/edit.ctp:34
+#: View/ContactFormsMessages/view.ctp:3;18
+msgid "Message"
+msgstr ""
+
+#: View/ContactFormsMessages/edit.ctp:6
+msgid "Edit Contact Forms Message"
+msgstr ""
+
+#: View/ContactFormsMessages/edit.ctp:19
+msgid "List Contact Forms Messages"
+msgstr ""
+
+#: View/ContactFormsMessages/edit.ctp:20 View/Employees/view.ctp:22
+#: View/Operators/edit.ctp:53 View/Payments/view.ctp:22 View/Roles/add.ctp:22
+#: View/Roles/edit.ctp:23 View/Roles/index.ctp:22 View/Users/view.ctp:20
+msgid "List Users"
+msgstr ""
+
+#: View/ContactFormsMessages/edit.ctp:21 View/Employees/view.ctp:23
+#: View/Operators/edit.ctp:54 View/Payments/view.ctp:23 View/Roles/add.ctp:23
+#: View/Roles/edit.ctp:24 View/Roles/index.ctp:23 View/Users/index.ctp:20
+#: View/Users/view.ctp:21
+msgid "New User"
+msgstr ""
+
+#: View/ContactFormsMessages/index.ctp:13
+msgid "Messages List"
+msgstr ""
+
+#: View/ContactFormsMessages/view.ctp:14
+#: View/Elements/page_sidebar_admin.ctp:119
+#: View/Elements/page_sidebar_operator.ctp:119
+msgid "Messages"
+msgstr ""
+
+#: View/ContactFormsMessages/view.ctp:34
+msgid "Message Details"
+msgstr ""
+
+#: View/ContactFormsMessages/view.ctp:87 View/Employees/edit.ctp:108
+#: View/Employees/view.ctp:43 View/Operators/edit.ctp:113
+#: View/Payments/view.ctp:43 View/Users/view.ctp:5
+msgid "User"
+msgstr ""
+
+#: View/ContactFormsMessages/datatable/contact_forms_message.ctp:12
+msgid "Are you sure you want to delete that message?"
+msgstr ""
+
+#: View/Depositories/define.ctp:1
+msgid "Please choose depository first."
+msgstr ""
+
+#: View/Depositories/index.ctp:13
+msgid "Depositories List"
+msgstr ""
+
+#: View/Depositories/view.ctp:5 View/Elements/page_header.ctp:32;63
+#: View/Orders/view.ctp:53 View/Reports/current_orders.ctp:30;63
+#: View/Reports/orders_total.ctp:29;74
+#: View/Themed/App/Elements/nav_employee.ctp:9
+msgid "Depository"
+msgstr ""
+
+#: View/Depositories/view.ctp:18
+msgid "Edit Depository"
+msgstr ""
+
+#: View/Depositories/view.ctp:19
+msgid "Delete Depository"
+msgstr ""
+
+#: View/Depositories/view.ctp:20
+msgid "List Depositories"
+msgstr ""
+
+#: View/Depositories/view.ctp:21 View/Elements/actions/depositories_index.ctp:8
+msgid "New Depository"
+msgstr ""
+
+#: View/Elements/attachments.ctp:9
+msgid "Drop files here or click to upload"
+msgstr ""
+
+#: View/Elements/attachments.ctp:49
+msgid "Are you sure you want to delete that attachment?"
+msgstr ""
+
+#: View/Elements/attachments.ctp:70
+msgid "Attach"
+msgstr ""
+
+#: View/Elements/category_select_input.ctp:9
+msgid "Category"
+msgstr ""
+
+#: View/Elements/category_select_js.ctp:25
+msgid "Select category"
+msgstr ""
+
+#: View/Elements/page_header.ctp:30;61
+#: View/Themed/App/Elements/nav_employee.ctp:7
+msgid "Choose depository"
+msgstr ""
+
+#: View/Elements/page_header.ctp:90
+#: View/Themed/App/Elements/nav_employee.ctp:29
+msgid "No depositories"
+msgstr ""
+
+#: View/Elements/page_header.ctp:108
+msgid "Product Name"
+msgstr ""
+
+#: View/Elements/page_header.ctp:142
+msgid "item(s)"
+msgstr ""
+
+#: View/Elements/page_header.ctp:143
+msgid "View Cart"
+msgstr ""
+
+#: View/Elements/page_header.ctp:398 View/Elements/page_sidebar_admin.ctp:132
+#: View/Elements/page_sidebar_employee.ctp:88
+#: View/Elements/page_sidebar_operator.ctp:132 View/Index/index_employee.ctp:56
+#: View/Themed/App/Elements/nav_admin.ctp:67
+#: View/Themed/App/Elements/nav_employee.ctp:68
+#: View/Themed/App/Elements/nav_operator.ctp:67
+msgid "My profile"
+msgstr ""
+
+#: View/Elements/page_header.ctp:423 View/Themed/App/Elements/navigation.ctp:43
+#: View/Users/profile.ctp:8
+msgid "Logout"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:13
+#: View/Elements/page_sidebar_employee.ctp:13
+#: View/Elements/page_sidebar_operator.ctp:13 View/Index/index.ctp:3
+#: View/Index/index_employee.ctp:3
+msgid "Dashboard"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:56
+#: View/Elements/page_sidebar_operator.ctp:56 View/Employees/client_index.ctp:6
+#: View/Themed/App/Elements/nav_admin.ctp:21
+#: View/Themed/App/Elements/nav_operator.ctp:21
+msgid "Employees"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:65
+#: View/Themed/App/Elements/nav_admin.ctp:29
+#: View/Themed/App/Elements/nav_operator.ctp:29
+msgid "Operators"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:72;88
+#: View/Elements/page_sidebar_employee.ctp:50;66
+#: View/Elements/page_sidebar_operator.ctp:72;88 View/Operators/edit.ctp:52
+#: View/Orders/add.ctp:21 View/Orders/edit.ctp:22
+msgid "List Operators"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:97
+#: View/Elements/page_sidebar_employee.ctp:59
+#: View/Elements/page_sidebar_operator.ctp:97 View/Index/index.ctp:28
+#: View/Index/index_employee.ctp:28 View/Themed/App/Elements/nav_admin.ctp:2
+#: View/Themed/App/Elements/nav_employee.ctp:39
+#: View/Themed/App/Elements/nav_operator.ctp:2
+msgid "Orders"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:104
+#: View/Elements/page_sidebar_operator.ctp:104
+msgid "Incoming Orders"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:110
+#: View/Elements/page_sidebar_operator.ctp:110 View/Orders/index.ctp:6
+#: View/Themed/App/Elements/nav_admin.ctp:8
+#: View/Themed/App/Elements/nav_operator.ctp:8
+msgid "Orders for Suppliers"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:127
+#: View/Elements/page_sidebar_employee.ctp:83
+#: View/Elements/page_sidebar_operator.ctp:127
+#: View/Themed/App/Elements/nav_admin.ctp:64
+#: View/Themed/App/Elements/nav_operator.ctp:64
+msgid "Settings"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:141
+#: View/Themed/App/Elements/nav_admin.ctp:76
+#: View/Themed/App/Elements/nav_operator.ctp:76
+msgid "Orders Statuses"
+msgstr ""
+
+#: View/Elements/page_sidebar_admin.ctp:144
+msgid "Assets Attributes"
+msgstr "Products Attributes"
+
+#: View/Elements/page_sidebar_admin.ctp:147
+#: View/Themed/App/Elements/nav_admin.ctp:79
+#: View/Themed/App/Elements/nav_operator.ctp:79
+msgid "Assets Categories"
+msgstr "Products Categories"
+
+#: View/Elements/page_sidebar_admin.ctp:153
+#: View/Themed/App/Elements/nav_admin.ctp:85
+#: View/Themed/App/Elements/nav_operator.ctp:85
+msgid "Pages"
+msgstr ""
+
+#: View/Elements/quote.ctp:4
+msgid "Quote"
+msgstr ""
+
+#: View/Elements/quote.ctp:54 View/Orders/view.ctp:197
+#: View/Reports/current_orders.ctp:61 View/Reports/orders_total.ctp:72
+msgid "Total"
+msgstr ""
+
+#: View/Elements/satisfaction.ctp:10
+msgid "Please rate your satisfaction"
+msgstr ""
+
+#: View/Elements/actions/ContactFormsMessages_view.ctp:8
+msgid "Are you sure you want to delete this message?"
+msgstr ""
+
+#: View/Elements/actions/assets_edit.ctp:9
+msgid "Are you sure you want to delete that asset?"
+msgstr "Are you sure you want to delete that product?"
+
+#: View/Elements/actions/assets_index.ctp:8 View/Orders/add.ctp:24
+#: View/Orders/edit.ctp:25
+msgid "New Asset"
+msgstr "New Product"
+
+#: View/Elements/actions/assets_view.ctp:14
+msgid "Edit Asset"
+msgstr "Edit Product"
+
+#: View/Elements/actions/categories_index.ctp:8
+msgid "New Assets Category"
+msgstr ""
+
+#: View/Elements/actions/operators_index.ctp:8
+msgid "New Operator"
+msgstr ""
+
+#: View/Elements/actions/orders_statuses_index.ctp:8
+#: View/OrdersStatuses/view.ctp:21
+msgid "New Orders Status"
+msgstr ""
+
+#: View/Elements/actions/orders_view.ctp:9 View/Orders/view.ctp:302
+msgid "Reorder"
+msgstr ""
+
+#: View/Elements/actions/orders_view.ctp:11 View/Orders/view.ctp:309
+msgid "Send Order to Supplier"
+msgstr ""
+
+#: View/Emails/html/new_order.ctp:20 View/Emails/html/new_order_client.ctp:26
+msgid "Order Summary"
+msgstr ""
+
+#: View/Emails/html/new_order.ctp:22
+msgid "Customer"
+msgstr ""
+
+#: View/Emails/html/new_order_client.ctp:24
+msgid "Link to your order %s."
+msgstr ""
+
+#: View/Emails/html/quote.ctp:7
+msgid "Link to your quote %s."
+msgstr ""
+
+#: View/Emails/html/quote.ctp:9
+msgid "Quote Summary"
+msgstr ""
+
+#: View/Employees/add.ctp:59 View/Employees/client_index.ctp:77
+#: View/Employees/edit.ctp:77 View/Employees/register.ctp:15
+#: View/Operators/add.ctp:57 View/Operators/edit.ctp:77
+#: View/Users/edit.ctp:37;53 View/Users/index.ctp:32 View/Users/register.ctp:25
+msgid "First name"
+msgstr ""
+
+#: View/Employees/add.ctp:81 View/Employees/edit.ctp:100
+#: View/Operators/add.ctp:88 View/Operators/edit.ctp:105
+msgid "Create user"
+msgstr ""
+
+#: View/Employees/add.ctp:110 View/Employees/edit.ctp:139
+#: View/Employees/register.ctp:21 View/Operators/add.ctp:117
+#: View/Operators/edit.ctp:144 View/Users/admin_add.ctp:45
+#: View/Users/admin_edit.ctp:63 View/Users/changepassword.ctp:15
+#: View/Users/login.ctp:16 View/Users/register.ctp:35 View/Users/view.ctp:67
+msgid "Password"
+msgstr ""
+
+#: View/Employees/add.ctp:115 View/Employees/edit.ctp:144;155
+#: View/Operators/add.ctp:122 View/Operators/edit.ctp:149;160
+#: View/Users/admin_add.ctp:50 View/Users/admin_edit.ctp:68
+msgid "Confirm password"
+msgstr ""
+
+#: View/Employees/add.ctp:119 View/Employees/edit.ctp:160
+#: View/Operators/add.ctp:126 View/Operators/edit.ctp:165
+msgid "Send password to e-mail"
+msgstr ""
+
+#: View/Employees/client_index.ctp:21 View/Operators/index.ctp:16
+#: View/OrdersStatuses/index.ctp:16
+msgid "Firstname"
+msgstr ""
+
+#: View/Employees/client_index.ctp:26 View/Operators/index.ctp:21
+#: View/OrdersStatuses/index.ctp:21
+msgid "Lastname"
+msgstr ""
+
+#: View/Employees/client_index.ctp:79
+msgid "Role"
+msgstr ""
+
+#: View/Employees/edit.ctp:150 View/Operators/edit.ctp:155
+#: View/Users/admin_edit.ctp:55
+msgid "Change password"
+msgstr ""
+
+#: View/Employees/index.ctp:13
+msgid "Employees List"
+msgstr ""
+
+#: View/Employees/register.ctp:2
+msgid "Sign Up"
+msgstr ""
+
+#: View/Employees/register.ctp:3
+msgid "Enter your personal details below:"
+msgstr ""
+
+#: View/Employees/register.ctp:5
+msgid "Company Name"
+msgstr ""
+
+#: View/Employees/register.ctp:18 View/Users/edit.ctp:42;58
+#: View/Users/register.ctp:30
+msgid "Last name"
+msgstr ""
+
+#: View/Employees/register.ctp:25 View/Users/changepassword.ctp:20
+#: View/Users/register.ctp:40
+msgid "Repeat password"
+msgstr ""
+
+#: View/Employees/view.ctp:5
+msgid "Employee"
+msgstr ""
+
+#: View/Employees/view.ctp:18
+msgid "Edit Employee"
+msgstr ""
+
+#: View/Employees/view.ctp:19
+msgid "Delete Employee"
+msgstr ""
+
+#: View/Index/index.ctp:14
+msgid "Clients total"
+msgstr "Contractors total"
+
+#: View/Index/index.ctp:16;30;44 View/Index/index_employee.ctp:16;30;44;58
+msgid "View more"
+msgstr ""
+
+#: View/Index/index.ctp:62
+msgid "Opened Orders"
+msgstr ""
+
+#: View/Index/index.ctp:68;92;115;138
+msgid "View details"
+msgstr ""
+
+#: View/Index/index.ctp:86
+msgid "Opened Complaints"
+msgstr ""
+
+#: View/Index/index.ctp:132
+msgid "Expired Tickets"
+msgstr ""
+
+#: View/Index/index.ctp:151 View/News/index.ctp:6
+#: View/Themed/App/Elements/nav_admin.ctp:32
+#: View/Themed/App/Elements/nav_operator.ctp:32
+msgid "News"
+msgstr ""
+
+#: View/Index/index_employee.ctp:14
+msgid "Files total"
+msgstr ""
+
+#: View/Invoices/add.ctp:6
+msgid "Add Invoice"
+msgstr ""
+
+#: View/Invoices/client_index.ctp:6 View/Invoices/index.ctp:6
+#: View/Themed/App/Elements/nav_admin.ctp:55
+#: View/Themed/App/Elements/nav_employee.ctp:60
+#: View/Themed/App/Elements/nav_operator.ctp:55
+msgid "Invoices"
+msgstr ""
+
+#: View/Invoices/client_index.ctp:79 View/Invoices/index.ctp:90
+msgid "Sum"
+msgstr ""
+
+#: View/Invoices/client_index.ctp:81 View/Invoices/index.ctp:92
+msgid "Payment status"
+msgstr ""
+
+#: View/Invoices/client_index.ctp:111 View/Invoices/index.ctp:125
+msgid "Download ECOD"
+msgstr ""
+
+#: View/Invoices/client_index.ctp:114 View/Payments/client_index.ctp:71
+#: View/Payments/pay.ctp:6;30
+msgid "Pay"
+msgstr ""
+
+#: View/Invoices/edit.ctp:6 View/Invoices/view.ctp:18
+msgid "Edit Invoice"
+msgstr ""
+
+#: View/Invoices/index.ctp:26;81
+msgid "Payer"
+msgstr ""
+
+#: View/Invoices/view.ctp:19
+msgid "Delete Invoice"
+msgstr ""
+
+#: View/News/add.ctp:6
+msgid "Add News"
+msgstr ""
+
+#: View/News/add.ctp:18 View/News/edit.ctp:19
+msgid "List News"
+msgstr ""
+
+#: View/News/add.ctp:31 View/News/edit.ctp:35
+#: View/Themed/App/Elements/head.ctp:117
+msgid "To"
+msgstr ""
+
+#: View/News/add.ctp:36 View/News/edit.ctp:40
+msgid "Send E-mail"
+msgstr ""
+
+#: View/News/add.ctp:41 View/News/edit.ctp:45
+msgid "Draft"
+msgstr ""
+
+#: View/News/add.ctp:46 View/News/edit.ctp:50
+msgid "Short Content"
+msgstr ""
+
+#: View/News/edit.ctp:6
+msgid "Edit News"
+msgstr ""
+
+#: View/News/index.ctp:19
+msgid "New News"
+msgstr ""
+
+#: View/Operators/edit.ctp:55
+msgid "List Operators Groups"
+msgstr ""
+
+#: View/Operators/edit.ctp:56
+msgid "New Operators Group"
+msgstr ""
+
+#: View/Operators/index.ctp:55
+msgid "Operatos List"
+msgstr ""
+
+#: View/Orders/add.ctp:6
+msgid "Add Order"
+msgstr ""
+
+#: View/Orders/add.ctp:23 View/Orders/edit.ctp:24
+msgid "List Orders Assets"
+msgstr ""
+
+#: View/Orders/edit.ctp:6
+msgid "Edit Order"
+msgstr ""
+
+#: View/Orders/index.ctp:9 View/Themed/App/Elements/nav_admin.ctp:5
+#: View/Themed/App/Elements/nav_employee.ctp:48
+#: View/Themed/App/Elements/nav_operator.ctp:5
+msgid "Orders for"
+msgstr ""
+
+#: View/Orders/index.ctp:22 View/Orders/index_client.ctp:13
+#: View/Orders/index_incoming.ctp:13
+msgid "Orders List"
+msgstr ""
+
+#: View/Orders/view.ctp:3
+msgid "Order no"
+msgstr ""
+
+#: View/Orders/view.ctp:12
+msgid "Order Details"
+msgstr ""
+
+#: View/Orders/view.ctp:60;224
+msgid "Created By Employee"
+msgstr ""
+
+#: View/Orders/view.ctp:213
+msgid "Related Complaints"
+msgstr ""
+
+#: View/Orders/view.ctp:308
+msgid "Send Quote"
+msgstr ""
+
+#: View/Orders/datatable/order_incoming.ctp:21
+msgid "Are you sure you want to delete order number %s?"
+msgstr ""
+
+#: View/OrdersStatuses/add.ctp:54 View/OrdersStatuses/edit.ctp:57
+#: View/OrdersStatuses/view.ctp:48
+msgid "Is Closed"
+msgstr ""
+
+#: View/OrdersStatuses/add.ctp:66 View/OrdersStatuses/edit.ctp:63
+msgid "Sequence"
+msgstr ""
+
+#: View/OrdersStatuses/index.ctp:55
+msgid "Orders Statuses List"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:5
+msgid "Orders Status"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:18
+msgid "Edit Orders Status"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:19
+msgid "Delete Orders Status"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:20
+msgid "List Orders Statuses"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:64
+msgid "Related Orders"
+msgstr ""
+
+#: View/OrdersStatuses/view.ctp:76
+msgid "Orders Status Id"
+msgstr ""
+
+#: View/Payments/client_index.ctp:6 View/Payments/index.ctp:6
+#: View/Themed/App/Elements/nav_admin.ctp:58
+#: View/Themed/App/Elements/nav_employee.ctp:63
+#: View/Themed/App/Elements/nav_operator.ctp:58
+msgid "Payments"
+msgstr ""
+
+#: View/Payments/client_index.ctp:21;50 View/Payments/index.ctp:27;64
+msgid "Date"
+msgstr ""
+
+#: View/Payments/client_index.ctp:52 View/Payments/index.ctp:67
+#: View/Payments/view.ctp:57
+msgid "Method"
+msgstr ""
+
+#: View/Payments/pay.ctp:44
+msgid "Payments by"
+msgstr ""
+
+#: View/Payments/view.ctp:5
+msgid "Payment"
+msgstr ""
+
+#: View/Payments/view.ctp:18
+msgid "Edit Payment"
+msgstr ""
+
+#: View/Payments/view.ctp:19
+msgid "Delete Payment"
+msgstr ""
+
+#: View/Payments/view.ctp:20
+msgid "List Payments"
+msgstr ""
+
+#: View/Payments/view.ctp:21
+msgid "New Payment"
+msgstr ""
+
+#: View/Payments/view.ctp:85
+msgid "Currency"
+msgstr ""
+
+#: View/Payments/view.ctp:106
+msgid "Hash"
+msgstr ""
+
+#: View/Reports/current_orders.ctp:8 View/Themed/App/Elements/nav_admin.ctp:38
+#: View/Themed/App/Elements/nav_operator.ctp:38
+msgid "Current Orders"
+msgstr ""
+
+#: View/Reports/orders_total.ctp:8;125
+#: View/Themed/App/Elements/nav_admin.ctp:41
+#: View/Themed/App/Elements/nav_operator.ctp:41
+msgid "Orders Total"
+msgstr ""
+
+#: View/Reports/orders_total.ctp:35 View/Reports/satisfaction.ctp:30
+msgid "Select Range"
+msgstr ""
+
+#: View/Reports/satisfaction.ctp:8 View/Themed/App/Elements/nav_admin.ctp:47
+#: View/Themed/App/Elements/nav_operator.ctp:47
+msgid "Satisfaction"
+msgstr ""
+
+#: View/Reports/satisfaction.ctp:30
+msgid "Date Range"
+msgstr ""
+
+#: View/Reports/satisfaction.ctp:62
+msgid "Avarage satisfaction is at"
+msgstr ""
+
+#: View/Reports/satisfaction.ctp:63
+msgid "Number of votes"
+msgstr ""
+
+#: View/Roles/add.ctp:6
+msgid "Admin Add Role"
+msgstr ""
+
+#: View/Roles/add.ctp:21 View/Roles/edit.ctp:22
+msgid "List Roles"
+msgstr ""
+
+#: View/Roles/edit.ctp:6
+msgid "Admin Edit Role"
+msgstr ""
+
+#: View/Roles/index.ctp:6
+msgid "Roles"
+msgstr ""
+
+#: View/Roles/index.ctp:21
+msgid "New Role"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:100
+msgid "Today"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:101
+msgid "Yesterday"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:102
+msgid "Last 7 Days"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:103
+msgid "Last 30 Days"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:104
+msgid "This Month"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:105
+msgid "Last Month"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:116
+msgid "From"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:118
+msgid "Custom"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Su"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Mo"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Tu"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "We"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Th"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Fr"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:119
+msgid "Sa"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "January"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "February"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "March"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "April"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "May"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "June"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "July"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "August"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "September"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "October"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "November"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:120
+msgid "December"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:190
+msgid "Are you sure?"
+msgstr ""
+
+#: View/Themed/App/Elements/head.ctp:217
+msgid "Success"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_admin.ctp:35
+#: View/Themed/App/Elements/nav_operator.ctp:35
+msgid "Reports"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_admin.ctp:52
+#: View/Themed/App/Elements/nav_employee.ctp:57
+#: View/Themed/App/Elements/nav_operator.ctp:52
+msgid "Billing & Payment"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_admin.ctp:73
+#: View/Themed/App/Elements/nav_operator.ctp:73
+msgid "Clients Groups"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:43
+msgid "Orders from"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:71
+msgid "SaaS"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:74
+msgid "eRozrys"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:77
+msgid "Kreator kuchni"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:82
+msgid "EDI App"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:85
+msgid "EDI Client"
+msgstr ""
+
+#: View/Themed/App/Elements/nav_employee.ctp:88
+msgid "EDI Mobile"
+msgstr ""
+
+#: View/Themed/App/Elements/navigation.ctp:37
+msgid "Cart"
+msgstr ""
+
+#: View/Themed/App/Elements/navigation.ctp:49 View/Users/login.ctp:19
+msgid "Login"
+msgstr ""
+
+#: View/Users/admin_add.ctp:6
+msgid "New user"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:6
+msgid "Edit user"
+msgstr ""
+
+#: View/Users/changepassword.ctp:6
+msgid "Set new password"
+msgstr ""
+
+#: View/Users/edit.ctp:115
+msgid "Change Password"
+msgstr ""
+
+#: View/Users/edit.ctp:131
+msgid "Old password"
+msgstr ""
+
+#: View/Users/edit.ctp:137
+msgid "New password"
+msgstr ""
+
+#: View/Users/edit.ctp:142
+msgid "Confirm new password"
+msgstr ""
+
+#: View/Users/edit.ctp:199
+msgid "Customer Info"
+msgstr ""
+
+#: View/Users/edit.ctp:248
+msgid "Limit"
+msgstr ""
+
+#: View/Users/edit.ctp:253
+msgid "Limit Left"
+msgstr ""
+
+#: View/Users/edit.ctp:267
+msgid "Account ID"
+msgstr ""
+
+#: View/Users/edit.ctp:272
+msgid "Account Key"
+msgstr ""
+
+#: View/Users/index.ctp:6
+msgid "Users"
+msgstr ""
+
+#: View/Users/login.ctp:2
+msgid "Sign In"
+msgstr ""
+
+#: View/Users/login.ctp:22
+msgid "Remember me"
+msgstr ""
+
+#: View/Users/login.ctp:25
+msgid "Forgot password?"
+msgstr ""
+
+#: View/Users/lostpassword.ctp:5
+msgid " Enter your e-mail address below to reset your password. "
+msgstr ""
+
+#: View/Users/premium.ctp:6
+msgid "Become premium user"
+msgstr ""
+
+#: View/Users/profile.ctp:2
+msgid "Profile"
+msgstr ""
+
+#: View/Users/register.ctp:6
+msgid "Registration"
+msgstr ""
+
+#: View/Users/view.ctp:18
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/view.ctp:19
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/view.ctp:32
+msgid "Users Types Id"
+msgstr ""
+
+#: View/Users/view.ctp:39
+msgid "Pseudo"
+msgstr ""
+
+#: View/Users/view.ctp:74
+msgid "Create Time"
+msgstr ""
+
+#: View/Users/view.ctp:81
+msgid "Last Login"
+msgstr ""
+
+#: View/Users/view.ctp:88
+msgid "Premium To"
+msgstr ""
+
+#: Model/Asset.php:validation for field id;validation client_id
+#: Model/AssetsHasAsset.php:validation asset_id;validation asset_id1
+#: Model/AssetsHasAttribute.php:validation attribute_id
+#: Model/AssetsHasCategory.php:validation category_id
+#: Model/AssetsHasClientGroupsPrice.php:validation clients_group_id
+#: Model/AssetsQuantity.php:validation depository_id
+#: Model/Attachment.php:validation asset_id Model/Category.php:validation
+#: lft;validation rght Model/Client.php:validation id
+#: Model/ClientsGroup.php:validation Model/ClientsHasAsset.php:validation
+#: client_id;validation Model/ClientsRole.php:validation
+#: Model/Complaint.php:validation order_id;validation created_by_employee_id
+#: Model/ContactFormsMessage.php:validation user_id
+#: Model/Depository.php:validation Model/Employee.php:validation
+#: user_id;validation Model/Invoice.php:validation month;validation year
+#: Model/Note.php:validation complaint_id Model/Operator.php:validation
+#: profile_id Model/OperatorsGroup.php:validation Model/Order.php:validation
+#: created_by_employee_id;validation created_by_operator_id;validation
+#: assigned_to_operator_id Model/OrdersAsset.php:validation order_id
+#: Model/OrdersAssetsAttribute.php:validation orders_asset_id
+#: Model/OrdersStatus.php:validation Model/Payment.php:validation
+#: Model/Role.php:validation Model/Satisfaction.php:validation value
+#: Model/User.php:validation operator_id;validation role_id
+#: D:/wamp/www/brouwermataal/plugins/Cms/Model/CmsPage.php:validation
+msgid "numeric"
+msgstr ""
+
+#: Model/Asset.php:validation for field name Model/Attachment.php:validation
+#: Model/Attribute.php:validation name;validation type
+#: Model/ClientsRole.php:validation symbol Model/Complaint.php:validation
+#: description Model/Employee.php:validation surname Model/News.php:validation
+#: Model/Note.php:validation content Model/Operator.php:validation
+#: Model/OperatorsGroup.php:validation Model/OrdersAsset.php:validation
+#: Model/OrdersAssetsAttribute.php:validation attribute_name;validation
+#: attribute_value Model/PaymentMethod.php:validation Model/Role.php:validation
+msgid "notBlank"
+msgstr ""
+
+#: Model/Asset.php:validation for field local_code
+msgid "Product with given local code already exists"
+msgstr ""
+
+#: Model/Asset.php:validation for field created;validation modified
+#: Model/Client.php:validation Model/ClientsGroup.php:validation
+#: Model/Complaint.php:validation modified;validation
+#: approved_datetime;validation closed Model/ContactFormsMessage.php:validation
+#: created Model/Depository.php:validation Model/Employee.php:validation
+#: Model/Invoice.php:validation created_date;validation due_date
+#: Model/News.php:validation Model/Note.php:validation
+#: Model/Operator.php:validation Model/OperatorsGroup.php:validation
+#: Model/Order.php:validation approved_datetime Model/Payment.php:validation
+#: Model/Role.php:validation Model/Satisfaction.php:validation
+#: Model/User.php:validation
+#: D:/wamp/www/brouwermataal/plugins/Cms/Model/CmsPage.php:validation
+msgid "datetime"
+msgstr ""
+
+#: Model/AssetsHasClientGroupsPrice.php:validation for field price
+#: Model/OrdersAsset.php:validation net_price;validation quantity
+msgid "decimal"
+msgstr ""
+
+#: Model/Category.php:validation for field name Model/Client.php:validation
+#: name;validation vat_number Model/ClientsGroup.php:validation symbol
+#: Model/Depository.php:validation Model/OrdersStatus.php:validation
+msgid "This field is required."
+msgstr ""
+
+#: Model/Client.php:validation for field email Model/Employee.php:validation
+#: Model/Operator.php:validation Model/User.php:validation
+msgid "email"
+msgstr ""
+
+#: Model/Client.php:validation for field postalcode
+msgid "postal"
+msgstr ""
+
+#: Model/Client.php:validation for field vat_number
+msgid "Client with given vat number already exists"
+msgstr ""
+
+#: Model/ClientsGroup.php:validation for field symbol
+msgid "Clients group with given symbol already exists"
+msgstr ""
+
+#: Model/Complaint.php:validation for field requires_approval;validation
+#: is_approved Model/Note.php:validation private
+msgid "boolean"
+msgstr ""
+
+#: Model/ContactFormsMessage.php:validation for field message
+msgid "Please enter your message"
+msgstr ""
+
+#: Model/Invoice.php:validation for field amount Model/Payment.php:validation
+msgid "money"
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "Passwords do not match"
+msgstr ""
+
+#: D:/wamp/www/brouwermataal/plugins/Cms/Model/CmsPage.php:validation for field
+#: url
+msgid "Page with given URL already exists"
+msgstr ""
+
+#: D:/wamp/www/brouwermataal/plugins/Cms/Model/CmsPage.php:validation for field
+#: title
+msgid "notEmpty"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field locale
+msgid "Please enter a Locale"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field model
+msgid "Please enter a Model"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field foreign_key
+msgid "Please enter a Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field
+msgid "Please enter a Field"
+msgstr ""
+
+#~ msgid "The asset has been removed from basket."
+#~ msgstr "The product has been removed from basket."

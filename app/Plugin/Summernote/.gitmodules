@@ -1,0 +1,3 @@
+[submodule "webroot/summernote-master"]
+	path = webroot/summernote-master
+	url = https://github.com/summernote/summernote.git

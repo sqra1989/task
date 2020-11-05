@@ -1,0 +1,9 @@
+
+
+
+
+1.0.1
+    -Added hidden required textarea fix
+
+1.0.0
+    -First release

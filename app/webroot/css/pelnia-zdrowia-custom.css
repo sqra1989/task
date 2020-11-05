@@ -1,0 +1,59 @@
+body {
+    background-color: #242424;
+}
+
+.page-sidebar, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover {
+    background-color: #242424;
+}
+
+.page-sidebar .page-sidebar-menu>li.open>a, .page-sidebar .page-sidebar-menu>li:hover>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.open>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li:hover>a {
+    background-color: #2e2e2e;
+}
+
+.page-sidebar .page-sidebar-menu>li>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a {
+    border-top: 1px solid #5e5e5e;
+}
+
+.page-sidebar .page-sidebar-menu>li>a>i[class*=icon-], .page-sidebar .page-sidebar-menu>li>a>i[class^=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>i[class*=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>i[class^=icon-] {
+    color: #5e5e5e;
+}
+
+.page-sidebar-menu-hover-submenu li:hover>.sub-menu {
+    background-color: #242424 !important;
+}
+
+.page-sidebar .page-sidebar-menu .sub-menu>li.active>a, .page-sidebar .page-sidebar-menu .sub-menu>li.open>a, .page-sidebar .page-sidebar-menu .sub-menu>li:hover>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li.active>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li.open>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li:hover>a {
+    background-color: #2e2e2e !important;
+}
+
+.page-sidebar .page-sidebar-menu .sub-menu>li>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li>a,
+.page-sidebar .page-sidebar-menu>li>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a,
+.page-sidebar .page-sidebar-menu .sub-menu>li>a>i[class*=icon-], .page-sidebar .page-sidebar-menu .sub-menu>li>a>i[class^=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li>a>i[class*=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu>li>a>i[class^=icon-] {
+    color: #a5a5a5;
+}
+
+.page-sidebar-menu-hover-submenu li:hover a>.arrow {
+    border-right: 8px solid #eeeeee;
+}
+
+.page-header.navbar .page-logo {
+    background-color: #80D80A;
+}
+
+.portlet.box.green>.portlet-title, .portlet.green, .portlet>.portlet-body.green {
+    background-color: #80D80A;
+}
+
+.portlet.box.green {
+    border: 1px solid #80D80A;
+}
+
+.btn.green:not(.btn-outline).active, .btn.green:not(.btn-outline):active, .btn.green:not(.btn-outline):hover, .open>.btn.green:not(.btn-outline).dropdown-toggle {
+    background-color: #80D80A;
+    border-color: #80D80A;
+}
+
+.btn.green:not(.btn-outline) {
+    background-color: #71bd0a;
+    border-color: #71bd0a;
+}

@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src:  url('../fonts/Poppins-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src:  url('../fonts/Poppins-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src:  url('../fonts/Poppins-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src:  url('../fonts/Poppins-ExtraBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    src:  url('../fonts/Poppins-Black.woff') format('woff');
+}
+.std-rte .btn.btn-info{
+    padding: 16px 40px;
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1.5px;
+    border:none;
+    color:#082f6e;
+    background: transparent;
+    border:2px solid #59c5ec;
+    transition: all 0.3s;
+    border-radius: 34px!important;
+}
+.std-rte .btn.btn-default:not(.note-btn){
+    padding: 20px 40px;
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1.5px;
+    border:none;
+    color:#fff;
+    background: #082f6e;
+    transition: all 0.3s;
+    border-radius: 34px!important;
+}
+.std-rte ol li,
+.std-rte ul li,
+.std-rte h6,
+.std-rte p{
+    color: #08306e;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 0 25px 0;
+    font-weight: 400;
+}
+.std-rte h6{
+    font-weight: 700;
+}
+.std-rte h1{
+    font-size: 50px;
+    line-height: 68px;
+    margin: 0 0 45px 0;
+   font-family: 'Poppins';
+   font-weight: 800;
+    text-transform: uppercase;
+    color:#08306e;
+    line-height: 100px;
+}
+.std-rte h2,.std-rte h3{
+    font-size: 40px;
+    margin: 0 0 45px 0;
+    color:#082f6e;
+    font-weight: 700;
+    line-height: 56px;
+}
+.std-rte a{
+    color:#e6004d;
+    transition: all 0.4s;
+}
+.std-rte a:hover{
+    color: #00675e;
+}
+.std-rte h4{
+    font-size: 30px;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    color:#082f6e;
+    line-height: 40px;
+}
+.std-rte h5{
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    color:#082f6e;
+    line-height: 26px;
+}
+.std-rte .row{
+    padding: 0 30px;
+}
+.std-rte .row>div{
+    border:1px solid #ddd;
+}
