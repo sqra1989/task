@@ -7,7 +7,7 @@ INSTALLATION:
 
 LOGIN DETAILS:
 admin user
-user: demo1234@exmaple.com
+user: demo1234@example.com
 pass: demo1234
 
 TASK:
